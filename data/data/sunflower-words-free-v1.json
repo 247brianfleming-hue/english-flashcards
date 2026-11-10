@@ -1,0 +1,5994 @@
+[
+ {
+  "n": 1,
+  "word": "accept",
+  "ua": "прийняти",
+  "meaning_en": "to agree to receive or allow something",
+  "example_en": "I accept your apology.",
+  "uk": "Я приймаю твої вибачення."
+ },
+ {
+  "n": 2,
+  "word": "across",
+  "ua": "через, поперек",
+  "meaning_en": "from one side to the other",
+  "example_en": "She walked across the street.",
+  "uk": "Вона перейшла через вулицю."
+ },
+ {
+  "n": 3,
+  "word": "afraid",
+  "ua": "наляканий, боїться",
+  "meaning_en": "feeling fear",
+  "example_en": "He's afraid of the dark.",
+  "uk": "Він боїться темряви."
+ },
+ {
+  "n": 4,
+  "word": "again",
+  "ua": "знову",
+  "meaning_en": "one more time",
+  "example_en": "Can you say that again?",
+  "uk": "Можеш повторити це ще раз?"
+ },
+ {
+  "n": 5,
+  "word": "agree",
+  "ua": "погоджуватися",
+  "meaning_en": "to have the same opinion as someone",
+  "example_en": "I agree with you.",
+  "uk": "Я з тобою згоден."
+ },
+ {
+  "n": 6,
+  "word": "ago",
+  "ua": "тому",
+  "meaning_en": "before now, in the past",
+  "example_en": "We met two years ago.",
+  "uk": "Ми зустрілися два роки тому."
+ },
+ {
+  "n": 7,
+  "word": "always",
+  "ua": "завжди",
+  "meaning_en": "at every time, without exception",
+  "example_en": "She's always on time.",
+  "uk": "Вона завжди вчасно."
+ },
+ {
+  "n": 8,
+  "word": "arrive",
+  "ua": "прибувати",
+  "meaning_en": "to reach a place",
+  "example_en": "The bus will arrive at 6.",
+  "uk": "Автобус прибуде о шостій."
+ },
+ {
+  "n": 9,
+  "word": "ask",
+  "ua": "питати",
+  "meaning_en": "to question, or to request something",
+  "example_en": "Can I ask you a question?",
+  "uk": "Можна я тебе дещо запитаю?"
+ },
+ {
+  "n": 10,
+  "word": "away",
+  "ua": "далеко, у від'їзді",
+  "meaning_en": "not near, at a distance",
+  "example_en": "He's away on a trip this week.",
+  "uk": "Він у від'їзді цього тижня."
+ },
+ {
+  "n": 11,
+  "word": "believe",
+  "ua": "вірити",
+  "meaning_en": "to think something is true",
+  "example_en": "I believe you.",
+  "uk": "Я тобі вірю."
+ },
+ {
+  "n": 12,
+  "word": "belong",
+  "ua": "належати",
+  "meaning_en": "to be part of, or owned by",
+  "example_en": "This book belongs to me.",
+  "uk": "Ця книжка належить мені."
+ },
+ {
+  "n": 13,
+  "word": "between",
+  "ua": "між",
+  "meaning_en": "in the space that separates two things",
+  "example_en": "Sit between us.",
+  "uk": "Сідай між нами."
+ },
+ {
+  "n": 14,
+  "word": "bright",
+  "ua": "яскравий",
+  "meaning_en": "full of light, or clear",
+  "example_en": "It's a bright, sunny day.",
+  "uk": "Сьогодні яскравий, сонячний день."
+ },
+ {
+  "n": 15,
+  "word": "bring",
+  "ua": "приносити",
+  "meaning_en": "to carry something with you to a place",
+  "example_en": "Bring your jacket.",
+  "uk": "Візьми з собою куртку."
+ },
+ {
+  "n": 16,
+  "word": "busy",
+  "ua": "зайнятий",
+  "meaning_en": "doing something, not free",
+  "example_en": "I'm busy this afternoon.",
+  "uk": "Я сьогодні зайнятий після обіду."
+ },
+ {
+  "n": 17,
+  "word": "borrow",
+  "ua": "позичати",
+  "meaning_en": "to use something and give it back later",
+  "example_en": "Can I borrow a pen?",
+  "uk": "Можна позичити ручку?"
+ },
+ {
+  "n": 18,
+  "word": "brave",
+  "ua": "хоробрий, сміливий",
+  "meaning_en": "having no fear",
+  "example_en": "It was brave of her to speak up.",
+  "uk": "Було сміливо з її боку заговорити."
+ },
+ {
+  "n": 19,
+  "word": "break",
+  "ua": "ламати, зламатися",
+  "meaning_en": "to divide by force, or to stop working",
+  "example_en": "The phone screen broke.",
+  "uk": "Екран телефону розбився."
+ },
+ {
+  "n": 20,
+  "word": "bright idea",
+  "ua": "блискуча ідея",
+  "meaning_en": "(expression) a clever idea",
+  "example_en": "That's a bright idea!",
+  "uk": "Гарна ідея!"
+ },
+ {
+  "n": 21,
+  "word": "calm",
+  "ua": "спокійний",
+  "meaning_en": "quiet and peaceful",
+  "example_en": "Stay calm, everything is fine.",
+  "uk": "Залишайся спокійним, все добре."
+ },
+ {
+  "n": 22,
+  "word": "care",
+  "ua": "піклуватися",
+  "meaning_en": "to like, protect, or worry about someone",
+  "example_en": "I care about you.",
+  "uk": "Мені не байдуже до тебе."
+ },
+ {
+  "n": 23,
+  "word": "careful",
+  "ua": "обережний",
+  "meaning_en": "acting safely, with thought",
+  "example_en": "Be careful on the stairs.",
+  "uk": "Будь обережний на сходах."
+ },
+ {
+  "n": 24,
+  "word": "carry",
+  "ua": "нести",
+  "meaning_en": "to take something from one place to another",
+  "example_en": "Can you carry this bag?",
+  "uk": "Можеш понести цю сумку?"
+ },
+ {
+  "n": 25,
+  "word": "catch",
+  "ua": "ловити",
+  "meaning_en": "to seize or stop something moving",
+  "example_en": "Catch the ball!",
+  "uk": "Лови м'яч!"
+ },
+ {
+  "n": 26,
+  "word": "celebrate",
+  "ua": "святкувати",
+  "meaning_en": "to mark an event with special activities",
+  "example_en": "We celebrated her birthday.",
+  "uk": "Ми святкували її день народження."
+ },
+ {
+  "n": 27,
+  "word": "change",
+  "ua": "змінювати",
+  "meaning_en": "to make different, or become different",
+  "example_en": "Plans changed at the last minute.",
+  "uk": "Плани змінилися в останню хвилину."
+ },
+ {
+  "n": 28,
+  "word": "choose",
+  "ua": "вибирати",
+  "meaning_en": "to decide between two or more things",
+  "example_en": "Choose the one you like best.",
+  "uk": "Вибери той, що тобі найбільше подобається."
+ },
+ {
+  "n": 29,
+  "word": "clear",
+  "ua": "зрозумілий, чистий",
+  "meaning_en": "easy to understand, or free of clouds",
+  "example_en": "Your message was very clear.",
+  "uk": "Твоє повідомлення було дуже зрозумілим."
+ },
+ {
+  "n": 30,
+  "word": "close (v.)",
+  "ua": "зачиняти",
+  "meaning_en": "to shut, or to end something",
+  "example_en": "Please close the door.",
+  "uk": "Будь ласка, зачини двері."
+ },
+ {
+  "n": 31,
+  "word": "comfortable",
+  "ua": "зручний",
+  "meaning_en": "feeling relaxed, no pain or worry",
+  "example_en": "This chair is comfortable.",
+  "uk": "Це крісло зручне."
+ },
+ {
+  "n": 32,
+  "word": "compare",
+  "ua": "порівнювати",
+  "meaning_en": "to look at how two things are alike or different",
+  "example_en": "Compare the two options.",
+  "uk": "Порівняй два варіанти."
+ },
+ {
+  "n": 33,
+  "word": "complain",
+  "ua": "скаржитися",
+  "meaning_en": "to say you are unhappy about something",
+  "example_en": "He complained about the food.",
+  "uk": "Він скаржився на їжу."
+ },
+ {
+  "n": 34,
+  "word": "complete",
+  "ua": "завершений",
+  "meaning_en": "finished, with nothing missing",
+  "example_en": "The project is complete.",
+  "uk": "Проєкт завершено."
+ },
+ {
+  "n": 35,
+  "word": "confuse",
+  "ua": "збивати з пантелику",
+  "meaning_en": "to make something hard to understand",
+  "example_en": "The instructions confused me.",
+  "uk": "Інструкції мене заплутали."
+ },
+ {
+  "n": 36,
+  "word": "connect",
+  "ua": "з'єднувати",
+  "meaning_en": "to join two things together",
+  "example_en": "This bridge connects the two cities.",
+  "uk": "Цей міст з'єднує два міста."
+ },
+ {
+  "n": 37,
+  "word": "continue",
+  "ua": "продовжувати",
+  "meaning_en": "to keep doing something without stopping",
+  "example_en": "Let's continue tomorrow.",
+  "uk": "Продовжімо завтра."
+ },
+ {
+  "n": 38,
+  "word": "control",
+  "ua": "контролювати",
+  "meaning_en": "to have power over something",
+  "example_en": "She's in control of the project.",
+  "uk": "Вона керує проєктом."
+ },
+ {
+  "n": 39,
+  "word": "count",
+  "ua": "рахувати; мати значення",
+  "meaning_en": "to say numbers in order, or to matter",
+  "example_en": "Count to ten.\" / \"Every vote counts.",
+  "uk": "Порахуй до десяти. Кожен голос має значення."
+ },
+ {
+  "n": 40,
+  "word": "courage",
+  "ua": "мужність",
+  "meaning_en": "the ability to do something even when afraid",
+  "example_en": "It took courage to leave.",
+  "uk": "Щоб піти, знадобилася мужність."
+ },
+ {
+  "n": 41,
+  "word": "decide",
+  "ua": "вирішувати",
+  "meaning_en": "to make a choice",
+  "example_en": "I decided to stay home.",
+  "uk": "Я вирішив залишитися вдома."
+ },
+ {
+  "n": 42,
+  "word": "deep",
+  "ua": "глибокий",
+  "meaning_en": "going far down, or hard to understand",
+  "example_en": "The lake is very deep.",
+  "uk": "Озеро дуже глибоке."
+ },
+ {
+  "n": 43,
+  "word": "depend",
+  "ua": "залежати",
+  "meaning_en": "to need something or someone, or to rely on",
+  "example_en": "It depends on the weather.",
+  "uk": "Все залежить від погоди."
+ },
+ {
+  "n": 44,
+  "word": "describe",
+  "ua": "описувати",
+  "meaning_en": "to say what something is like",
+  "example_en": "Describe your hometown to me.",
+  "uk": "Опиши мені своє рідне місто."
+ },
+ {
+  "n": 45,
+  "word": "different",
+  "ua": "інший, різний",
+  "meaning_en": "not the same",
+  "example_en": "Our cultures are different, and that's okay.",
+  "uk": "Наші культури різні, і це нормально."
+ },
+ {
+  "n": 46,
+  "word": "difficult",
+  "ua": "важкий",
+  "meaning_en": "hard to do or understand",
+  "example_en": "This exercise is difficult.",
+  "uk": "Ця вправа важка."
+ },
+ {
+  "n": 47,
+  "word": "discover",
+  "ua": "відкривати",
+  "meaning_en": "to find something for the first time",
+  "example_en": "I discovered a new café.",
+  "uk": "Я знайшов нову кав'ярню."
+ },
+ {
+  "n": 48,
+  "word": "distance",
+  "ua": "відстань",
+  "meaning_en": "the space between two places",
+  "example_en": "What's the distance between our cities?",
+  "uk": "Яка відстань між нашими містами?"
+ },
+ {
+  "n": 49,
+  "word": "dream",
+  "ua": "мрія",
+  "meaning_en": "pictures/ideas in your mind while asleep, or a hope for the future",
+  "example_en": "That's my dream vacation.",
+  "uk": "Це моя мрія — відпустка."
+ },
+ {
+  "n": 50,
+  "word": "during",
+  "ua": "під час",
+  "meaning_en": "while something else is happening",
+  "example_en": "She called me during dinner.",
+  "uk": "Вона подзвонила мені під час вечері."
+ },
+ {
+  "n": 51,
+  "word": "early",
+  "ua": "рано",
+  "meaning_en": "before the usual or expected time",
+  "example_en": "I woke up early today.",
+  "uk": "Сьогодні я прокинувся рано."
+ },
+ {
+  "n": 52,
+  "word": "easy",
+  "ua": "легкий",
+  "meaning_en": "not difficult",
+  "example_en": "That was an easy question.",
+  "uk": "Це було легке питання."
+ },
+ {
+  "n": 53,
+  "word": "enjoy",
+  "ua": "насолоджуватися",
+  "meaning_en": "to get pleasure from something",
+  "example_en": "I enjoy talking with you.",
+  "uk": "Мені подобається з тобою розмовляти."
+ },
+ {
+  "n": 54,
+  "word": "enough",
+  "ua": "достатньо",
+  "meaning_en": "as much as needed",
+  "example_en": "Is this enough food for everyone?",
+  "uk": "Цього вистачить на всіх?"
+ },
+ {
+  "n": 55,
+  "word": "excited",
+  "ua": "схвильований",
+  "meaning_en": "feeling happy and full of energy about something",
+  "example_en": "I'm excited for the trip.",
+  "uk": "Я схвильований через поїздку."
+ },
+ {
+  "n": 56,
+  "word": "expect",
+  "ua": "очікувати",
+  "meaning_en": "to think something will happen",
+  "example_en": "I expect it to rain tomorrow.",
+  "uk": "Я очікую, що завтра буде дощ."
+ },
+ {
+  "n": 57,
+  "word": "explain",
+  "ua": "пояснювати",
+  "meaning_en": "to make something clear",
+  "example_en": "Can you explain that again?",
+  "uk": "Можеш пояснити ще раз?"
+ },
+ {
+  "n": 58,
+  "word": "eye contact",
+  "ua": "зоровий контакт",
+  "meaning_en": "(expression) looking directly at someone while talking",
+  "example_en": "Good eye contact shows confidence.",
+  "uk": "Зоровий контакт показує впевненість."
+ },
+ {
+  "n": 59,
+  "word": "familiar",
+  "ua": "знайомий",
+  "meaning_en": "well known to you",
+  "example_en": "This song sounds familiar.",
+  "uk": "Ця пісня звучить знайомо."
+ },
+ {
+  "n": 60,
+  "word": "far",
+  "ua": "далеко",
+  "meaning_en": "a long distance away",
+  "example_en": "How far is it from here?",
+  "uk": "Як далеко звідси?"
+ },
+ {
+  "n": 61,
+  "word": "compromise",
+  "ua": "компроміс",
+  "meaning_en": "an agreement where each side accepts less than they first wanted",
+  "example_en": "We reached a compromise about where to spend the holidays.",
+  "uk": "Ми дійшли компромісу щодо того, де святкувати свята."
+ },
+ {
+  "n": 62,
+  "word": "concern",
+  "ua": "турбота, хвилювання",
+  "meaning_en": "worry, or interest in something",
+  "example_en": "Your health is my biggest concern.",
+  "uk": "Твоє здоров'я — моя найбільша турбота."
+ },
+ {
+  "n": 63,
+  "word": "confirm",
+  "ua": "підтверджувати",
+  "meaning_en": "to say for certain that something is true",
+  "example_en": "Can you confirm the time of the call?",
+  "uk": "Можеш підтвердити час дзвінка?"
+ },
+ {
+  "n": 64,
+  "word": "congratulate",
+  "ua": "вітати",
+  "meaning_en": "to praise someone for a success",
+  "example_en": "I want to congratulate you on the new job.",
+  "uk": "Хочу привітати тебе з новою роботою."
+ },
+ {
+  "n": 65,
+  "word": "consider",
+  "ua": "розглядати",
+  "meaning_en": "to think carefully about something",
+  "example_en": "I'm considering moving next year.",
+  "uk": "Я думаю про переїзд наступного року."
+ },
+ {
+  "n": 66,
+  "word": "cooperate",
+  "ua": "співпрацювати",
+  "meaning_en": "to work together toward the same goal",
+  "example_en": "We cooperated to finish the project early.",
+  "uk": "Ми співпрацювали, щоб закінчити проєкт раніше."
+ },
+ {
+  "n": 67,
+  "word": "criticize",
+  "ua": "критикувати",
+  "meaning_en": "to say what's wrong with something",
+  "example_en": "He criticized the plan without offering a better one.",
+  "uk": "Він розкритикував план, але не запропонував кращого."
+ },
+ {
+  "n": 68,
+  "word": "crisis",
+  "ua": "криза",
+  "meaning_en": "an extremely important, difficult moment",
+  "example_en": "Her family went through a real crisis last year.",
+  "uk": "Її родина пережила справжню кризу минулого року."
+ },
+ {
+  "n": 69,
+  "word": "current",
+  "ua": "поточний",
+  "meaning_en": "belonging to the present time",
+  "example_en": "What's your current situation with work?",
+  "uk": "Яка в тебе зараз ситуація з роботою?"
+ },
+ {
+  "n": 70,
+  "word": "custom",
+  "ua": "звичай",
+  "meaning_en": "a long-established habit or tradition",
+  "example_en": "It's a custom in my family to eat together on Sundays.",
+  "uk": "У моїй родині звичай — їсти разом по неділях."
+ },
+ {
+  "n": 71,
+  "word": "damage",
+  "ua": "пошкодження",
+  "meaning_en": "harm or injury caused to something",
+  "example_en": "The storm damaged the roof.",
+  "uk": "Буря пошкодила дах."
+ },
+ {
+  "n": 72,
+  "word": "danger",
+  "ua": "небезпека",
+  "meaning_en": "a strong chance of suffering harm",
+  "example_en": "There's no danger, don't worry.",
+  "uk": "Небезпеки немає, не хвилюйся."
+ },
+ {
+  "n": 73,
+  "word": "deal (with)",
+  "ua": "справлятися",
+  "meaning_en": "to handle or manage something",
+  "example_en": "I had to deal with a difficult situation at work.",
+  "uk": "Мені довелося впоратися з важкою ситуацією на роботі."
+ },
+ {
+  "n": 74,
+  "word": "debate",
+  "ua": "сперечатися",
+  "meaning_en": "to argue for or against something",
+  "example_en": "We debated where to go for dinner.",
+  "uk": "Ми сперечалися, куди піти на вечерю."
+ },
+ {
+  "n": 75,
+  "word": "defend",
+  "ua": "захищати",
+  "meaning_en": "to protect or support against attack or criticism",
+  "example_en": "She defended her decision to her parents.",
+  "uk": "Вона відстояла своє рішення перед батьками."
+ },
+ {
+  "n": 76,
+  "word": "demand",
+  "ua": "вимагати",
+  "meaning_en": "to ask for something firmly",
+  "example_en": "The job demands a lot of my time right now.",
+  "uk": "Робота зараз вимагає багато мого часу."
+ },
+ {
+  "n": 77,
+  "word": "deny",
+  "ua": "заперечувати",
+  "meaning_en": "to say that something is not true",
+  "example_en": "He denied being upset.",
+  "uk": "Він заперечував, що засмутився."
+ },
+ {
+  "n": 78,
+  "word": "desire",
+  "ua": "бажання",
+  "meaning_en": "to want something very much",
+  "example_en": "It's always been my desire to travel more.",
+  "uk": "Я давно хочу більше подорожувати."
+ },
+ {
+  "n": 79,
+  "word": "destroy",
+  "ua": "руйнувати",
+  "meaning_en": "to ruin something completely",
+  "example_en": "Doubt can destroy trust if you let it.",
+  "uk": "Сумнів може зруйнувати довіру, якщо це дозволити."
+ },
+ {
+  "n": 80,
+  "word": "develop",
+  "ua": "розвиватися",
+  "meaning_en": "to grow or change gradually",
+  "example_en": "Our friendship developed slowly, over many letters.",
+  "uk": "Наша дружба розвивалася повільно, через багато листів."
+ },
+ {
+  "n": 81,
+  "word": "disappear",
+  "ua": "зникати",
+  "meaning_en": "to stop being seen; to vanish",
+  "example_en": "My worries disappeared after we talked.",
+  "uk": "Мої хвилювання зникли після нашої розмови."
+ },
+ {
+  "n": 82,
+  "word": "discuss",
+  "ua": "обговорювати",
+  "meaning_en": "to talk about something",
+  "example_en": "Let's discuss our plans for next month.",
+  "uk": "Давай обговоримо наші плани на наступний місяць."
+ },
+ {
+  "n": 83,
+  "word": "dispute",
+  "ua": "суперечка",
+  "meaning_en": "a disagreement or argument",
+  "example_en": "They had a small dispute about money.",
+  "uk": "У них була невелика суперечка про гроші."
+ },
+ {
+  "n": 84,
+  "word": "divide",
+  "ua": "розділяти",
+  "meaning_en": "to separate into parts",
+  "example_en": "Distance divided us for a while, but not our feelings.",
+  "uk": "Відстань на деякий час розділила нас, але не почуття."
+ },
+ {
+  "n": 85,
+  "word": "donate",
+  "ua": "жертвувати",
+  "meaning_en": "to give something as a gift, without payment",
+  "example_en": "She donates her old clothes every year.",
+  "uk": "Вона щороку віддає свій старий одяг."
+ },
+ {
+  "n": 86,
+  "word": "effort",
+  "ua": "зусилля",
+  "meaning_en": "an attempt; work needed to do something",
+  "example_en": "I can see the effort you put into that letter.",
+  "uk": "Я бачу, скільки зусиль ти доклала до того листа."
+ },
+ {
+  "n": 87,
+  "word": "emotion",
+  "ua": "емоція",
+  "meaning_en": "a strong feeling, like love, fear or joy",
+  "example_en": "Reading your letter brought up a lot of emotion.",
+  "uk": "Твій лист викликав багато емоцій."
+ },
+ {
+  "n": 88,
+  "word": "employ",
+  "ua": "наймати",
+  "meaning_en": "to give someone paid work",
+  "example_en": "The company employs about 200 people.",
+  "uk": "Компанія наймає близько 200 людей."
+ },
+ {
+  "n": 89,
+  "word": "energy",
+  "ua": "енергія",
+  "meaning_en": "the strength and enthusiasm to do things",
+  "example_en": "You have such positive energy in your letters.",
+  "uk": "У твоїх листах така позитивна енергія."
+ },
+ {
+  "n": 90,
+  "word": "equal",
+  "ua": "рівний",
+  "meaning_en": "the same in amount, size or value",
+  "example_en": "We should be equal partners in this.",
+  "uk": "Ми маємо бути рівними партнерами в цьому."
+ },
+ {
+  "n": 91,
+  "word": "escape",
+  "ua": "вирватися",
+  "meaning_en": "to get free from something",
+  "example_en": "It's nice to escape the noise of the city sometimes.",
+  "uk": "Іноді приємно втекти від міського шуму."
+ },
+ {
+  "n": 92,
+  "word": "establish",
+  "ua": "створювати",
+  "meaning_en": "to set up or create something lasting",
+  "example_en": "It takes time to establish real trust.",
+  "uk": "Потрібен час, щоб створити справжню довіру."
+ },
+ {
+  "n": 93,
+  "word": "evidence",
+  "ua": "доказ",
+  "meaning_en": "facts that prove something is true",
+  "example_en": "Your actions are evidence of how much you care.",
+  "uk": "Твої вчинки — доказ того, як сильно ти піклуєшся."
+ },
+ {
+  "n": 94,
+  "word": "example",
+  "ua": "приклад",
+  "meaning_en": "something that shows what the rest is like",
+  "example_en": "Give me an example of what you mean.",
+  "uk": "Наведи приклад, що ти маєш на увазі."
+ },
+ {
+  "n": 95,
+  "word": "excellent",
+  "ua": "відмінний",
+  "meaning_en": "extremely good",
+  "example_en": "Your English is excellent already.",
+  "uk": "Твоя англійська вже відмінна."
+ },
+ {
+  "n": 96,
+  "word": "exchange",
+  "ua": "обмінюватися",
+  "meaning_en": "to trade one thing for another",
+  "example_en": "We've exchanged a lot of letters this year.",
+  "uk": "Ми багато листувалися цього року."
+ },
+ {
+  "n": 97,
+  "word": "excuse",
+  "ua": "виправдання",
+  "meaning_en": "a reason given for an action, sometimes not the real one",
+  "example_en": "No excuses — just tell me the truth.",
+  "uk": "Жодних виправдань — просто скажи мені правду."
+ },
+ {
+  "n": 98,
+  "word": "exist",
+  "ua": "існувати",
+  "meaning_en": "to be real, to live",
+  "example_en": "I didn't think this kind of connection could exist online.",
+  "uk": "Не думав, що такий зв'язок може існувати в інтернеті."
+ },
+ {
+  "n": 99,
+  "word": "expand",
+  "ua": "розширюватися",
+  "meaning_en": "to grow larger",
+  "example_en": "I'd like our conversations to expand beyond writing, to a call.",
+  "uk": "Хочу, щоб наше спілкування вийшло за межі листів — до дзвінка."
+ },
+ {
+  "n": 100,
+  "word": "experience",
+  "ua": "досвід",
+  "meaning_en": "something you've lived through, or the knowledge gained from it",
+  "example_en": "That trip to Portugal must have been quite an experience.",
+  "uk": "Та поїздка до Португалії, мабуть, була чудовим досвідом."
+ },
+ {
+  "n": 101,
+  "word": "expert",
+  "ua": "експерт",
+  "meaning_en": "someone with special knowledge or skill",
+  "example_en": "You're becoming an expert at English!",
+  "uk": "Ти стаєш експертом в англійській!"
+ },
+ {
+  "n": 102,
+  "word": "explore",
+  "ua": "досліджувати",
+  "meaning_en": "to travel somewhere new, or to examine something closely",
+  "example_en": "I'd love to explore Porto through your eyes.",
+  "uk": "Я б хотів дослідити Порту твоїми очима."
+ },
+ {
+  "n": 103,
+  "word": "express",
+  "ua": "висловлювати",
+  "meaning_en": "to say clearly what you think or feel",
+  "example_en": "It's hard to express everything in a letter.",
+  "uk": "Важко висловити все в листі."
+ },
+ {
+  "n": 104,
+  "word": "extreme",
+  "ua": "крайній",
+  "meaning_en": "far beyond the usual",
+  "example_en": "No need for extreme measures, just be honest with me.",
+  "uk": "Не треба крайніх заходів, просто будь чесною зі мною."
+ },
+ {
+  "n": 105,
+  "word": "face (v.)",
+  "ua": "зустрічати",
+  "meaning_en": "to deal with something directly",
+  "example_en": "We all have to face hard moments sometimes.",
+  "uk": "Нам усім іноді доводиться зустрічати важкі моменти."
+ },
+ {
+  "n": 106,
+  "word": "fair",
+  "ua": "справедливий",
+  "meaning_en": "honest and just",
+  "example_en": "That's a fair point.",
+  "uk": "Це справедлива думка."
+ },
+ {
+  "n": 107,
+  "word": "fall (for someone)",
+  "ua": "закохуватися",
+  "meaning_en": "(expression) to begin to have strong feelings for someone",
+  "example_en": "I think I'm starting to fall for you.",
+  "uk": "Здається, я починаю в тебе закохуватися."
+ },
+ {
+  "n": 108,
+  "word": "fascinate",
+  "ua": "захоплювати",
+  "meaning_en": "to interest someone very strongly",
+  "example_en": "The story about your grandmother fascinated me.",
+  "uk": "Історія про твою бабусю мене захопила."
+ },
+ {
+  "n": 109,
+  "word": "gather",
+  "ua": "збиратися",
+  "meaning_en": "to bring together or come together in one place",
+  "example_en": "Let's gather everyone for dinner.",
+  "uk": "Давай зберемо всіх на вечерю."
+ },
+ {
+  "n": 110,
+  "word": "generation",
+  "ua": "покоління",
+  "meaning_en": "people born and living around the same time",
+  "example_en": "There's a generation between us, but it doesn't feel that way.",
+  "uk": "Між нами є покоління, але відчуття таке, ніби його немає."
+ },
+ {
+  "n": 111,
+  "word": "gentle",
+  "ua": "ніжний",
+  "meaning_en": "soft, kind, not rough or violent",
+  "example_en": "He has a gentle way of explaining things.",
+  "uk": "У нього ніжний спосіб пояснювати речі."
+ },
+ {
+  "n": 112,
+  "word": "goal",
+  "ua": "мета",
+  "meaning_en": "something you're aiming for; a purpose",
+  "example_en": "My goal is to visit Brazil someday.",
+  "uk": "Моя мета — колись відвідати Бразилію."
+ },
+ {
+  "n": 113,
+  "word": "guarantee",
+  "ua": "гарантувати",
+  "meaning_en": "to promise something will happen",
+  "example_en": "I can't guarantee the weather, but I'll guarantee I'll be there.",
+  "uk": "Не можу гарантувати погоду, але гарантую, що буду там."
+ },
+ {
+  "n": 114,
+  "word": "guide",
+  "ua": "вести",
+  "meaning_en": "to lead or show the way",
+  "example_en": "She guided me through the whole process.",
+  "uk": "Вона провела мене через весь процес."
+ },
+ {
+  "n": 115,
+  "word": "guilty",
+  "ua": "винний",
+  "meaning_en": "feeling responsible for doing something wrong",
+  "example_en": "I felt guilty for not writing sooner.",
+  "uk": "Я відчував себе винним, що не написав раніше."
+ },
+ {
+  "n": 116,
+  "word": "harm",
+  "ua": "шкода",
+  "meaning_en": "injury or damage",
+  "example_en": "I would never want to harm you.",
+  "uk": "Я ніколи не хотів би заподіяти тобі шкоди."
+ },
+ {
+  "n": 117,
+  "word": "harvest",
+  "ua": "збирати врожай",
+  "meaning_en": "to gather crops when they're ready",
+  "example_en": "Autumn is harvest season here.",
+  "uk": "Осінь тут — сезон збирання врожаю."
+ },
+ {
+  "n": 118,
+  "word": "heal",
+  "ua": "зціляти",
+  "meaning_en": "to become well again, or to help something become well",
+  "example_en": "Some things take time to heal.",
+  "uk": "Деякі речі потребують часу, щоб загоїтися."
+ },
+ {
+  "n": 119,
+  "word": "honest",
+  "ua": "чесний",
+  "meaning_en": "truthful, able to be trusted",
+  "example_en": "I want to always be honest with you.",
+  "uk": "Я хочу завжди бути з тобою чесним."
+ },
+ {
+  "n": 120,
+  "word": "honor",
+  "ua": "шанувати",
+  "meaning_en": "to show great respect for someone",
+  "example_en": "I honor the trust you've put in me.",
+  "uk": "Я шаную довіру, яку ти мені надала."
+ },
+ {
+  "n": 121,
+  "word": "hope",
+  "ua": "сподіватися",
+  "meaning_en": "to want something to happen and believe it might",
+  "example_en": "I hope we get to meet in person one day.",
+  "uk": "Сподіваюся, одного дня ми зустрінемося особисто."
+ },
+ {
+  "n": 122,
+  "word": "humor",
+  "ua": "гумор",
+  "meaning_en": "the ability to see or express what's funny",
+  "example_en": "Your humor comes through even in writing.",
+  "uk": "Твій гумор проявляється навіть у листах."
+ },
+ {
+  "n": 123,
+  "word": "hunger",
+  "ua": "сильне бажання",
+  "meaning_en": "a strong need or desire, or need for food",
+  "example_en": "There's a hunger in me to know you better.",
+  "uk": "У мені є сильне бажання краще тебе пізнати."
+ },
+ {
+  "n": 124,
+  "word": "hurry",
+  "ua": "поспішати",
+  "meaning_en": "to do something quickly",
+  "example_en": "No need to hurry your reply.",
+  "uk": "Не треба поспішати з відповіддю."
+ },
+ {
+  "n": 125,
+  "word": "hurt",
+  "ua": "боляче, шкодити",
+  "meaning_en": "to cause pain, physical or emotional",
+  "example_en": "I never want to hurt you.",
+  "uk": "Я ніколи не хочу тебе ранити."
+ },
+ {
+  "n": 126,
+  "word": "idea",
+  "ua": "ідея",
+  "meaning_en": "a thought or plan in the mind",
+  "example_en": "I have an idea for our next video call.",
+  "uk": "У мене є ідея для нашого наступного відеодзвінка."
+ },
+ {
+  "n": 127,
+  "word": "identify",
+  "ua": "визначати",
+  "meaning_en": "to recognize or name what something is",
+  "example_en": "It took me a while to identify what I was feeling.",
+  "uk": "Мені знадобився час, щоб зрозуміти, що я відчуваю."
+ },
+ {
+  "n": 128,
+  "word": "ignore",
+  "ua": "ігнорувати",
+  "meaning_en": "to pay no attention to something on purpose",
+  "example_en": "I can't ignore how I feel about you.",
+  "uk": "Я не можу ігнорувати те, що відчуваю до тебе."
+ },
+ {
+  "n": 129,
+  "word": "imagine",
+  "ua": "уявляти",
+  "meaning_en": "to form a picture or idea in your mind",
+  "example_en": "I imagine what it would be like to visit Porto.",
+  "uk": "Я уявляю, як це — відвідати Порту."
+ },
+ {
+  "n": 130,
+  "word": "immediate",
+  "ua": "негайний",
+  "meaning_en": "happening right away, without delay",
+  "example_en": "There's no immediate rush to decide anything.",
+  "uk": "Немає потреби поспішати з рішенням."
+ },
+ {
+  "n": 131,
+  "word": "important",
+  "ua": "важливий",
+  "meaning_en": "having great meaning or value",
+  "example_en": "Family is important to both of us.",
+  "uk": "Сім'я важлива для нас обох."
+ },
+ {
+  "n": 132,
+  "word": "improve",
+  "ua": "покращувати",
+  "meaning_en": "to make or become better",
+  "example_en": "My patience has improved a lot with age.",
+  "uk": "Моє терпіння значно покращилося з віком."
+ },
+ {
+  "n": 133,
+  "word": "include",
+  "ua": "включати",
+  "meaning_en": "to have as a part of something",
+  "example_en": "That includes you now too.",
+  "uk": "Тепер це включає і тебе."
+ },
+ {
+  "n": 134,
+  "word": "increase",
+  "ua": "збільшувати",
+  "meaning_en": "to make or become larger",
+  "example_en": "My interest in you keeps increasing.",
+  "uk": "Мій інтерес до тебе постійно зростає."
+ },
+ {
+  "n": 135,
+  "word": "independent",
+  "ua": "незалежний",
+  "meaning_en": "not controlled by others; able to do things on your own",
+  "example_en": "She's a strong, independent woman.",
+  "uk": "Вона сильна, незалежна жінка."
+ },
+ {
+  "n": 136,
+  "word": "individual",
+  "ua": "окрема людина",
+  "meaning_en": "one single person",
+  "example_en": "Every individual has their own story.",
+  "uk": "Кожна людина має свою історію."
+ },
+ {
+  "n": 137,
+  "word": "influence",
+  "ua": "впливати",
+  "meaning_en": "to have an effect on someone or something",
+  "example_en": "You've had a real influence on how I see things.",
+  "uk": "Ти справді вплинула на те, як я бачу речі."
+ },
+ {
+  "n": 138,
+  "word": "inform",
+  "ua": "повідомляти",
+  "meaning_en": "to tell or give knowledge to someone",
+  "example_en": "Please inform me if your plans change.",
+  "uk": "Будь ласка, повідом мене, якщо твої плани зміняться."
+ },
+ {
+  "n": 139,
+  "word": "instead",
+  "ua": "замість",
+  "meaning_en": "in place of something else",
+  "example_en": "Let's talk on the phone instead of just writing.",
+  "uk": "Давай краще поговоримо по телефону, а не лише пишемо."
+ },
+ {
+  "n": 140,
+  "word": "instrument",
+  "ua": "інструмент",
+  "meaning_en": "a tool used to do something, or a musical device",
+  "example_en": "Do you play any instrument?",
+  "uk": "Ти граєш на якомусь музичному інструменті?"
+ },
+ {
+  "n": 141,
+  "word": "intelligent",
+  "ua": "розумний",
+  "meaning_en": "quick to understand and learn",
+  "example_en": "You're clearly a very intelligent person.",
+  "uk": "Ти явно дуже розумна людина."
+ },
+ {
+  "n": 142,
+  "word": "intense",
+  "ua": "інтенсивний",
+  "meaning_en": "very strong, serious",
+  "example_en": "These feelings have been pretty intense lately.",
+  "uk": "Ці почуття останнім часом були досить сильними."
+ },
+ {
+  "n": 143,
+  "word": "interest",
+  "ua": "інтерес",
+  "meaning_en": "attention and curiosity about something",
+  "example_en": "I have a real interest in learning about your life.",
+  "uk": "Мені справді цікаво дізнаватися про твоє життя."
+ },
+ {
+  "n": 144,
+  "word": "interfere",
+  "ua": "заважати",
+  "meaning_en": "to get in the way of something",
+  "example_en": "I don't want distance to interfere with us.",
+  "uk": "Я не хочу, щоб відстань нам заважала."
+ },
+ {
+  "n": 145,
+  "word": "international",
+  "ua": "міжнародний",
+  "meaning_en": "involving more than one country",
+  "example_en": "This is basically an international friendship.",
+  "uk": "Це по суті міжнародна дружба."
+ },
+ {
+  "n": 146,
+  "word": "invite",
+  "ua": "запрошувати",
+  "meaning_en": "to ask someone to join something",
+  "example_en": "I'd like to invite you to a video call soon.",
+  "uk": "Хотів би запросити тебе на відеодзвінок незабаром."
+ },
+ {
+  "n": 147,
+  "word": "involve",
+  "ua": "залучати",
+  "meaning_en": "to include as a necessary part",
+  "example_en": "Building trust involves time and honesty.",
+  "uk": "Побудова довіри потребує часу і чесності."
+ },
+ {
+  "n": 148,
+  "word": "issue",
+  "ua": "питання, проблема",
+  "meaning_en": "an important topic or problem being discussed",
+  "example_en": "Is there an issue I should know about?",
+  "uk": "Є щось, про що мені варто знати?"
+ },
+ {
+  "n": 149,
+  "word": "join",
+  "ua": "приєднуватися",
+  "meaning_en": "to come together with, or become part of",
+  "example_en": "I'd like to join you for that celebration one day.",
+  "uk": "Хотів би приєднатися до тебе на те свято колись."
+ },
+ {
+  "n": 150,
+  "word": "joke",
+  "ua": "жарт",
+  "meaning_en": "something said to make people laugh",
+  "example_en": "You have a good sense of joke and humor.",
+  "uk": "Ти добре жартуєш — із гумором."
+ },
+ {
+  "n": 151,
+  "word": "judge",
+  "ua": "судити",
+  "meaning_en": "to form an opinion about something or someone",
+  "example_en": "Please don't judge me for asking.",
+  "uk": "Будь ласка, не суди мене за те, що я запитую."
+ },
+ {
+  "n": 152,
+  "word": "just",
+  "ua": "просто, лише",
+  "meaning_en": "only, or exactly, or fair",
+  "example_en": "I'm just happy to hear from you.",
+  "uk": "Я просто радий чути від тебе."
+ },
+ {
+  "n": 153,
+  "word": "justice",
+  "ua": "справедливість",
+  "meaning_en": "fairness; what is right",
+  "example_en": "I hope she finds justice in that family matter.",
+  "uk": "Сподіваюся, вона знайде справедливість у цій сімейній справі."
+ },
+ {
+  "n": 154,
+  "word": "keep",
+  "ua": "зберігати",
+  "meaning_en": "to have and hold onto something",
+  "example_en": "I'll keep writing to you no matter what.",
+  "uk": "Я буду писати тобі, що б не сталося."
+ },
+ {
+  "n": 155,
+  "word": "kind",
+  "ua": "добрий",
+  "meaning_en": "gentle and caring",
+  "example_en": "You have such a kind heart.",
+  "uk": "У тебе таке добре серце."
+ },
+ {
+  "n": 156,
+  "word": "know",
+  "ua": "знати",
+  "meaning_en": "to understand or have information about",
+  "example_en": "I feel like I know you better with every letter.",
+  "uk": "З кожним листом я ніби краще тебе знаю."
+ },
+ {
+  "n": 157,
+  "word": "knowledge",
+  "ua": "знання",
+  "meaning_en": "information and understanding gained over time",
+  "example_en": "My knowledge of Portuguese is basically zero, ha.",
+  "uk": "Мої знання португальської практично нульові, ха."
+ },
+ {
+  "n": 158,
+  "word": "lack",
+  "ua": "відсутність",
+  "meaning_en": "to be without something",
+  "example_en": "There's no lack of things to talk about between us.",
+  "uk": "Нам є про що поговорити, тож браку тем немає."
+ },
+ {
+  "n": 159,
+  "word": "land",
+  "ua": "приземлятися",
+  "meaning_en": "to arrive from the air, or the ground itself",
+  "example_en": "Let me know when your flight lands.",
+  "uk": "Дай знати, коли твій літак приземлиться."
+ },
+ {
+  "n": 160,
+  "word": "language",
+  "ua": "мова",
+  "meaning_en": "the words and grammar a group of people use to speak",
+  "example_en": "I'd love to learn a little Portuguese.",
+  "uk": "Я б хотів трохи вивчити португальську."
+ },
+ {
+  "n": 161,
+  "word": "last",
+  "ua": "тривати",
+  "meaning_en": "to continue for a period of time",
+  "example_en": "I hope this connection lasts.",
+  "uk": "Сподіваюся, цей зв'язок триватиме."
+ },
+ {
+  "n": 162,
+  "word": "late",
+  "ua": "пізній",
+  "meaning_en": "after the expected time",
+  "example_en": "Sorry for the late reply.",
+  "uk": "Вибач за пізню відповідь."
+ },
+ {
+  "n": 163,
+  "word": "laugh",
+  "ua": "сміятися",
+  "meaning_en": "to make sounds showing happiness",
+  "example_en": "Your stories make me laugh out loud.",
+  "uk": "Твої історії змушують мене сміятися вголос."
+ },
+ {
+  "n": 164,
+  "word": "launch",
+  "ua": "запускати",
+  "meaning_en": "to start something new",
+  "example_en": "We're about to launch a new product at work.",
+  "uk": "Ми незабаром запускаємо новий продукт на роботі."
+ },
+ {
+  "n": 165,
+  "word": "lead",
+  "ua": "вести",
+  "meaning_en": "to guide or go first",
+  "example_en": "Whatever happens, let's lead with honesty.",
+  "uk": "Що б не сталося, давай будувати все на чесності."
+ },
+ {
+  "n": 166,
+  "word": "learn",
+  "ua": "вчити",
+  "meaning_en": "to gain knowledge or a skill",
+  "example_en": "I'm learning more about you every day.",
+  "uk": "Кожен день я дізнаюся про тебе більше."
+ },
+ {
+  "n": 167,
+  "word": "leave",
+  "ua": "залишати",
+  "meaning_en": "to go away from a place",
+  "example_en": "I don't want to leave things unsaid between us.",
+  "uk": "Я не хочу залишати речі недоказаними між нами."
+ },
+ {
+  "n": 168,
+  "word": "legal",
+  "ua": "юридичний",
+  "meaning_en": "allowed by law",
+  "example_en": "Once the legal side of her grandmother's property is settled...",
+  "uk": "Щойно юридична сторона майна її бабусі буде врегульована..."
+ },
+ {
+  "n": 169,
+  "word": "lie",
+  "ua": "брехати",
+  "meaning_en": "to say something untrue",
+  "example_en": "I promise I won't lie to you.",
+  "uk": "Обіцяю, що не буду брехати тобі."
+ },
+ {
+  "n": 170,
+  "word": "life",
+  "ua": "життя",
+  "meaning_en": "the time between being born and dying; everything that happens in it",
+  "example_en": "Tell me about your life growing up.",
+  "uk": "Розкажи мені про своє життя в дитинстві."
+ },
+ {
+  "n": 171,
+  "word": "lift",
+  "ua": "піднімати",
+  "meaning_en": "to raise something up, or to raise someone's mood",
+  "example_en": "Your letters always lift my mood.",
+  "uk": "Твої листи завжди піднімають мені настрій."
+ },
+ {
+  "n": 172,
+  "word": "light (ad.)",
+  "ua": "легкий",
+  "meaning_en": "not heavy, or bright",
+  "example_en": "Keep things light between us, no pressure.",
+  "uk": "Тримаймо все легко між нами, без тиску."
+ },
+ {
+  "n": 173,
+  "word": "like",
+  "ua": "подобатися",
+  "meaning_en": "to have good feelings toward something or someone",
+  "example_en": "I like how thoughtful you are.",
+  "uk": "Мені подобається, який ти уважний."
+ },
+ {
+  "n": 174,
+  "word": "limit",
+  "ua": "межа",
+  "meaning_en": "the greatest amount allowed",
+  "example_en": "There's no limit to how much I want to know about you.",
+  "uk": "Немає межі тому, як сильно я хочу дізнатися про тебе."
+ },
+ {
+  "n": 175,
+  "word": "link",
+  "ua": "зв'язок",
+  "meaning_en": "a connection between two things",
+  "example_en": "There's a real link between us already.",
+  "uk": "Між нами вже є справжній зв'язок."
+ },
+ {
+  "n": 176,
+  "word": "list",
+  "ua": "список",
+  "meaning_en": "a written series of names or things",
+  "example_en": "Here's a short list of questions for you.",
+  "uk": "Ось короткий список питань для тебе."
+ },
+ {
+  "n": 177,
+  "word": "listen",
+  "ua": "слухати",
+  "meaning_en": "to pay attention to sound, especially someone speaking",
+  "example_en": "I really listen when you tell me about your day.",
+  "uk": "Я справді слухаю, коли ти розповідаєш про свій день."
+ },
+ {
+  "n": 178,
+  "word": "literature",
+  "ua": "література",
+  "meaning_en": "books, poems, and writing in general",
+  "example_en": "Do you enjoy literature, or more movies and music?",
+  "uk": "Тобі подобається література, чи більше фільми й музика?"
+ },
+ {
+  "n": 179,
+  "word": "little",
+  "ua": "трохи",
+  "meaning_en": "small in size or amount",
+  "example_en": "Tell me a little about your week.",
+  "uk": "Розкажи мені трохи про свій тиждень."
+ },
+ {
+  "n": 180,
+  "word": "live",
+  "ua": "жити",
+  "meaning_en": "to be alive, to exist",
+  "example_en": "Where do you live now, exactly — Goiânia or Porto?",
+  "uk": "Де ти зараз живеш, точно — Гояніа чи Порту?"
+ },
+ {
+  "n": 181,
+  "word": "local",
+  "ua": "місцевий",
+  "meaning_en": "belonging to one particular place",
+  "example_en": "Try a local dish for me and tell me about it.",
+  "uk": "Спробуй для мене місцеву страву і розкажи про неї."
+ },
+ {
+  "n": 182,
+  "word": "lonely",
+  "ua": "самотній",
+  "meaning_en": "feeling alone",
+  "example_en": "I imagine the travel has been a little lonely at times.",
+  "uk": "Думаю, подорож іноді була трохи самотньою."
+ },
+ {
+  "n": 183,
+  "word": "long",
+  "ua": "довгий",
+  "meaning_en": "not short in distance or time",
+  "example_en": "It's been a long month without hearing from you.",
+  "uk": "Це був довгий місяць без новин від тебе."
+ },
+ {
+  "n": 184,
+  "word": "look",
+  "ua": "дивитися",
+  "meaning_en": "to turn your eyes toward something",
+  "example_en": "I look forward to your letters.",
+  "uk": "Я з нетерпінням чекаю твоїх листів."
+ },
+ {
+  "n": 185,
+  "word": "lose",
+  "ua": "втрачати",
+  "meaning_en": "to no longer have something",
+  "example_en": "I don't want to lose touch again.",
+  "uk": "Я не хочу знову втратити зв'язок."
+ },
+ {
+  "n": 186,
+  "word": "loud",
+  "ua": "гучний",
+  "meaning_en": "having a strong sound",
+  "example_en": "Tell me the loud, happy parts of your day.",
+  "uk": "Розкажи мені гучні, веселі моменти свого дня."
+ },
+ {
+  "n": 187,
+  "word": "love",
+  "ua": "любов",
+  "meaning_en": "a strong, kind feeling for someone",
+  "example_en": "There's real love in how your grandmother welcomed you.",
+  "uk": "У тому, як твоя бабуся тебе зустріла, є справжня любов."
+ },
+ {
+  "n": 188,
+  "word": "loyal",
+  "ua": "вірний",
+  "meaning_en": "showing strong support and faithfulness",
+  "example_en": "You strike me as a loyal person.",
+  "uk": "Ти здаєшся мені вірною людиною."
+ },
+ {
+  "n": 189,
+  "word": "luck",
+  "ua": "удача",
+  "meaning_en": "something that happens by chance",
+  "example_en": "Good luck with the paperwork this week.",
+  "uk": "Удачі з паперами цього тижня."
+ },
+ {
+  "n": 190,
+  "word": "machine",
+  "ua": "машина",
+  "meaning_en": "a device with moving parts that does work",
+  "example_en": "My team is building a new machine — well, software really.",
+  "uk": "Моя команда створює нову систему — ну, радше програму."
+ },
+ {
+  "n": 191,
+  "word": "main",
+  "ua": "головний",
+  "meaning_en": "the most important",
+  "example_en": "My main hope is just to hear from you regularly.",
+  "uk": "Моя головна надія — просто регулярно чути від тебе."
+ },
+ {
+  "n": 192,
+  "word": "major",
+  "ua": "великий",
+  "meaning_en": "great in size or importance",
+  "example_en": "That was a major trip for your family.",
+  "uk": "Це була велика поїздка для твоєї родини."
+ },
+ {
+  "n": 193,
+  "word": "majority",
+  "ua": "більшість",
+  "meaning_en": "more than half",
+  "example_en": "The majority of my free time goes to the kids right now.",
+  "uk": "Більшість мого вільного часу зараз йде на дітей."
+ },
+ {
+  "n": 194,
+  "word": "make",
+  "ua": "робити",
+  "meaning_en": "to create or produce",
+  "example_en": "You make me smile more than you probably know.",
+  "uk": "Ти мене усміхаєш більше, ніж можеш собі уявити."
+ },
+ {
+  "n": 195,
+  "word": "mark",
+  "ua": "слід, знак",
+  "meaning_en": "a sign or cut on something",
+  "example_en": "This past month left a mark, but a good one.",
+  "uk": "Цей минулий місяць залишив слід, але добрий."
+ },
+ {
+  "n": 196,
+  "word": "market",
+  "ua": "ринок",
+  "meaning_en": "a place where goods are bought and sold",
+  "example_en": "Is there a market you like to visit in Porto?",
+  "uk": "Є ринок у Порту, який тобі подобається?"
+ },
+ {
+  "n": 197,
+  "word": "marry",
+  "ua": "одружуватися",
+  "meaning_en": "to become husband and wife",
+  "example_en": "That's a long way off, but I don't mind saying I think about it.",
+  "uk": "Це ще далеко, але скажу, що я про це думаю."
+ },
+ {
+  "n": 198,
+  "word": "mate",
+  "ua": "з'єднувати; приятель",
+  "meaning_en": "to bring together, or (informal) a partner or friend",
+  "example_en": "I hope one day we're more than pen pals.",
+  "uk": "Сподіваюся, колись ми будемо більше, ніж листувальники."
+ },
+ {
+  "n": 199,
+  "word": "material",
+  "ua": "матеріал",
+  "meaning_en": "the substance something is made of",
+  "example_en": "Tell me more about your day, all the little material details.",
+  "uk": "Розкажи мені більше про свій день, усі дрібні деталі."
+ },
+ {
+  "n": 200,
+  "word": "matter",
+  "ua": "мати значення",
+  "meaning_en": "to be important",
+  "example_en": "Your feelings matter to me.",
+  "uk": "Твої почуття для мене важливі."
+ },
+ {
+  "n": 201,
+  "word": "may",
+  "ua": "може",
+  "meaning_en": "used to mean something is possible or permitted",
+  "example_en": "I may be busy this week, but I'll still write.",
+  "uk": "Я, можливо, буду зайнятий цього тижня, але все одно писатиму."
+ },
+ {
+  "n": 202,
+  "word": "meal",
+  "ua": "їжа",
+  "meaning_en": "food eaten at a set time",
+  "example_en": "What was your favorite meal growing up?",
+  "uk": "Яка була твоя улюблена страва в дитинстві?"
+ },
+ {
+  "n": 203,
+  "word": "mean",
+  "ua": "мати на увазі",
+  "meaning_en": "to intend, or to have a certain meaning",
+  "example_en": "I meant every word of my last letter.",
+  "uk": "Я мав на увазі кожне слово в останньому листі."
+ },
+ {
+  "n": 204,
+  "word": "measure",
+  "ua": "вимірювати",
+  "meaning_en": "to find the size or amount of something",
+  "example_en": "There's no way to measure how much I've missed you.",
+  "uk": "Неможливо виміряти, як сильно я за тобою сумував."
+ },
+ {
+  "n": 205,
+  "word": "meet",
+  "ua": "зустрічатися",
+  "meaning_en": "to come together with someone",
+  "example_en": "I really hope we get to meet in person.",
+  "uk": "Я дуже сподіваюся, що ми зустрінемося особисто."
+ },
+ {
+  "n": 206,
+  "word": "melt",
+  "ua": "танути",
+  "meaning_en": "to turn from solid to liquid, or figuratively to soften",
+  "example_en": "Your stories about your grandmother melted my heart a little.",
+  "uk": "Твої історії про бабусю трохи розтопили моє серце."
+ },
+ {
+  "n": 207,
+  "word": "member",
+  "ua": "член",
+  "meaning_en": "one person in a group",
+  "example_en": "You already feel like a member of my daily routine.",
+  "uk": "Ти вже відчуваєш себе частиною мого щоденного життя."
+ },
+ {
+  "n": 208,
+  "word": "memory",
+  "ua": "пам'ять",
+  "meaning_en": "something remembered from the past",
+  "example_en": "That birthday story is a good memory to hold onto.",
+  "uk": "Та історія про день народження — гарний спогад."
+ },
+ {
+  "n": 209,
+  "word": "message",
+  "ua": "повідомлення",
+  "meaning_en": "information sent from one person to another",
+  "example_en": "Thanks for your message yesterday.",
+  "uk": "Дякую за твоє повідомлення вчора."
+ },
+ {
+  "n": 210,
+  "word": "method",
+  "ua": "спосіб",
+  "meaning_en": "a particular way of doing something",
+  "example_en": "What's your method for staying calm during stressful travel?",
+  "uk": "Який у тебе спосіб залишатися спокійною під час стресових подорожей?"
+ },
+ {
+  "n": 211,
+  "word": "middle",
+  "ua": "середина",
+  "meaning_en": "the center of something",
+  "example_en": "We're kind of in the middle of getting to know each other.",
+  "uk": "Ми ніби на середині шляху, поки знайомимося."
+ },
+ {
+  "n": 212,
+  "word": "mind",
+  "ua": "думка, розум",
+  "meaning_en": "the thinking, feeling part of a person",
+  "example_en": "You've been on my mind a lot.",
+  "uk": "Ти часто в моїх думках."
+ },
+ {
+  "n": 213,
+  "word": "minor",
+  "ua": "незначний",
+  "meaning_en": "small in size or importance",
+  "example_en": "It was just a minor misunderstanding, nothing serious.",
+  "uk": "Це було лише незначне непорозуміння, нічого серйозного."
+ },
+ {
+  "n": 214,
+  "word": "minute",
+  "ua": "хвилина",
+  "meaning_en": "a short period of time",
+  "example_en": "Give me a minute and I'll write you a proper letter.",
+  "uk": "Дай мені хвилинку, і я напишу тобі нормальний лист."
+ },
+ {
+  "n": 215,
+  "word": "miss",
+  "ua": "сумувати",
+  "meaning_en": "to feel the absence of someone",
+  "example_en": "I miss hearing from you.",
+  "uk": "Я сумую за тим, щоб чути від тебе."
+ },
+ {
+  "n": 216,
+  "word": "missing",
+  "ua": "відсутній",
+  "meaning_en": "not present; lost",
+  "example_en": "Something felt missing during your silence.",
+  "uk": "Під час твоєї мовчанки щось відчувалося відсутнім."
+ },
+ {
+  "n": 217,
+  "word": "mistake",
+  "ua": "помилка",
+  "meaning_en": "a wrong action or decision",
+  "example_en": "Staying quiet for so long about how I feel would be a mistake.",
+  "uk": "Мовчати так довго про свої почуття було б помилкою."
+ },
+ {
+  "n": 218,
+  "word": "mix",
+  "ua": "суміш",
+  "meaning_en": "to combine different things",
+  "example_en": "There's a good mix of humor and honesty in your letters.",
+  "uk": "У твоїх листах гарна суміш гумору і чесності."
+ },
+ {
+  "n": 219,
+  "word": "moderate",
+  "ua": "помірний",
+  "meaning_en": "not extreme; reasonable",
+  "example_en": "Let's keep expectations moderate for now, no rush.",
+  "uk": "Давай поки що тримати очікування помірними, без поспіху."
+ },
+ {
+  "n": 220,
+  "word": "modern",
+  "ua": "сучасний",
+  "meaning_en": "belonging to the present time",
+  "example_en": "Porto sounds like a nice mix of old and modern.",
+  "uk": "Порту звучить як гарне поєднання старого і сучасного."
+ },
+ {
+  "n": 221,
+  "word": "money",
+  "ua": "гроші",
+  "meaning_en": "what's used to pay for things",
+  "example_en": "I know money isn't the point of any of this.",
+  "uk": "Знаю, що гроші — не головне в усьому цьому."
+ },
+ {
+  "n": 222,
+  "word": "month",
+  "ua": "місяць",
+  "meaning_en": "one of the twelve parts of a year",
+  "example_en": "It's been about a month since I heard from you.",
+  "uk": "Минув приблизно місяць відтоді, як я чув від тебе."
+ },
+ {
+  "n": 223,
+  "word": "moon",
+  "ua": "місяць (небесне тіло)",
+  "meaning_en": "the object that circles the earth at night",
+  "example_en": "Same moon, different countries.",
+  "uk": "Той самий місяць, різні країни."
+ },
+ {
+  "n": 224,
+  "word": "moral",
+  "ua": "моральний",
+  "meaning_en": "about what is right or wrong",
+  "example_en": "You clearly have a strong moral sense from how you talk about family.",
+  "uk": "Ти явно маєш сильне моральне чуття, судячи з того, як говориш про сім'ю."
+ },
+ {
+  "n": 225,
+  "word": "more",
+  "ua": "більше",
+  "meaning_en": "a greater amount",
+  "example_en": "I'd like to know more about your life in Goiânia.",
+  "uk": "Я хотів би знати більше про твоє життя в Гоянії."
+ },
+ {
+  "n": 226,
+  "word": "morning",
+  "ua": "ранок",
+  "meaning_en": "the early part of the day",
+  "example_en": "Good morning, wherever you are today.",
+  "uk": "Доброго ранку, де б ти не була сьогодні."
+ },
+ {
+  "n": 227,
+  "word": "most",
+  "ua": "найбільше",
+  "meaning_en": "the greatest amount",
+  "example_en": "That's the part I care about most.",
+  "uk": "Це та частина, яка мені найважливіша."
+ },
+ {
+  "n": 228,
+  "word": "mother",
+  "ua": "мати",
+  "meaning_en": "a female parent",
+  "example_en": "How is your mother doing?",
+  "uk": "Як поживає твоя мама?"
+ },
+ {
+  "n": 229,
+  "word": "motion",
+  "ua": "рух",
+  "meaning_en": "the act of moving",
+  "example_en": "There's been a lot of motion in your life this past month.",
+  "uk": "У твоєму житті за останній місяць було багато руху."
+ },
+ {
+  "n": 230,
+  "word": "mountain",
+  "ua": "гора",
+  "meaning_en": "a very high part of the earth's surface",
+  "example_en": "I'm heading to the Bugaboo Mountains soon.",
+  "uk": "Скоро я поїду в гори Бугабу."
+ },
+ {
+  "n": 231,
+  "word": "move",
+  "ua": "переїзд",
+  "meaning_en": "to change position or place",
+  "example_en": "It sounds like the move to Porto was sudden.",
+  "uk": "Схоже, переїзд до Порту був несподіваним."
+ },
+ {
+  "n": 232,
+  "word": "movement",
+  "ua": "рух, зміна",
+  "meaning_en": "an act of moving, or a larger effort toward change",
+  "example_en": "There's a nice forward movement in how we're talking now.",
+  "uk": "У тому, як ми зараз розмовляємо, є гарний поступ вперед."
+ },
+ {
+  "n": 233,
+  "word": "movie",
+  "ua": "фільм",
+  "meaning_en": "a film",
+  "example_en": "What's your favorite kind of movie?",
+  "uk": "Який твій улюблений жанр фільмів?"
+ },
+ {
+  "n": 234,
+  "word": "much",
+  "ua": "багато",
+  "meaning_en": "a large amount",
+  "example_en": "I think about you much more than I expected to.",
+  "uk": "Я думаю про тебе набагато більше, ніж очікував."
+ },
+ {
+  "n": 235,
+  "word": "music",
+  "ua": "музика",
+  "meaning_en": "sounds made through singing or instruments",
+  "example_en": "What kind of music do you listen to in Brazil?",
+  "uk": "Яку музику ти слухаєш у Бразилії?"
+ },
+ {
+  "n": 236,
+  "word": "must",
+  "ua": "мусити",
+  "meaning_en": "used to show something is necessary",
+  "example_en": "I must admit, I checked for your name in my inbox more than once.",
+  "uk": "Мушу визнати, я перевіряв твою пошту більше ніж раз."
+ },
+ {
+  "n": 237,
+  "word": "mystery",
+  "ua": "таємниця",
+  "meaning_en": "something not understood or explained",
+  "example_en": "There's still a bit of mystery about you I'd like to solve.",
+  "uk": "У тобі є ще трохи таємниці, яку я хотів би розгадати."
+ },
+ {
+  "n": 238,
+  "word": "name",
+  "ua": "ім'я",
+  "meaning_en": "a word used to identify someone",
+  "example_en": "I like hearing you say my name in your letters.",
+  "uk": "Мені подобається, коли ти пишеш моє ім'я в листах."
+ },
+ {
+  "n": 239,
+  "word": "narrow",
+  "ua": "вузький",
+  "meaning_en": "limited or small in width",
+  "example_en": "Sorry my free time has been narrow lately, with work and the kids.",
+  "uk": "Вибач, що вільного часу в мене було мало останнім часом, з роботою і дітьми."
+ },
+ {
+  "n": 240,
+  "word": "native",
+  "ua": "рідний, місцевий",
+  "meaning_en": "someone born in a certain place",
+  "example_en": "Are you a native of Goiânia, or did your family move there?",
+  "uk": "Ти корінна жителька Гоянії, чи твоя родина туди переїхала?"
+ },
+ {
+  "n": 241,
+  "word": "natural",
+  "ua": "природний",
+  "meaning_en": "normal, not forced",
+  "example_en": "Talking to you feels natural, even through letters.",
+  "uk": "Розмовляти з тобою здається природним, навіть у листах."
+ },
+ {
+  "n": 242,
+  "word": "nature",
+  "ua": "природа; характер",
+  "meaning_en": "the physical world; also a person's character",
+  "example_en": "It's in your nature to notice small things about people.",
+  "uk": "У твоїй натурі помічати дрібниці в людях."
+ },
+ {
+  "n": 243,
+  "word": "near",
+  "ua": "поблизу",
+  "meaning_en": "close by",
+  "example_en": "I hope the day we're near each other in person comes soon.",
+  "uk": "Сподіваюся, скоро ми будемо поруч один з одним."
+ },
+ {
+  "n": 244,
+  "word": "necessary",
+  "ua": "необхідний",
+  "meaning_en": "needed",
+  "example_en": "It wasn't necessary to apologize for your silence.",
+  "uk": "Не було потреби вибачатися за твою мовчанку."
+ },
+ {
+  "n": 245,
+  "word": "need",
+  "ua": "потребувати",
+  "meaning_en": "to require something",
+  "example_en": "I don't need constant letters, just honesty.",
+  "uk": "Мені не потрібні постійні листи, лише чесність."
+ },
+ {
+  "n": 246,
+  "word": "negotiate",
+  "ua": "домовлятися",
+  "meaning_en": "to talk through a problem to reach an agreement",
+  "example_en": "We can negotiate the pace of all this together.",
+  "uk": "Темп усього цього ми можемо обговорити разом."
+ },
+ {
+  "n": 247,
+  "word": "neighbor",
+  "ua": "сусід",
+  "meaning_en": "someone who lives near you",
+  "example_en": "Tell me about your neighbors in Goiânia.",
+  "uk": "Розкажи про своїх сусідів у Гоянії."
+ },
+ {
+  "n": 248,
+  "word": "neutral",
+  "ua": "нейтральний",
+  "meaning_en": "not taking one side or the other",
+  "example_en": "I try to stay neutral and just listen when you talk about family stress.",
+  "uk": "Я намагаюся залишатися нейтральним і просто слухаю, коли ти говориш про сімейний стрес."
+ },
+ {
+  "n": 249,
+  "word": "never",
+  "ua": "ніколи",
+  "meaning_en": "at no time; not ever",
+  "example_en": "I'll never pretend to be someone I'm not.",
+  "uk": "Я ніколи не буду вдавати, що я хтось інший."
+ },
+ {
+  "n": 250,
+  "word": "new",
+  "ua": "новий",
+  "meaning_en": "not existing before",
+  "example_en": "Tell me something new about your week.",
+  "uk": "Розкажи мені щось нове про свій тиждень."
+ },
+ {
+  "n": 251,
+  "word": "news",
+  "ua": "новини",
+  "meaning_en": "recent information",
+  "example_en": "What's the news on your grandmother's paperwork?",
+  "uk": "Які новини щодо паперів твоєї бабусі?"
+ },
+ {
+  "n": 252,
+  "word": "next",
+  "ua": "наступний",
+  "meaning_en": "coming right after",
+  "example_en": "What's next for you once things settle in Porto?",
+  "uk": "Що в тебе далі, коли все влаштується в Порту?"
+ },
+ {
+  "n": 253,
+  "word": "nice",
+  "ua": "приємний",
+  "meaning_en": "pleasing, kind",
+  "example_en": "It was nice to read a real letter from you again.",
+  "uk": "Приємно знову прочитати справжній лист від тебе."
+ },
+ {
+  "n": 254,
+  "word": "night",
+  "ua": "ніч",
+  "meaning_en": "the time when it's dark",
+  "example_en": "Good night, wherever you are.",
+  "uk": "Доброї ночі, де б ти не була."
+ },
+ {
+  "n": 255,
+  "word": "no",
+  "ua": "ні",
+  "meaning_en": "used to refuse or deny",
+  "example_en": "There's no reason to feel guilty about needing time away.",
+  "uk": "Немає причин почуватися винним через те, що тобі потрібен час."
+ },
+ {
+  "n": 256,
+  "word": "noise",
+  "ua": "шум",
+  "meaning_en": "sound, especially unwanted",
+  "example_en": "I hope Porto is a nice break from the noise.",
+  "uk": "Сподіваюся, Порту стане гарною перервою від шуму."
+ },
+ {
+  "n": 257,
+  "word": "noon",
+  "ua": "полудень",
+  "meaning_en": "the middle of the day",
+  "example_en": "I usually write around noon, when things are quieter.",
+  "uk": "Я зазвичай пишу близько полудня, коли спокійніше."
+ },
+ {
+  "n": 258,
+  "word": "normal",
+  "ua": "звичайний",
+  "meaning_en": "usual; expected",
+  "example_en": "Things feel more normal now that we're talking again.",
+  "uk": "Тепер усе відчувається нормальнішим, відколи ми знову розмовляємо."
+ },
+ {
+  "n": 259,
+  "word": "north",
+  "ua": "північ",
+  "meaning_en": "a direction",
+  "example_en": "Is Porto in the north of Portugal?",
+  "uk": "Порту на півночі Португалії?"
+ },
+ {
+  "n": 260,
+  "word": "not",
+  "ua": "не",
+  "meaning_en": "used to say something is untrue",
+  "example_en": "I'm not upset with you, just glad you're okay.",
+  "uk": "Я не сержуся на тебе, просто радий, що з тобою все добре."
+ },
+ {
+  "n": 261,
+  "word": "note",
+  "ua": "нотатка",
+  "meaning_en": "a short written message",
+  "example_en": "Just a quick note to say I'm thinking of you.",
+  "uk": "Коротка записка, щоб сказати, що я думаю про тебе."
+ },
+ {
+  "n": 262,
+  "word": "nothing",
+  "ua": "нічого",
+  "meaning_en": "not anything",
+  "example_en": "There's nothing to forgive.",
+  "uk": "Нема чого пробачати."
+ },
+ {
+  "n": 263,
+  "word": "now",
+  "ua": "зараз",
+  "meaning_en": "at this time",
+  "example_en": "Right now, I just want to hear how you're really doing.",
+  "uk": "Зараз я просто хочу знати, як ти насправді."
+ },
+ {
+  "n": 264,
+  "word": "nowhere",
+  "ua": "ніде",
+  "meaning_en": "not in any place",
+  "example_en": "I'm not going anywhere, if that's what you're wondering.",
+  "uk": "Я нікуди не йду, якщо ти про це питаєш."
+ },
+ {
+  "n": 265,
+  "word": "number",
+  "ua": "число",
+  "meaning_en": "a word or sign showing amount",
+  "example_en": "Give me a number — how many months until you're back in Brazil?",
+  "uk": "Назви число — скільки місяців до твого повернення в Бразилію?"
+ },
+ {
+  "n": 266,
+  "word": "obey",
+  "ua": "підкорятися",
+  "meaning_en": "to act as told",
+  "example_en": "I try to obey my own advice about being patient.",
+  "uk": "Я намагаюся слідувати власній порадi про терпіння."
+ },
+ {
+  "n": 267,
+  "word": "object",
+  "ua": "заперечувати",
+  "meaning_en": "to disagree with, or a thing",
+  "example_en": "I wouldn't object to a video call this week.",
+  "uk": "Я не був би проти відеодзвінка цього тижня."
+ },
+ {
+  "n": 268,
+  "word": "observe",
+  "ua": "спостерігати",
+  "meaning_en": "to watch carefully",
+  "example_en": "I've observed how much you care about your family.",
+  "uk": "Я помітив, як сильно ти піклуєшся про свою родину."
+ },
+ {
+  "n": 269,
+  "word": "occupy",
+  "ua": "займати",
+  "meaning_en": "to take up space, time, or attention",
+  "example_en": "Work has occupied most of my free time lately.",
+  "uk": "Робота останнім часом займає більшість мого вільного часу."
+ },
+ {
+  "n": 270,
+  "word": "ocean",
+  "ua": "океан",
+  "meaning_en": "a large area of salt water",
+  "example_en": "There's an ocean between us, literally.",
+  "uk": "Між нами океан, буквально."
+ },
+ {
+  "n": 271,
+  "word": "off",
+  "ua": "вихідний",
+  "meaning_en": "away from; not on",
+  "example_en": "I'm off work this weekend, finally.",
+  "uk": "Цими вихідними я нарешті вільний від роботи."
+ },
+ {
+  "n": 272,
+  "word": "offer",
+  "ua": "пропонувати",
+  "meaning_en": "to present something for someone to accept",
+  "example_en": "I want to offer you patience, not pressure.",
+  "uk": "Хочу запропонувати тобі терпіння, а не тиск."
+ },
+ {
+  "n": 273,
+  "word": "office",
+  "ua": "офіс",
+  "meaning_en": "a place of business or work",
+  "example_en": "My development team's office has been busy.",
+  "uk": "Офіс нашої команди розробки був дуже зайнятий."
+ },
+ {
+  "n": 274,
+  "word": "often",
+  "ua": "часто",
+  "meaning_en": "many times",
+  "example_en": "I think of you more often than I let on.",
+  "uk": "Я думаю про тебе частіше, ніж показую."
+ },
+ {
+  "n": 275,
+  "word": "oil",
+  "ua": "олія",
+  "meaning_en": "a thick liquid, often used as fuel",
+  "example_en": "Not the most romantic word, but there it is on the list.",
+  "uk": "Не найромантичніше слово, але воно є в списку."
+ },
+ {
+  "n": 276,
+  "word": "old",
+  "ua": "старий",
+  "meaning_en": "having lived or existed a long time",
+  "example_en": "Tell me an old memory from your childhood.",
+  "uk": "Розкажи мені якийсь старий спогад з дитинства."
+ },
+ {
+  "n": 277,
+  "word": "once",
+  "ua": "колись",
+  "meaning_en": "one time",
+  "example_en": "Once things settle for you, I'd love that call.",
+  "uk": "Коли в тебе все влаштується, я буду радий тому дзвінку."
+ },
+ {
+  "n": 278,
+  "word": "only",
+  "ua": "лише",
+  "meaning_en": "no more than",
+  "example_en": "You're the only one I've felt this way about in a long time.",
+  "uk": "Ти єдина, до кого я відчуваю таке за довгий час."
+ },
+ {
+  "n": 279,
+  "word": "open",
+  "ua": "відкритий",
+  "meaning_en": "not closed; honest",
+  "example_en": "I want us to stay open with each other.",
+  "uk": "Хочу, щоб ми залишалися відкритими одне з одним."
+ },
+ {
+  "n": 280,
+  "word": "operate",
+  "ua": "працювати",
+  "meaning_en": "to work or run something",
+  "example_en": "How does your family usually operate during a crisis like this?",
+  "uk": "Як зазвичай працює твоя родина під час такої кризи?"
+ },
+ {
+  "n": 281,
+  "word": "opinion",
+  "ua": "думка",
+  "meaning_en": "a belief or view",
+  "example_en": "What's your honest opinion about long-distance relationships?",
+  "uk": "Яка твоя чесна думка про стосунки на відстані?"
+ },
+ {
+  "n": 282,
+  "word": "oppose",
+  "ua": "заперечувати",
+  "meaning_en": "to be against something",
+  "example_en": "I don't oppose taking things slow — I actually agree with it.",
+  "uk": "Я не проти того, щоб рухатися повільно, — навпаки, згоден з цим."
+ },
+ {
+  "n": 283,
+  "word": "opposite",
+  "ua": "протилежний",
+  "meaning_en": "completely different",
+  "example_en": "We come from opposite sides of the world, but it doesn't feel that way.",
+  "uk": "Ми з протилежних боків світу, але так не відчувається."
+ },
+ {
+  "n": 284,
+  "word": "order",
+  "ua": "порядок",
+  "meaning_en": "arrangement, or a command",
+  "example_en": "Let's take things in the right order — talk more, then call.",
+  "uk": "Давай рухатися правильним порядком — спершу більше листів, потім дзвінок."
+ },
+ {
+  "n": 285,
+  "word": "organize",
+  "ua": "організовувати",
+  "meaning_en": "to put into a system",
+  "example_en": "I'm trying to organize a trip to see my family soon.",
+  "uk": "Я намагаюся організувати поїздку, щоб скоро побачити родину."
+ },
+ {
+  "n": 286,
+  "word": "other",
+  "ua": "інший",
+  "meaning_en": "different; another",
+  "example_en": "Is there anything other than the property issue stressing you out?",
+  "uk": "Чи є ще щось, окрім питання майна, що тебе турбує?"
+ },
+ {
+  "n": 287,
+  "word": "our",
+  "ua": "наш",
+  "meaning_en": "belonging to us",
+  "example_en": "I like the sound of 'our' letters, our routine.",
+  "uk": "Мені подобається звучання «наші» листи, наш розпорядок."
+ },
+ {
+  "n": 288,
+  "word": "out",
+  "ua": "геть",
+  "meaning_en": "away from inside",
+  "example_en": "Let's get out of just writing and actually talk soon.",
+  "uk": "Давай перестанемо лише писати і скоро справді поговоримо."
+ },
+ {
+  "n": 289,
+  "word": "over",
+  "ua": "закінчений",
+  "meaning_en": "above, or finished",
+  "example_en": "I'm glad the hardest part of your trip is over.",
+  "uk": "Я радий, що найважча частина твоєї поїздки позаду."
+ },
+ {
+  "n": 290,
+  "word": "owe",
+  "ua": "бути винним",
+  "meaning_en": "to need to repay or return something",
+  "example_en": "You don't owe me an explanation for taking time.",
+  "uk": "Ти мені не винна пояснень за те, що взяла час."
+ },
+ {
+  "n": 291,
+  "word": "own",
+  "ua": "мати, володіти",
+  "meaning_en": "to have or possess",
+  "example_en": "I own up to missing you more than I expected.",
+  "uk": "Мушу визнати, що сумую більше, ніж очікував."
+ },
+ {
+  "n": 292,
+  "word": "paint",
+  "ua": "малювати",
+  "meaning_en": "to cover with color",
+  "example_en": "Paint me a picture of what Porto looks like right now.",
+  "uk": "Намалюй мені картину, як зараз виглядає Порту."
+ },
+ {
+  "n": 293,
+  "word": "paper",
+  "ua": "папір",
+  "meaning_en": "thin material used for writing",
+  "example_en": "Old-fashioned as it sounds, I like writing you almost like a letter on paper.",
+  "uk": "Може, старомодно, але мені подобається писати тобі майже як на папері."
+ },
+ {
+  "n": 294,
+  "word": "parent",
+  "ua": "батько, мати",
+  "meaning_en": "a mother or father",
+  "example_en": "How are your parents handling everything with your grandmother?",
+  "uk": "Як твої батьки справляються з усім через твою бабусю?"
+ },
+ {
+  "n": 295,
+  "word": "part",
+  "ua": "частина",
+  "meaning_en": "a piece of something whole",
+  "example_en": "You've become a part of my week I look forward to.",
+  "uk": "Ти стала частиною мого тижня, якого я чекаю."
+ },
+ {
+  "n": 296,
+  "word": "partner",
+  "ua": "партнер",
+  "meaning_en": "someone who takes part in something with another",
+  "example_en": "I could see us being real partners one day.",
+  "uk": "Я бачу, що колись ми могли б бути справжніми партнерами."
+ },
+ {
+  "n": 297,
+  "word": "party",
+  "ua": "вечірка",
+  "meaning_en": "a gathering for a celebration",
+  "example_en": "I hope your birthday party on Sunday is a good one.",
+  "uk": "Сподіваюся, твій день народження в неділю буде вдалим."
+ },
+ {
+  "n": 298,
+  "word": "pass",
+  "ua": "минати",
+  "meaning_en": "to move along, or to go by",
+  "example_en": "The month apart passed slower than I expected.",
+  "uk": "Місяць нашої розлуки минув повільніше, ніж я очікував."
+ },
+ {
+  "n": 299,
+  "word": "passenger",
+  "ua": "пасажир",
+  "meaning_en": "someone traveling but not driving/piloting",
+  "example_en": "Were you a nervous passenger on the flight to Portugal?",
+  "uk": "Ти була нервовою пасажиркою в літаку до Португалії?"
+ },
+ {
+  "n": 300,
+  "word": "passport",
+  "ua": "паспорт",
+  "meaning_en": "the official document for international travel",
+  "example_en": "Hopefully your passport gets a Brazil stamp again soon.",
+  "uk": "Сподіваюся, скоро твій паспорт знову отримає штамп Бразилії."
+ },
+ {
+  "n": 301,
+  "word": "past",
+  "ua": "минуле",
+  "meaning_en": "time that has already happened",
+  "example_en": "I don't need to know every detail of your past, just who you are now.",
+  "uk": "Мені не потрібно знати кожну деталь твого минулого, лише те, хто ти зараз."
+ },
+ {
+  "n": 302,
+  "word": "path",
+  "ua": "шлях",
+  "meaning_en": "a way or direction",
+  "example_en": "I like the path we're on, slow and steady.",
+  "uk": "Мені подобається шлях, яким ми йдемо, — повільно і впевнено."
+ },
+ {
+  "n": 303,
+  "word": "pay",
+  "ua": "платити; приділяти",
+  "meaning_en": "to give money for something, or to give attention",
+  "example_en": "I pay attention to the little things you mention.",
+  "uk": "Я звертаю увагу на дрібниці, які ти згадуєш."
+ },
+ {
+  "n": 304,
+  "word": "peace",
+  "ua": "мир",
+  "meaning_en": "freedom from conflict or worry",
+  "example_en": "I hope you find some peace once the paperwork is behind you.",
+  "uk": "Сподіваюся, ти знайдеш спокій, коли паперова тяганина залишиться позаду."
+ },
+ {
+  "n": 305,
+  "word": "people",
+  "ua": "люди",
+  "meaning_en": "persons in general",
+  "example_en": "You're one of the most thoughtful people I've written to.",
+  "uk": "Ти одна з найуважніших людей, яким я писав."
+ },
+ {
+  "n": 306,
+  "word": "percent",
+  "ua": "відсотки",
+  "meaning_en": "a part of a hundred",
+  "example_en": "I'd say I'm 100 percent glad you wrote back.",
+  "uk": "Я б сказав, що на сто відсотків радий, що ти відповіла."
+ },
+ {
+  "n": 307,
+  "word": "perfect",
+  "ua": "ідеальний",
+  "meaning_en": "complete and correct",
+  "example_en": "No one's perfect, and I don't expect that from you.",
+  "uk": "Ніхто не ідеальний, і я від тебе такого не очікую."
+ },
+ {
+  "n": 308,
+  "word": "perform",
+  "ua": "виконувати",
+  "meaning_en": "to do something in front of others, or to carry out a task",
+  "example_en": "How did the belated birthday celebration go?",
+  "uk": "Як пройшло запізніле святкування дня народження?"
+ },
+ {
+  "n": 309,
+  "word": "period",
+  "ua": "період",
+  "meaning_en": "a length of time",
+  "example_en": "This has been a strange period for your family.",
+  "uk": "Це був дивний період для твоєї родини."
+ },
+ {
+  "n": 310,
+  "word": "permanent",
+  "ua": "постійний",
+  "meaning_en": "lasting forever, or for a very long time",
+  "example_en": "I'm not expecting anything permanent yet — just real.",
+  "uk": "Я ще нічого постійного не очікую — лише справжнього."
+ },
+ {
+  "n": 311,
+  "word": "permit",
+  "ua": "дозволяти",
+  "meaning_en": "to allow",
+  "example_en": "Time will permit us to know each other properly.",
+  "uk": "Час дозволить нам по-справжньому пізнати одне одного."
+ },
+ {
+  "n": 312,
+  "word": "person",
+  "ua": "людина",
+  "meaning_en": "an individual human being",
+  "example_en": "You seem like a genuinely kind person.",
+  "uk": "Ти здаєшся справді доброю людиною."
+ },
+ {
+  "n": 313,
+  "word": "persuade",
+  "ua": "переконувати",
+  "meaning_en": "to convince someone of something",
+  "example_en": "You don't need to persuade me you're worth writing to.",
+  "uk": "Не треба мене переконувати, що варто тобі писати."
+ },
+ {
+  "n": 314,
+  "word": "physical",
+  "ua": "фізичний",
+  "meaning_en": "relating to the body",
+  "example_en": "A video call would be nice before anything physical is even a question.",
+  "uk": "Відеодзвінок був би чудовим, ще до будь-яких фізичних питань."
+ },
+ {
+  "n": 315,
+  "word": "picture",
+  "ua": "картинка",
+  "meaning_en": "an image, or an idea of something",
+  "example_en": "Send me a picture of the view from where you're staying.",
+  "uk": "Надішли мені фото виду з того місця, де ти зупинилася."
+ },
+ {
+  "n": 316,
+  "word": "piece",
+  "ua": "частина",
+  "meaning_en": "a part of something",
+  "example_en": "Every letter gives me another piece of who you are.",
+  "uk": "Кожен лист дає мені ще одну частинку того, хто ти є."
+ },
+ {
+  "n": 317,
+  "word": "pilot",
+  "ua": "пілот",
+  "meaning_en": "someone who flies a plane",
+  "example_en": "Was your flight to Portugal smooth?",
+  "uk": "Твій політ до Португалії був спокійним?"
+ },
+ {
+  "n": 318,
+  "word": "place",
+  "ua": "місце",
+  "meaning_en": "a location, or to put something somewhere",
+  "example_en": "Porto sounds like a beautiful place to be, even under stress.",
+  "uk": "Порту звучить як прекрасне місце, навіть коли тиск."
+ },
+ {
+  "n": 319,
+  "word": "plan",
+  "ua": "план",
+  "meaning_en": "an idea or method for doing something",
+  "example_en": "What's your plan once the property issue is settled?",
+  "uk": "Який у тебе план, коли питання з майном буде врегульовано?"
+ },
+ {
+  "n": 320,
+  "word": "planet",
+  "ua": "планета",
+  "meaning_en": "a large body in space, like Earth",
+  "example_en": "Sometimes it feels like we're writing from two different planets, ha.",
+  "uk": "Іноді здається, що ми пишемо з двох різних планет, ха."
+ },
+ {
+  "n": 321,
+  "word": "plant",
+  "ua": "рослина",
+  "meaning_en": "a living thing that grows from the ground",
+  "example_en": "Is there a plant or flower that reminds you of home?",
+  "uk": "Є якась рослина чи квітка, що нагадує тобі про дім?"
+ },
+ {
+  "n": 322,
+  "word": "play",
+  "ua": "грати",
+  "meaning_en": "to do something for fun",
+  "example_en": "The kids have been outside playing all week.",
+  "uk": "Діти весь тиждень гралися надворі."
+ },
+ {
+  "n": 323,
+  "word": "please",
+  "ua": "будь ласка; радувати",
+  "meaning_en": "to make someone happy, or a polite request",
+  "example_en": "Please take your time — there's no rush from me.",
+  "uk": "Будь ласка, не поспішай — з мого боку немає жодного тиску."
+ },
+ {
+  "n": 324,
+  "word": "plenty",
+  "ua": "достатньо",
+  "meaning_en": "a large enough amount",
+  "example_en": "We have plenty of time to figure this out.",
+  "uk": "У нас достатньо часу, щоб це з'ясувати."
+ },
+ {
+  "n": 325,
+  "word": "poem",
+  "ua": "вірш",
+  "meaning_en": "organized words that express feeling",
+  "example_en": "Some of your letters read almost like a poem.",
+  "uk": "Деякі твої листи читаються майже як вірш."
+ },
+ {
+  "n": 326,
+  "word": "point",
+  "ua": "пункт; суть",
+  "meaning_en": "the main idea, or to aim",
+  "example_en": "My point is just that I'm glad you're safe.",
+  "uk": "Суть лише в тому, що я радий, що з тобою все добре."
+ },
+ {
+  "n": 327,
+  "word": "policy",
+  "ua": "політика",
+  "meaning_en": "a general plan or approach",
+  "example_en": "My policy with you has always been to just be honest.",
+  "uk": "Моя політика з тобою завжди одна — бути чесним."
+ },
+ {
+  "n": 328,
+  "word": "poor",
+  "ua": "бідний",
+  "meaning_en": "having very little",
+  "example_en": "Sorry my updates have been a poor substitute for a real conversation lately.",
+  "uk": "Вибач, що мої новини в останній час були бідною заміною справжньої розмови."
+ },
+ {
+  "n": 329,
+  "word": "popular",
+  "ua": "популярний",
+  "meaning_en": "liked by many people",
+  "example_en": "Is Porto a popular spot for tourists too?",
+  "uk": "Порту також популярне місце для туристів?"
+ },
+ {
+  "n": 330,
+  "word": "population",
+  "ua": "населення",
+  "meaning_en": "all the people in a place",
+  "example_en": "Goiânia has a much bigger population than I realized.",
+  "uk": "Гояніа має набагато більше населення, ніж я думав."
+ },
+ {
+  "n": 331,
+  "word": "port",
+  "ua": "порт",
+  "meaning_en": "a city where ships come and go",
+  "example_en": "Porto is literally named for being a port city, right?",
+  "uk": "Порту ж назва від портового міста, правда?"
+ },
+ {
+  "n": 332,
+  "word": "position",
+  "ua": "позиція",
+  "meaning_en": "a place, or a stance on something",
+  "example_en": "I'm in a good position to just be patient right now.",
+  "uk": "Зараз я в хорошій позиції, щоб просто бути терплячим."
+ },
+ {
+  "n": 333,
+  "word": "possess",
+  "ua": "володіти",
+  "meaning_en": "to have or own",
+  "example_en": "You possess a kind of warmth that comes through even in writing.",
+  "uk": "У тобі є теплота, яка проявляється навіть у листах."
+ },
+ {
+  "n": 334,
+  "word": "possible",
+  "ua": "можливий",
+  "meaning_en": "able to happen",
+  "example_en": "Anything feels possible when I'm reading your letters.",
+  "uk": "Усе здається можливим, коли я читаю твої листи."
+ },
+ {
+  "n": 335,
+  "word": "postpone",
+  "ua": "відкладати",
+  "meaning_en": "to delay something to a later time",
+  "example_en": "I'm glad we didn't postpone talking again any longer.",
+  "uk": "Я радий, що ми більше не відкладаємо розмову."
+ },
+ {
+  "n": 336,
+  "word": "pour",
+  "ua": "лити; віддавати",
+  "meaning_en": "to make liquid flow, or figuratively to give freely",
+  "example_en": "You really poured your heart into that last letter.",
+  "uk": "Ти справді вклала душу в останній лист."
+ },
+ {
+  "n": 337,
+  "word": "power",
+  "ua": "сила",
+  "meaning_en": "strength or control",
+  "example_en": "You have more power over my mood than you probably realize.",
+  "uk": "У тебе над моїм настроєм більше сили, ніж ти, мабуть, думаєш."
+ },
+ {
+  "n": 338,
+  "word": "praise",
+  "ua": "хвалити",
+  "meaning_en": "to say good things about someone",
+  "example_en": "I want to praise you for how you've handled all this stress.",
+  "uk": "Хочу похвалити тебе за те, як ти впоралася з усім цим стресом."
+ },
+ {
+  "n": 339,
+  "word": "predict",
+  "ua": "передбачати",
+  "meaning_en": "to say what will happen before it does",
+  "example_en": "I wouldn't predict where this goes, but I like it so far.",
+  "uk": "Я б не брався передбачати, куди це піде, але поки мені подобається."
+ },
+ {
+  "n": 340,
+  "word": "present (adj.)",
+  "ua": "теперішній",
+  "meaning_en": "existing now",
+  "example_en": "Let's focus on the present instead of worrying about the future.",
+  "uk": "Давай зосередимося на теперішньому, а не на тривозі про майбутнє."
+ },
+ {
+  "n": 341,
+  "word": "press",
+  "ua": "тиснути; преса",
+  "meaning_en": "to push, or news media",
+  "example_en": "No pressure — I won't press you for more than you want to share.",
+  "uk": "Без тиску — я не буду тиснути, щоб ти розповідала більше, ніж хочеш."
+ },
+ {
+  "n": 342,
+  "word": "pressure",
+  "ua": "тиск",
+  "meaning_en": "a strong force or demand",
+  "example_en": "I don't want you to feel pressure from me.",
+  "uk": "Не хочу, щоб ти відчувала від мене тиск."
+ },
+ {
+  "n": 343,
+  "word": "prevent",
+  "ua": "запобігати",
+  "meaning_en": "to stop something from happening",
+  "example_en": "Distance can't prevent me from caring about how your week went.",
+  "uk": "Відстань не може завадити мені дбати про те, як пройшов твій тиждень."
+ },
+ {
+  "n": 344,
+  "word": "price",
+  "ua": "ціна",
+  "meaning_en": "the cost of something",
+  "example_en": "There's no price on a letter that makes someone's day better.",
+  "uk": "Листа, який робить чийсь день кращим, не оцінити грошима."
+ },
+ {
+  "n": 345,
+  "word": "private",
+  "ua": "приватний",
+  "meaning_en": "kept secret; personal",
+  "example_en": "I'm a fairly private person, so this all matters more to me than it might seem.",
+  "uk": "Я досить приватна людина, тож це важить для мене більше, ніж здається."
+ },
+ {
+  "n": 346,
+  "word": "prize",
+  "ua": "приз",
+  "meaning_en": "something won or valued",
+  "example_en": "Getting a real letter from you again felt like winning a small prize.",
+  "uk": "Знову отримати від тебе справжній лист — ніби виграти невеликий приз."
+ },
+ {
+  "n": 347,
+  "word": "probably",
+  "ua": "ймовірно",
+  "meaning_en": "most likely",
+  "example_en": "You're probably exhausted after everything with your grandmother.",
+  "uk": "Ти, мабуть, виснажена після всього, що сталося з твоєю бабусею."
+ },
+ {
+  "n": 348,
+  "word": "problem",
+  "ua": "проблема",
+  "meaning_en": "a difficult question or situation",
+  "example_en": "Tell me if there's a problem I can actually help with.",
+  "uk": "Скажи, якщо є проблема, з якою я справді можу допомогти."
+ },
+ {
+  "n": 349,
+  "word": "process",
+  "ua": "процес",
+  "meaning_en": "a series of steps to reach a result",
+  "example_en": "The legal process for your grandmother's property must be exhausting.",
+  "uk": "Юридичний процес щодо майна твоєї бабусі, мабуть, виснажливий."
+ },
+ {
+  "n": 350,
+  "word": "produce",
+  "ua": "виробляти",
+  "meaning_en": "to make or create",
+  "example_en": "My team is working to produce something new at work.",
+  "uk": "Моя команда працює над створенням чогось нового на роботі."
+ },
+ {
+  "n": 351,
+  "word": "profession",
+  "ua": "професія",
+  "meaning_en": "a job requiring special training",
+  "example_en": "What's your profession back in Goiânia?",
+  "uk": "Яка в тебе професія в Гоянії?"
+ },
+ {
+  "n": 352,
+  "word": "professor",
+  "ua": "професор",
+  "meaning_en": "a teacher at a college or university",
+  "example_en": "Was there a professor or teacher who influenced you growing up?",
+  "uk": "Був у твоєму житті вчитель чи викладач, що вплинув на тебе?"
+ },
+ {
+  "n": 353,
+  "word": "profit",
+  "ua": "прибуток",
+  "meaning_en": "money gained after costs",
+  "example_en": "None of this is about profit for me, just about you.",
+  "uk": "Для мене це не про прибуток, а лише про тебе."
+ },
+ {
+  "n": 354,
+  "word": "program",
+  "ua": "програма",
+  "meaning_en": "a plan of action, or a TV/software program",
+  "example_en": "My team's project is basically a new software program.",
+  "uk": "Проєкт моєї команди — по суті нова програма."
+ },
+ {
+  "n": 355,
+  "word": "progress",
+  "ua": "прогрес",
+  "meaning_en": "movement toward improvement",
+  "example_en": "I think we're making real progress getting to know each other.",
+  "uk": "Гадаю, ми справді рухаємося вперед, знайомлячись одне з одним."
+ },
+ {
+  "n": 356,
+  "word": "project",
+  "ua": "проєкт",
+  "meaning_en": "a planned effort",
+  "example_en": "The Bugaboo trip is basically my personal project this month — pure fun.",
+  "uk": "Поїздка до Бугабу — це мій особистий проєкт на цей місяць, просто для задоволення."
+ },
+ {
+  "n": 357,
+  "word": "promise",
+  "ua": "обіцяти",
+  "meaning_en": "to say you will do something",
+  "example_en": "I promise to keep writing, even when life gets busy.",
+  "uk": "Обіцяю продовжувати писати, навіть коли життя стане зайнятим."
+ },
+ {
+  "n": 358,
+  "word": "propose",
+  "ua": "пропонувати",
+  "meaning_en": "to suggest something",
+  "example_en": "Can I propose that video call sometime next week?",
+  "uk": "Можна запропонувати відеодзвінок наступного тижня?"
+ },
+ {
+  "n": 359,
+  "word": "protect",
+  "ua": "захищати",
+  "meaning_en": "to keep safe from harm",
+  "example_en": "I want to protect this connection from misunderstandings.",
+  "uk": "Хочу захистити цей зв'язок від непорозумінь."
+ },
+ {
+  "n": 360,
+  "word": "prove",
+  "ua": "доводити",
+  "meaning_en": "to show something is true",
+  "example_en": "You don't have to prove anything to me.",
+  "uk": "Тобі не треба нічого мені доводити."
+ },
+ {
+  "n": 361,
+  "word": "provide",
+  "ua": "забезпечувати",
+  "meaning_en": "to give something needed",
+  "example_en": "I want to provide the kind of steady letters you can count on.",
+  "uk": "Хочу писати тобі стабільні листи, на які можна покластися."
+ },
+ {
+  "n": 362,
+  "word": "public",
+  "ua": "публічний",
+  "meaning_en": "open to everyone; not private",
+  "example_en": "Some of this feels too personal to make public, even in a letter.",
+  "uk": "Дещо з цього надто особисте, щоб робити публічним, навіть у листі."
+ },
+ {
+  "n": 363,
+  "word": "publish",
+  "ua": "публікувати",
+  "meaning_en": "to make something available to others",
+  "example_en": "That word book you sent me looks like something a school would publish.",
+  "uk": "Той словник, що ти мені надіслала, схожий на щось, що видала б школа."
+ },
+ {
+  "n": 364,
+  "word": "pull",
+  "ua": "тягнути",
+  "meaning_en": "to use force to bring something closer",
+  "example_en": "There's a pull toward you I haven't quite figured out.",
+  "uk": "Є до тебе потяг, який я ще до кінця не зрозумів."
+ },
+ {
+  "n": 365,
+  "word": "purchase",
+  "ua": "купувати",
+  "meaning_en": "to buy",
+  "example_en": "Any purchase over there, or are you still settling in?",
+  "uk": "Щось купуєш там, чи ще лише облаштовуєшся?"
+ },
+ {
+  "n": 366,
+  "word": "pure",
+  "ua": "чистий",
+  "meaning_en": "free of anything false",
+  "example_en": "My interest in you is pretty pure and simple.",
+  "uk": "Мій інтерес до тебе досить щирий і простий."
+ },
+ {
+  "n": 367,
+  "word": "purpose",
+  "ua": "мета",
+  "meaning_en": "the reason for doing something",
+  "example_en": "My purpose in writing this is just to be honest.",
+  "uk": "Моя мета в цих листах — просто бути чесним."
+ },
+ {
+  "n": 368,
+  "word": "push",
+  "ua": "штовхати",
+  "meaning_en": "to use force to move something away",
+  "example_en": "I won't push you faster than you're comfortable going.",
+  "uk": "Я не буду підштовхувати тебе швидше, ніж тобі зручно."
+ },
+ {
+  "n": 369,
+  "word": "put",
+  "ua": "ставити",
+  "meaning_en": "to place something somewhere",
+  "example_en": "I'll put it plainly: I like where this is going.",
+  "uk": "Скажу прямо: мені подобається, куди це йде."
+ },
+ {
+  "n": 370,
+  "word": "quality",
+  "ua": "якість",
+  "meaning_en": "how good or valuable something is",
+  "example_en": "The quality of your letters says a lot about you.",
+  "uk": "Якість твоїх листів багато говорить про тебе."
+ },
+ {
+  "n": 371,
+  "word": "question",
+  "ua": "питання",
+  "meaning_en": "something asked to get information",
+  "example_en": "I have a few questions about your time in Porto.",
+  "uk": "У мене є кілька питань про твій час у Порту."
+ },
+ {
+  "n": 372,
+  "word": "quick",
+  "ua": "швидкий",
+  "meaning_en": "fast",
+  "example_en": "Just a quick note before my day gets busy.",
+  "uk": "Просто коротка записка, поки мій день не став зайнятим."
+ },
+ {
+  "n": 373,
+  "word": "quiet",
+  "ua": "тихий",
+  "meaning_en": "with little or no noise",
+  "example_en": "It's been a quiet week here, in a good way.",
+  "uk": "Тут був тихий тиждень, і це добре."
+ },
+ {
+  "n": 374,
+  "word": "radio",
+  "ua": "радіо",
+  "meaning_en": "a device for sending/receiving sound signals",
+  "example_en": "Do you listen to the radio, or mostly streaming?",
+  "uk": "Ти слухаєш радіо чи переважно стримінг?"
+ },
+ {
+  "n": 375,
+  "word": "rain",
+  "ua": "дощ",
+  "meaning_en": "water falling from the sky",
+  "example_en": "Is it rainy season there right now?",
+  "uk": "Там зараз сезон дощів?"
+ },
+ {
+  "n": 376,
+  "word": "raise",
+  "ua": "піднімати; виховувати",
+  "meaning_en": "to lift up, or to bring up (a topic or a child)",
+  "example_en": "I wanted to raise something I've been thinking about.",
+  "uk": "Я хотів порушити одне питання, про яке думав."
+ },
+ {
+  "n": 377,
+  "word": "rare",
+  "ua": "рідкісний",
+  "meaning_en": "not common",
+  "example_en": "What you and I have feels rare to me.",
+  "uk": "Те, що є між нами, здається мені рідкісним."
+ },
+ {
+  "n": 378,
+  "word": "rate",
+  "ua": "темп; ціна",
+  "meaning_en": "speed, or a price",
+  "example_en": "At this rate, I might actually learn some Portuguese.",
+  "uk": "Таким темпом я, можливо, навіть вивчу трохи португальської."
+ },
+ {
+  "n": 379,
+  "word": "reach",
+  "ua": "досягати",
+  "meaning_en": "to arrive at, or to get in contact",
+  "example_en": "I'm glad you were able to reach out again.",
+  "uk": "Я радий, що ти знову змогла зв'язатися."
+ },
+ {
+  "n": 380,
+  "word": "react",
+  "ua": "реагувати",
+  "meaning_en": "to respond to something",
+  "example_en": "I tried not to react too strongly to the silence, even though I felt it.",
+  "uk": "Я старався не реагувати надто сильно на мовчанку, хоча й відчував її."
+ },
+ {
+  "n": 381,
+  "word": "read",
+  "ua": "читати",
+  "meaning_en": "to understand written words",
+  "example_en": "I've read your last letter more than once.",
+  "uk": "Я перечитував твій останній лист не раз."
+ },
+ {
+  "n": 382,
+  "word": "ready",
+  "ua": "готовий",
+  "meaning_en": "prepared",
+  "example_en": "I'm ready to hear about whatever's been going on, good or hard.",
+  "uk": "Я готовий почути про все, що відбувається, добре чи важке."
+ },
+ {
+  "n": 383,
+  "word": "real",
+  "ua": "справжній",
+  "meaning_en": "true, not fake",
+  "example_en": "This has started to feel real to me, not just letters.",
+  "uk": "Це почало здаватися мені справжнім, а не лише листами."
+ },
+ {
+  "n": 384,
+  "word": "realistic",
+  "ua": "реалістичний",
+  "meaning_en": "matching how things actually are",
+  "example_en": "Let's be realistic about the pace we're moving at.",
+  "uk": "Давай будемо реалістами щодо темпу, яким рухаємося."
+ },
+ {
+  "n": 385,
+  "word": "reason",
+  "ua": "причина",
+  "meaning_en": "the cause for something",
+  "example_en": "Whatever the reason for your silence, I'm glad it's over.",
+  "uk": "Яка б не була причина твоєї мовчанки, я радий, що вона закінчилася."
+ },
+ {
+  "n": 386,
+  "word": "reasonable",
+  "ua": "розумний",
+  "meaning_en": "fair; not extreme",
+  "example_en": "Taking things slow feels like a reasonable way to build this.",
+  "uk": "Не поспішати здається розумним способом це будувати."
+ },
+ {
+  "n": 387,
+  "word": "receive",
+  "ua": "отримувати",
+  "meaning_en": "to get something given",
+  "example_en": "I didn't receive anything from you for a month, so your letter was a relief.",
+  "uk": "Я місяць нічого не отримував від тебе, тож твій лист був полегшенням."
+ },
+ {
+  "n": 388,
+  "word": "recent",
+  "ua": "останній",
+  "meaning_en": "happening a short time ago",
+  "example_en": "Tell me about your most recent day in Porto.",
+  "uk": "Розкажи мені про свій найостанніший день у Порту."
+ },
+ {
+  "n": 389,
+  "word": "recognize",
+  "ua": "впізнавати",
+  "meaning_en": "to know or remember something already known",
+  "example_en": "I recognized your writing style even before I saw your name.",
+  "uk": "Я впізнав твій почерк, ще до того як побачив ім'я."
+ },
+ {
+  "n": 390,
+  "word": "record",
+  "ua": "запис; рекорд",
+  "meaning_en": "to write something down to keep, or the best-known result",
+  "example_en": "I want to keep a record of these letters, honestly.",
+  "uk": "Чесно кажучи, я хочу зберегти ці листи як запис."
+ },
+ {
+  "n": 391,
+  "word": "recover",
+  "ua": "одужувати",
+  "meaning_en": "to return to a normal or good condition",
+  "example_en": "I'm glad your grandmother's situation is starting to recover.",
+  "uk": "Я радий, що стан твоєї бабусі починає покращуватися."
+ },
+ {
+  "n": 392,
+  "word": "red",
+  "ua": "червоний",
+  "meaning_en": "the color of blood",
+  "example_en": "Is Porto full of those red rooftops you see in photos?",
+  "uk": "У Порту справді багато червоних дахів, як на фото?"
+ },
+ {
+  "n": 393,
+  "word": "reduce",
+  "ua": "зменшувати",
+  "meaning_en": "to make smaller or less",
+  "example_en": "I want to reduce the chances of another long silence, if we can.",
+  "uk": "Я хочу зменшити ймовірність ще однієї довгої мовчанки, якщо вдасться."
+ },
+ {
+  "n": 394,
+  "word": "refuse",
+  "ua": "відмовляти",
+  "meaning_en": "to say no to something",
+  "example_en": "I won't refuse a call whenever you're ready.",
+  "uk": "Я не відмовлюся від дзвінка, коли ти будеш готова."
+ },
+ {
+  "n": 395,
+  "word": "regret",
+  "ua": "жаль",
+  "meaning_en": "a feeling of sadness about something done or not done",
+  "example_en": "I don't regret being honest about missing you.",
+  "uk": "Я не жалкую, що був чесним щодо того, як сумую."
+ },
+ {
+  "n": 396,
+  "word": "reject",
+  "ua": "відкидати",
+  "meaning_en": "to refuse to accept",
+  "example_en": "I wouldn't reject the idea of visiting one day.",
+  "uk": "Я б не відкидав ідею колись відвідати."
+ },
+ {
+  "n": 397,
+  "word": "relations",
+  "ua": "стосунки",
+  "meaning_en": "connections between people",
+  "example_en": "Our relations feel more real with every letter.",
+  "uk": "Наші стосунки з кожним листом відчуваються все справжнішими."
+ },
+ {
+  "n": 398,
+  "word": "release",
+  "ua": "звільнення",
+  "meaning_en": "to let go, or to free something",
+  "example_en": "It felt like a release just to hear from you again.",
+  "uk": "Відчуття було ніби звільнення — знову почути від тебе."
+ },
+ {
+  "n": 399,
+  "word": "remain",
+  "ua": "залишатися",
+  "meaning_en": "to stay the same or in place",
+  "example_en": "I want to remain someone you feel you can write to honestly.",
+  "uk": "Я хочу залишатися тим, кому ти відчуваєш, що можна чесно писати."
+ },
+ {
+  "n": 400,
+  "word": "remember",
+  "ua": "пам'ятати",
+  "meaning_en": "to keep something in your mind from the past",
+  "example_en": "I remember every detail you've shared about your family.",
+  "uk": "Я пам'ятаю кожну деталь, якою ти поділилася про свою родину."
+ },
+ {
+  "n": 401,
+  "word": "remove",
+  "ua": "видаляти",
+  "meaning_en": "to take away",
+  "example_en": "Distance hasn't removed how I feel.",
+  "uk": "Відстань не стерла того, що я відчуваю."
+ },
+ {
+  "n": 402,
+  "word": "repair",
+  "ua": "ремонтувати",
+  "meaning_en": "to fix something",
+  "example_en": "I hope the legal side of things gets repaired quickly for your grandmother.",
+  "uk": "Сподіваюся, юридична частина справи для твоєї бабусі швидко залагодиться."
+ },
+ {
+  "n": 403,
+  "word": "repeat",
+  "ua": "повторювати",
+  "meaning_en": "to say or do again",
+  "example_en": "I'll repeat myself: I'm glad you're okay.",
+  "uk": "Повторю: я радий, що з тобою все добре."
+ },
+ {
+  "n": 404,
+  "word": "report",
+  "ua": "звіт",
+  "meaning_en": "to give information about something",
+  "example_en": "Give me a full report on Porto whenever you have time.",
+  "uk": "Розкажи мені повний звіт про Порту, коли матимеш час."
+ },
+ {
+  "n": 405,
+  "word": "represent",
+  "ua": "представляти",
+  "meaning_en": "to stand for or act on behalf of",
+  "example_en": "I hope my letters represent how I actually feel.",
+  "uk": "Сподіваюся, мої листи передають те, що я справді відчуваю."
+ },
+ {
+  "n": 406,
+  "word": "request",
+  "ua": "прохання",
+  "meaning_en": "to ask for something",
+  "example_en": "My only request is that you let me know if you need space again.",
+  "uk": "Моє єдине прохання — дай знати, якщо знову потрібен простір."
+ },
+ {
+  "n": 407,
+  "word": "require",
+  "ua": "вимагати",
+  "meaning_en": "to need",
+  "example_en": "This kind of connection requires patience from both of us.",
+  "uk": "Такий зв'язок потребує терпіння з обох боків."
+ },
+ {
+  "n": 408,
+  "word": "rescue",
+  "ua": "рятувати",
+  "meaning_en": "to save from danger",
+  "example_en": "I'm glad your grandmother had you there to help.",
+  "uk": "Я радий, що твоя бабуся мала тебе поруч, щоб допомогти."
+ },
+ {
+  "n": 409,
+  "word": "resist",
+  "ua": "опиратися",
+  "meaning_en": "to fight against or refuse",
+  "example_en": "I couldn't resist writing back the moment I saw your letter.",
+  "uk": "Я не зміг утриматися, щоб не відповісти, щойно побачив твій лист."
+ },
+ {
+  "n": 410,
+  "word": "resource",
+  "ua": "ресурс",
+  "meaning_en": "something useful that can be used",
+  "example_en": "Family is a big resource for both of us right now, it sounds like.",
+  "uk": "Здається, родина зараз є великим ресурсом для нас обох."
+ },
+ {
+  "n": 411,
+  "word": "respect",
+  "ua": "поважати",
+  "meaning_en": "to honor or value someone",
+  "example_en": "I respect that you needed to focus on your grandmother.",
+  "uk": "Я поважаю, що тобі треба було зосередитися на бабусі."
+ },
+ {
+  "n": 412,
+  "word": "responsible",
+  "ua": "відповідальний",
+  "meaning_en": "having a duty; being the cause of something",
+  "example_en": "It sounds like you felt responsible for helping her through it.",
+  "uk": "Здається, ти відчувала відповідальність за те, щоб допомогти їй пройти через це."
+ },
+ {
+  "n": 413,
+  "word": "rest",
+  "ua": "відпочивати",
+  "meaning_en": "to relax, or what remains",
+  "example_en": "I hope you get some real rest once the paperwork is done.",
+  "uk": "Сподіваюся, ти відпочинеш по-справжньому, коли паперова робота буде завершена."
+ },
+ {
+  "n": 414,
+  "word": "restaurant",
+  "ua": "ресторан",
+  "meaning_en": "a place to eat",
+  "example_en": "Found any good restaurant in Porto yet?",
+  "uk": "Уже знайшла гарний ресторан у Порту?"
+ },
+ {
+  "n": 415,
+  "word": "restrict",
+  "ua": "обмежувати",
+  "meaning_en": "to limit",
+  "example_en": "I don't want to restrict how you spend your time — just to stay close.",
+  "uk": "Я не хочу обмежувати, як ти проводиш час, — лише залишатися близько."
+ },
+ {
+  "n": 416,
+  "word": "result",
+  "ua": "результат",
+  "meaning_en": "what happens because of something",
+  "example_en": "The result of this month apart is that I appreciate your letters even more.",
+  "uk": "Результат цього місяця розлуки — я ще більше ціную твої листи."
+ },
+ {
+  "n": 417,
+  "word": "retire",
+  "ua": "йти на пенсію",
+  "meaning_en": "to leave a job, usually due to age",
+  "example_en": "I actually just finished my volunteer fire service — a small kind of retirement.",
+  "uk": "Я щойно завершив волонтерську службу пожежним — свого роду пенсія."
+ },
+ {
+  "n": 418,
+  "word": "return",
+  "ua": "повертатися",
+  "meaning_en": "to come back",
+  "example_en": "I'm looking forward to when you return to Brazil.",
+  "uk": "Я з нетерпінням чекаю, коли ти повернешся до Бразилії."
+ },
+ {
+  "n": 419,
+  "word": "rice",
+  "ua": "рис",
+  "meaning_en": "a common food grain",
+  "example_en": "Is rice a big part of meals where you're from?",
+  "uk": "Рис — велика частина страв там, звідки ти?"
+ },
+ {
+  "n": 420,
+  "word": "rich",
+  "ua": "багатий",
+  "meaning_en": "having a lot; full of something",
+  "example_en": "Your stories are rich with detail, I love that.",
+  "uk": "Твої історії багаті на деталі, мені це подобається."
+ },
+ {
+  "n": 421,
+  "word": "ride",
+  "ua": "їхати",
+  "meaning_en": "to travel by vehicle or animal",
+  "example_en": "Any good rides around Porto worth seeing?",
+  "uk": "Чи є в Порту гарні поїздки, які варто побачити?"
+ },
+ {
+  "n": 422,
+  "word": "right",
+  "ua": "правильний; право",
+  "meaning_en": "correct, or a moral entitlement",
+  "example_en": "You had every right to take the time you needed.",
+  "uk": "У тебе було повне право взяти час, який тобі був потрібен."
+ },
+ {
+  "n": 423,
+  "word": "rise",
+  "ua": "підніматися",
+  "meaning_en": "to go up",
+  "example_en": "My hope is that this connection keeps rising, not fading.",
+  "uk": "Я сподіваюся, що цей зв'язок зростатиме, а не згасатиме."
+ },
+ {
+  "n": 424,
+  "word": "risk",
+  "ua": "ризик",
+  "meaning_en": "a chance of loss or harm",
+  "example_en": "Being this honest with you is a bit of a risk, but I don't mind.",
+  "uk": "Бути з тобою настільки чесним — трохи ризик, але я не проти."
+ },
+ {
+  "n": 425,
+  "word": "river",
+  "ua": "річка",
+  "meaning_en": "a large flow of water across land",
+  "example_en": "Is Porto built along a river?",
+  "uk": "Порту збудоване біля річки?"
+ },
+ {
+  "n": 426,
+  "word": "road",
+  "ua": "дорога",
+  "meaning_en": "a path for travel",
+  "example_en": "It's been a long road this past month, but a good one.",
+  "uk": "Цей минулий місяць був довгою дорогою, але хорошою."
+ },
+ {
+  "n": 427,
+  "word": "rock",
+  "ua": "скеля",
+  "meaning_en": "a hard piece of the earth",
+  "example_en": "Life's been solid as a rock here, just busy.",
+  "uk": "Життя тут міцне, як скеля, просто зайняте."
+ },
+ {
+  "n": 428,
+  "word": "roll",
+  "ua": "котитися",
+  "meaning_en": "to move by turning over",
+  "example_en": "Let's just roll with things at whatever pace feels right.",
+  "uk": "Давай просто йти з тим темпом, який відчувається правильним."
+ },
+ {
+  "n": 429,
+  "word": "room",
+  "ua": "кімната; місце",
+  "meaning_en": "a space in a building, or space in general",
+  "example_en": "There's plenty of room for patience in how we're doing this.",
+  "uk": "Для терпіння в тому, як ми це робимо, є багато місця."
+ },
+ {
+  "n": 430,
+  "word": "root",
+  "ua": "корінь",
+  "meaning_en": "the base of a plant, or the origin of something",
+  "example_en": "What are your roots — did your family always live in Goiânia?",
+  "uk": "Які в тебе корені — твоя родина завжди жила в Гоянії?"
+ },
+ {
+  "n": 431,
+  "word": "rope",
+  "ua": "мотузка",
+  "meaning_en": "thick material used for tying",
+  "example_en": "No need for a rope to hold this together — I'm not going anywhere.",
+  "uk": "Не треба мотузки, щоб це тримати разом — я нікуди не йду."
+ },
+ {
+  "n": 432,
+  "word": "rough",
+  "ua": "грубий; складний",
+  "meaning_en": "not smooth; difficult",
+  "example_en": "It sounds like it's been a rough month for your family.",
+  "uk": "Схоже, для твоєї родини був важкий місяць."
+ },
+ {
+  "n": 433,
+  "word": "round",
+  "ua": "круглий; раунд",
+  "meaning_en": "shaped like a circle, or a stage in something",
+  "example_en": "This feels like the start of a new round for us, in a good way.",
+  "uk": "Це ніби початок нового етапу для нас, в гарному сенсі."
+ },
+ {
+  "n": 434,
+  "word": "rub",
+  "ua": "тертя; втирати",
+  "meaning_en": "to move something over a surface",
+  "example_en": "Sorry to rub it in, but I really did miss you.",
+  "uk": "Вибач, що нагадую, але я справді сумував за тобою."
+ },
+ {
+  "n": 435,
+  "word": "ruin",
+  "ua": "руйнувати",
+  "meaning_en": "to damage completely",
+  "example_en": "I wouldn't want to ruin this by rushing it.",
+  "uk": "Не хотів би зіпсувати це, поспішаючи."
+ },
+ {
+  "n": 436,
+  "word": "rule",
+  "ua": "правило",
+  "meaning_en": "a statement of how something must be done",
+  "example_en": "My one rule with you is just honesty, always.",
+  "uk": "Моє єдине правило з тобою — чесність, завжди."
+ },
+ {
+  "n": 437,
+  "word": "run",
+  "ua": "управляти",
+  "meaning_en": "to move quickly, or to manage something",
+  "example_en": "How's the family property situation being handled now?",
+  "uk": "Як зараз вирішується питання майна родини?"
+ },
+ {
+  "n": 438,
+  "word": "rural",
+  "ua": "сільський",
+  "meaning_en": "describing areas away from cities",
+  "example_en": "Is your grandmother's place rural, or more in the city?",
+  "uk": "Бабусине помешкання сільське чи більше в місті?"
+ },
+ {
+  "n": 439,
+  "word": "sacrifice",
+  "ua": "жертва",
+  "meaning_en": "to give up something for a reason or person",
+  "example_en": "It sounds like a real sacrifice to drop everything for your grandmother.",
+  "uk": "Схоже, кинути все заради бабусі — справжня жертва."
+ },
+ {
+  "n": 440,
+  "word": "sad",
+  "ua": "сумний",
+  "meaning_en": "feeling unhappy",
+  "example_en": "I felt a little sad during the quiet month, if I'm honest.",
+  "uk": "Якщо чесно, мені було трохи сумно в тихий місяць."
+ },
+ {
+  "n": 441,
+  "word": "safe",
+  "ua": "безпечний",
+  "meaning_en": "free from danger",
+  "example_en": "I'm just glad to know you're safe.",
+  "uk": "Я просто радий знати, що ти в безпеці."
+ },
+ {
+  "n": 442,
+  "word": "sail",
+  "ua": "пливти",
+  "meaning_en": "to travel by boat",
+  "example_en": "Any chance to sail or see the water in Porto?",
+  "uk": "Чи є шанс поплавати на човні або побачити воду в Порту?"
+ },
+ {
+  "n": 443,
+  "word": "salt",
+  "ua": "сіль",
+  "meaning_en": "used to flavor food",
+  "example_en": "Every good story needs a little salt, like your mascara-panda one.",
+  "uk": "Кожній добрій історії потрібна трішки солі, як твоя історія з пандою."
+ },
+ {
+  "n": 444,
+  "word": "same",
+  "ua": "той самий",
+  "meaning_en": "not different",
+  "example_en": "We're going through the same kind of busy season, it sounds like.",
+  "uk": "Схоже, ми переживаємо той самий напружений сезон."
+ },
+ {
+  "n": 445,
+  "word": "sand",
+  "ua": "пісок",
+  "meaning_en": "small pieces of rock, as on a beach",
+  "example_en": "Is there a beach with sand near Porto?",
+  "uk": "Є пляж з піском поблизу Порту?"
+ },
+ {
+  "n": 446,
+  "word": "satisfy",
+  "ua": "задовольняти",
+  "meaning_en": "to give what is needed or wanted",
+  "example_en": "One real letter satisfies me more than ten short ones.",
+  "uk": "Один справжній лист задовольняє мене більше, ніж десять коротких."
+ },
+ {
+  "n": 447,
+  "word": "save",
+  "ua": "зберігати",
+  "meaning_en": "to keep safe, or to keep for later",
+  "example_en": "I saved your last letter to reread later.",
+  "uk": "Я зберіг твій останній лист, щоб перечитати пізніше."
+ },
+ {
+  "n": 448,
+  "word": "say",
+  "ua": "сказати",
+  "meaning_en": "to speak",
+  "example_en": "I'll just say it plainly — I've missed you.",
+  "uk": "Скажу прямо: я сумував за тобою."
+ },
+ {
+  "n": 449,
+  "word": "school",
+  "ua": "школа",
+  "meaning_en": "a place for learning",
+  "example_en": "The kids are back at school here.",
+  "uk": "Діти тут уже повернулися до школи."
+ },
+ {
+  "n": 450,
+  "word": "science",
+  "ua": "наука",
+  "meaning_en": "the study of the natural world",
+  "example_en": "Not exactly science, but figuring out timezones between us takes some math.",
+  "uk": "Не зовсім наука, але розібратися з часовими поясами між нами — це математика."
+ },
+ {
+  "n": 451,
+  "word": "sea",
+  "ua": "море",
+  "meaning_en": "a large body of salt water",
+  "example_en": "Is Porto right on the sea, or a bit inland?",
+  "uk": "Порту прямо на морі чи трохи вглиб країни?"
+ },
+ {
+  "n": 452,
+  "word": "search",
+  "ua": "пошук",
+  "meaning_en": "to look for something carefully",
+  "example_en": "I did a little search about Porto after your letter.",
+  "uk": "Я трохи пошукав про Порту після твого листа."
+ },
+ {
+  "n": 453,
+  "word": "season",
+  "ua": "сезон",
+  "meaning_en": "a period of the year, or a period in life",
+  "example_en": "This sounds like a hard season for your family, but it'll pass.",
+  "uk": "Схоже, для твоєї родини важкий період, але він мине."
+ },
+ {
+  "n": 454,
+  "word": "seat",
+  "ua": "місце, сидіння",
+  "meaning_en": "a place to sit",
+  "example_en": "Save me a seat for that video call, ha.",
+  "uk": "Залиш мені місце на тому відеодзвінку, ха."
+ },
+ {
+  "n": 455,
+  "word": "second",
+  "ua": "секунда; другий",
+  "meaning_en": "the one after the first, or a unit of time",
+  "example_en": "It only took a second to recognize your name in my inbox.",
+  "uk": "Знадобилася лише секунда, щоб упізнати твоє ім'я у вхідних."
+ },
+ {
+  "n": 456,
+  "word": "secret",
+  "ua": "таємниця",
+  "meaning_en": "something known only to a few",
+  "example_en": "No secrets needed between us, just honesty.",
+  "uk": "Між нами не потрібні таємниці, лише чесність."
+ },
+ {
+  "n": 457,
+  "word": "security",
+  "ua": "безпека",
+  "meaning_en": "safety and freedom from worry",
+  "example_en": "I hope this all brings some security for your grandmother in the end.",
+  "uk": "Сподіваюся, зрештою це принесе бабусі певну безпеку."
+ },
+ {
+  "n": 458,
+  "word": "see",
+  "ua": "бачити",
+  "meaning_en": "to notice with the eyes, or to understand",
+  "example_en": "I can see how much you care about your family in every letter.",
+  "uk": "Я бачу, як сильно ти піклуєшся про родину, в кожному листі."
+ },
+ {
+  "n": 459,
+  "word": "seed",
+  "ua": "зерно",
+  "meaning_en": "the start of a plant, or the start of something",
+  "example_en": "This feels like the seed of something real.",
+  "uk": "Це відчувається як зародок чогось справжнього."
+ },
+ {
+  "n": 460,
+  "word": "seek",
+  "ua": "шукати",
+  "meaning_en": "to search for or try to get",
+  "example_en": "I think we're both seeking the same kind of honesty.",
+  "uk": "Гадаю, ми обоє шукаємо однакової чесності."
+ },
+ {
+  "n": 461,
+  "word": "seem",
+  "ua": "здаватися",
+  "meaning_en": "to appear to be",
+  "example_en": "You seem more relaxed since you got to Porto, even with everything going on.",
+  "uk": "Ти, здається, спокійніша, відколи приїхала в Порту, навіть з усім, що відбувається."
+ },
+ {
+  "n": 462,
+  "word": "self",
+  "ua": "я, себе",
+  "meaning_en": "who a person really is",
+  "example_en": "I always try to show you my real self in these letters.",
+  "uk": "Я завжди намагаюся показати тобі справжнього себе в цих листах."
+ },
+ {
+  "n": 463,
+  "word": "sell",
+  "ua": "продавати",
+  "meaning_en": "to give something in exchange for money",
+  "example_en": "Is the family selling the property, or just settling ownership?",
+  "uk": "Родина продає майно чи лише оформлює право власності?"
+ },
+ {
+  "n": 464,
+  "word": "send",
+  "ua": "надсилати",
+  "meaning_en": "to cause something to go to someone",
+  "example_en": "I'll send you a longer letter once I have more time this week.",
+  "uk": "Я надішлю довгий лист, як тільки матиму більше часу цього тижня."
+ },
+ {
+  "n": 465,
+  "word": "sense",
+  "ua": "відчуття; сенс",
+  "meaning_en": "understanding, or a feeling",
+  "example_en": "I get the sense you're stronger than you give yourself credit for.",
+  "uk": "У мене є відчуття, що ти сильніша, ніж сама про себе думаєш."
+ },
+ {
+  "n": 466,
+  "word": "separate",
+  "ua": "окремий",
+  "meaning_en": "apart, or to divide",
+  "example_en": "The distance keeps us separate, but it doesn't feel that way when you write.",
+  "uk": "Відстань тримає нас окремо, але коли ти пишеш, цього не відчувається."
+ },
+ {
+  "n": 467,
+  "word": "series",
+  "ua": "серія",
+  "meaning_en": "a number of similar things, one after another",
+  "example_en": "This has been a whole series of ups and downs for you lately.",
+  "uk": "Для тебе останнім часом це ціла серія злетів і падінь."
+ },
+ {
+  "n": 468,
+  "word": "serious",
+  "ua": "серйозний",
+  "meaning_en": "important; not joking",
+  "example_en": "I want to be serious for a second: I really did miss you.",
+  "uk": "Хочу на секунду стати серйозним: я справді сумував за тобою."
+ },
+ {
+  "n": 469,
+  "word": "serve",
+  "ua": "служити",
+  "meaning_en": "to work for, or to be useful to",
+  "example_en": "I hope these letters serve as a small comfort during a hard time.",
+  "uk": "Сподіваюся, ці листи стануть невеликою розрадою в важкий час."
+ },
+ {
+  "n": 470,
+  "word": "service",
+  "ua": "послуга",
+  "meaning_en": "work done for others",
+  "example_en": "Sounds like the legal service side of things has been the hardest part.",
+  "uk": "Схоже, юридична сторона справи була найважчою частиною."
+ },
+ {
+  "n": 471,
+  "word": "set",
+  "ua": "встановлювати",
+  "meaning_en": "to put in place, or fixed",
+  "example_en": "Let's set a rough time for that call soon.",
+  "uk": "Давай приблизно домовимося про час того дзвінка найближчим часом."
+ },
+ {
+  "n": 472,
+  "word": "settle",
+  "ua": "вирішувати",
+  "meaning_en": "to end a dispute, or to make a home somewhere",
+  "example_en": "I hope everything settles for your grandmother soon.",
+  "uk": "Сподіваюся, все вирішиться для твоєї бабусі найближчим часом."
+ },
+ {
+  "n": 473,
+  "word": "several",
+  "ua": "кілька",
+  "meaning_en": "more than two, but not many",
+  "example_en": "I've reread your letter several times.",
+  "uk": "Я перечитав твій лист кілька разів."
+ },
+ {
+  "n": 474,
+  "word": "severe",
+  "ua": "сильний, важкий",
+  "meaning_en": "very serious or intense",
+  "example_en": "It sounds like a severe amount of stress for one month.",
+  "uk": "Схоже, за один місяць це дуже сильний стрес."
+ },
+ {
+  "n": 475,
+  "word": "shake",
+  "ua": "трясти",
+  "meaning_en": "to move with quick movements",
+  "example_en": "That must have shaken things up for your whole family.",
+  "uk": "Мабуть, це все сильно збурило для всієї твоєї родини."
+ },
+ {
+  "n": 476,
+  "word": "shape",
+  "ua": "форма",
+  "meaning_en": "the form of something",
+  "example_en": "This connection is taking a nice shape, letter by letter.",
+  "uk": "Цей зв'язок набирає гарної форми, лист за листом."
+ },
+ {
+  "n": 477,
+  "word": "share",
+  "ua": "ділитися",
+  "meaning_en": "to give part of something to another",
+  "example_en": "Thank you for sharing that story about your grandmother.",
+  "uk": "Дякую, що поділилася історією про бабусю."
+ },
+ {
+  "n": 478,
+  "word": "sharp",
+  "ua": "гострий; кмітливий",
+  "meaning_en": "having a fine edge, or quick-thinking",
+  "example_en": "You have a sharp memory for details, like the kids' birthdays.",
+  "uk": "У тебе гостра пам'ять на деталі, як дні народження дітей."
+ },
+ {
+  "n": 479,
+  "word": "she",
+  "ua": "вона",
+  "meaning_en": "the woman being spoken about",
+  "example_en": "She sounds like an amazing grandmother, from what you've told me.",
+  "uk": "Судячи з того, що ти розповіла, вона чудова бабуся."
+ },
+ {
+  "n": 480,
+  "word": "shine",
+  "ua": "сяяти",
+  "meaning_en": "to give off bright light, or to do very well",
+  "example_en": "Your personality really shines through in your letters.",
+  "uk": "Твоя особистість справді сяє в листах."
+ },
+ {
+  "n": 481,
+  "word": "ship",
+  "ua": "корабель",
+  "meaning_en": "a large boat, or to send something",
+  "example_en": "Porto being a port city, I bet you see a lot of ships.",
+  "uk": "Порту — портове місто, мабуть, ти бачиш багато кораблів."
+ },
+ {
+  "n": 482,
+  "word": "shock",
+  "ua": "шок",
+  "meaning_en": "a sudden surprise",
+  "example_en": "It must have been a shock to have to travel so suddenly.",
+  "uk": "Мабуть, було шоком так раптово їхати."
+ },
+ {
+  "n": 483,
+  "word": "shoe",
+  "ua": "черевик",
+  "meaning_en": "footwear",
+  "example_en": "Random one, but do you have a favorite pair of shoes?",
+  "uk": "Випадкове питання: у тебе є улюблена пара взуття?"
+ },
+ {
+  "n": 484,
+  "word": "short",
+  "ua": "короткий",
+  "meaning_en": "not long",
+  "example_en": "Sorry this one's a bit short — busy week.",
+  "uk": "Вибач, що цей лист короткий — зайнятий тиждень."
+ },
+ {
+  "n": 485,
+  "word": "should",
+  "ua": "повинен",
+  "meaning_en": "used to express what's expected or right",
+  "example_en": "I should have written something sooner, but I wanted to give you space.",
+  "uk": "Мав написати раніше, але хотів дати тобі простір."
+ },
+ {
+  "n": 486,
+  "word": "shout",
+  "ua": "кричати",
+  "meaning_en": "to speak very loudly",
+  "example_en": "No need to shout it, but I'm genuinely happy to hear from you.",
+  "uk": "Не треба кричати, але я щиро радий чути від тебе."
+ },
+ {
+  "n": 487,
+  "word": "show",
+  "ua": "показувати",
+  "meaning_en": "to make visible, or a performance",
+  "example_en": "Your letters show a lot about who you are.",
+  "uk": "Твої листи багато показують про те, хто ти є."
+ },
+ {
+  "n": 488,
+  "word": "shrink",
+  "ua": "зменшуватися",
+  "meaning_en": "to become smaller",
+  "example_en": "The distance between us feels like it shrinks a little with every letter.",
+  "uk": "Відстань між нами ніби зменшується з кожним листом."
+ },
+ {
+  "n": 489,
+  "word": "side",
+  "ua": "сторона",
+  "meaning_en": "one part of something with two or more parts",
+  "example_en": "I like seeing this side of you — thoughtful, a little funny.",
+  "uk": "Мені подобається бачити цю твою сторону — вдумливу, трохи смішну."
+ },
+ {
+  "n": 490,
+  "word": "sign",
+  "ua": "знак",
+  "meaning_en": "a mark, or to write your name",
+  "example_en": "Your last letter was a good sign things are back on track.",
+  "uk": "Твій останній лист — добрий знак, що все повертається на шлях."
+ },
+ {
+  "n": 491,
+  "word": "signal",
+  "ua": "сигнал",
+  "meaning_en": "a message sent through an action or sound",
+  "example_en": "I took your silence as a signal you needed space, and I think I was right.",
+  "uk": "Я сприйняв твою мовчанку як сигнал, що тобі потрібен простір, і, гадаю, мав рацію."
+ },
+ {
+  "n": 492,
+  "word": "silence",
+  "ua": "мовчання",
+  "meaning_en": "the absence of noise",
+  "example_en": "The silence was hard, but I understand why now.",
+  "uk": "Мовчання було важким, але тепер я розумію чому."
+ },
+ {
+  "n": 493,
+  "word": "similar",
+  "ua": "схожий",
+  "meaning_en": "alike, but not exactly the same",
+  "example_en": "We come from pretty similar values, it sounds like — family first.",
+  "uk": "Схоже, що наші цінності досить схожі — сім'я понад усе."
+ },
+ {
+  "n": 494,
+  "word": "simple",
+  "ua": "простий",
+  "meaning_en": "easy; not complicated",
+  "example_en": "My hope for us is simple: honesty and patience.",
+  "uk": "Моя надія на нас проста: чесність і терпіння."
+ },
+ {
+  "n": 495,
+  "word": "since",
+  "ua": "відтоді",
+  "meaning_en": "from a time in the past until now",
+  "example_en": "Since your first letter, I've looked forward to hearing from you.",
+  "uk": "Відтоді, як прийшов твій перший лист, я чекаю на твої новини."
+ },
+ {
+  "n": 496,
+  "word": "sing",
+  "ua": "співати",
+  "meaning_en": "to make music with the voice",
+  "example_en": "Do you sing, or just enjoy listening to music?",
+  "uk": "Ти співаєш, чи просто любиш слухати музику?"
+ },
+ {
+  "n": 497,
+  "word": "single",
+  "ua": "єдиний",
+  "meaning_en": "only one",
+  "example_en": "Every single letter from you makes my day better.",
+  "uk": "Кожен окремий твій лист покращує мій день."
+ },
+ {
+  "n": 498,
+  "word": "sink",
+  "ua": "тонути",
+  "meaning_en": "to go down into water or liquid",
+  "example_en": "I won't let one quiet month sink this connection.",
+  "uk": "Я не дозволю одному тихому місяцю потопити цей зв'язок."
+ },
+ {
+  "n": 499,
+  "word": "sister",
+  "ua": "сестра",
+  "meaning_en": "a female sibling",
+  "example_en": "Do you have a sister, along with your brothers?",
+  "uk": "У тебе є сестра, крім братів?"
+ },
+ {
+  "n": 500,
+  "word": "sit",
+  "ua": "сидіти",
+  "meaning_en": "to rest on the lower body",
+  "example_en": "Let's just sit with this for a while, no rush.",
+  "uk": "Давай просто посидимо з цим якийсь час, без поспіху."
+ },
+ {
+  "n": 501,
+  "word": "situation",
+  "ua": "ситуація",
+  "meaning_en": "the way things are at a certain time",
+  "example_en": "I understand the situation with your grandmother came out of nowhere.",
+  "uk": "Я розумію, що ситуація з твоєю бабусею виникла несподівано."
+ },
+ {
+  "n": 502,
+  "word": "size",
+  "ua": "розмір",
+  "meaning_en": "how big or small something is",
+  "example_en": "I didn't realize the size of the property issue until you explained.",
+  "uk": "Я не усвідомлював масштабу питання з майном, поки ти не пояснила."
+ },
+ {
+  "n": 503,
+  "word": "skill",
+  "ua": "навичка",
+  "meaning_en": "ability gained through practice",
+  "example_en": "Your English skill is already really strong.",
+  "uk": "Твоя навичка англійської вже справді добра."
+ },
+ {
+  "n": 504,
+  "word": "skin",
+  "ua": "шкіра",
+  "meaning_en": "the outer covering of the body",
+  "example_en": "Random, but is the sun strong in Porto right now?",
+  "uk": "Випадкове питання: зараз сонце в Порту сильне?"
+ },
+ {
+  "n": 505,
+  "word": "sky",
+  "ua": "небо",
+  "meaning_en": "the space above the earth",
+  "example_en": "Same sky, different view, I guess.",
+  "uk": "Те саме небо, різний краєвид, мабуть."
+ },
+ {
+  "n": 506,
+  "word": "sleep",
+  "ua": "спати",
+  "meaning_en": "to rest with eyes closed",
+  "example_en": "I hope you're getting enough sleep with all this going on.",
+  "uk": "Сподіваюся, ти висипаєшся, з усім цим."
+ },
+ {
+  "n": 507,
+  "word": "slide",
+  "ua": "ковзати",
+  "meaning_en": "to move smoothly over a surface",
+  "example_en": "Things seem to be sliding back to normal for you now.",
+  "uk": "Здається, у тебе все поступово повертається до нормального."
+ },
+ {
+  "n": 508,
+  "word": "slow",
+  "ua": "повільний",
+  "meaning_en": "not fast",
+  "example_en": "I'm okay with slow, if it means we do this right.",
+  "uk": "Мені добре з повільним темпом, якщо так ми зробимо все правильно."
+ },
+ {
+  "n": 509,
+  "word": "small",
+  "ua": "малий",
+  "meaning_en": "little in size",
+  "example_en": "Even small updates from you make my day.",
+  "uk": "Навіть маленькі новини від тебе роблять мій день кращим."
+ },
+ {
+  "n": 510,
+  "word": "smell",
+  "ua": "пахнути",
+  "meaning_en": "to sense through the nose",
+  "example_en": "What does Porto smell like — the ocean, or something else?",
+  "uk": "Як пахне Порту — океаном чи чимось іншим?"
+ },
+ {
+  "n": 511,
+  "word": "smoke",
+  "ua": "дим",
+  "meaning_en": "the visible gas from something burning",
+  "example_en": "Hopefully no fires, just figuratively speaking about how busy things have been.",
+  "uk": "Сподіваюся, пожеж немає, це лише образно про те, наскільки все було зайнято."
+ },
+ {
+  "n": 512,
+  "word": "smooth",
+  "ua": "гладкий",
+  "meaning_en": "even; without trouble",
+  "example_en": "I hope the rest of the paperwork goes smooth from here.",
+  "uk": "Сподіваюся, решта паперів піде гладко від цього моменту."
+ },
+ {
+  "n": 513,
+  "word": "snow",
+  "ua": "сніг",
+  "meaning_en": "frozen water falling from the sky",
+  "example_en": "No snow for you in Portugal, I'm guessing, even now.",
+  "uk": "Снігу в Португалії, мабуть, не буває навіть зараз?"
+ },
+ {
+  "n": 514,
+  "word": "so",
+  "ua": "тому; дуже",
+  "meaning_en": "as a result, or very",
+  "example_en": "So, tell me everything about your grandmother's neighborhood.",
+  "uk": "Отже, розкажи мені все про район, де живе твоя бабуся."
+ },
+ {
+  "n": 515,
+  "word": "social",
+  "ua": "соціальний",
+  "meaning_en": "relating to people and groups",
+  "example_en": "I'm not that social these days, mostly family and work.",
+  "uk": "Останнім часом я не дуже товариський, в основному родина і робота."
+ },
+ {
+  "n": 516,
+  "word": "soft",
+  "ua": "м'який",
+  "meaning_en": "gentle; not hard",
+  "example_en": "There's a soft, thoughtful side to how you write.",
+  "uk": "У тому, як ти пишеш, є м'яка, вдумлива сторона."
+ },
+ {
+  "n": 517,
+  "word": "soil",
+  "ua": "ґрунт",
+  "meaning_en": "the earth plants grow in",
+  "example_en": "Sounds like your grandmother's family has deep roots — history in that property.",
+  "uk": "Схоже, родина твоєї бабусі має глибокі корені — історія в тому майні."
+ },
+ {
+  "n": 518,
+  "word": "solid",
+  "ua": "міцний",
+  "meaning_en": "firm and stable",
+  "example_en": "I want us to build something solid, slowly.",
+  "uk": "Я хочу побудувати щось міцне, повільно."
+ },
+ {
+  "n": 519,
+  "word": "solve",
+  "ua": "вирішувати",
+  "meaning_en": "to find an answer",
+  "example_en": "I hope the property matter gets solved without too much stress.",
+  "uk": "Сподіваюся, питання майна вирішиться без зайвого стресу."
+ },
+ {
+  "n": 520,
+  "word": "some",
+  "ua": "деякі",
+  "meaning_en": "an amount, not all",
+  "example_en": "Tell me some of the good moments from this past month too, not just the hard ones.",
+  "uk": "Розкажи мені і про деякі гарні моменти цього місяця, а не лише важкі."
+ },
+ {
+  "n": 521,
+  "word": "son",
+  "ua": "син",
+  "meaning_en": "a male child",
+  "example_en": "How's your relationship with your stepfather, if you don't mind me asking?",
+  "uk": "Як у тебе стосунки з вітчимом, якщо не заперечуєш, що питаю?"
+ },
+ {
+  "n": 522,
+  "word": "soon",
+  "ua": "незабаром",
+  "meaning_en": "not long from now",
+  "example_en": "Talk soon, I hope.",
+  "uk": "Сподіваюся, скоро поговоримо."
+ },
+ {
+  "n": 523,
+  "word": "sort",
+  "ua": "сорт, вид",
+  "meaning_en": "a type or kind",
+  "example_en": "This is a new sort of connection for me too, honestly.",
+  "uk": "Чесно кажучи, це для мене теж новий вид зв'язку."
+ },
+ {
+  "n": 524,
+  "word": "sound",
+  "ua": "звучати; звук",
+  "meaning_en": "something heard, or to seem",
+  "example_en": "You sound a lot more relaxed in this last letter.",
+  "uk": "У цьому останньому листі ти звучиш набагато спокійніше."
+ },
+ {
+  "n": 525,
+  "word": "south",
+  "ua": "південь",
+  "meaning_en": "a direction",
+  "example_en": "Is Porto more north or south in Portugal?",
+  "uk": "Порту на півночі чи півдні Португалії?"
+ },
+ {
+  "n": 526,
+  "word": "space",
+  "ua": "простір",
+  "meaning_en": "the area around something, or room to breathe",
+  "example_en": "I'm glad I gave you space, even though it was hard.",
+  "uk": "Я радий, що дав тобі простір, хоча було важко."
+ },
+ {
+  "n": 527,
+  "word": "speak",
+  "ua": "говорити",
+  "meaning_en": "to talk",
+  "example_en": "I'd love to actually speak with you soon, not just write.",
+  "uk": "Я б хотів справді поговорити з тобою незабаром, а не лише писати."
+ },
+ {
+  "n": 528,
+  "word": "special",
+  "ua": "особливий",
+  "meaning_en": "different or better than usual",
+  "example_en": "You've become someone pretty special to me these past months.",
+  "uk": "За ці місяці ти стала для мене кимось дуже особливим."
+ },
+ {
+  "n": 529,
+  "word": "speech",
+  "ua": "промова",
+  "meaning_en": "a talk given to a group",
+  "example_en": "No big speech needed — just glad you're back.",
+  "uk": "Не потрібна велика промова — я просто радий, що ти повернулася."
+ },
+ {
+  "n": 530,
+  "word": "speed",
+  "ua": "швидкість",
+  "meaning_en": "how fast something moves",
+  "example_en": "No need to rush the speed of all this.",
+  "uk": "Не треба поспішати з швидкістю всього цього."
+ },
+ {
+  "n": 531,
+  "word": "spend",
+  "ua": "витрачати",
+  "meaning_en": "to use money or time",
+  "example_en": "I've spent a lot of my free time this month on a work project.",
+  "uk": "Я витратив багато вільного часу цього місяця на робочий проєкт."
+ },
+ {
+  "n": 532,
+  "word": "spill",
+  "ua": "розливати; виливати",
+  "meaning_en": "to let liquid flow out, or to share openly",
+  "example_en": "Feel free to spill everything about your trip whenever you're ready.",
+  "uk": "Розповідай усе про свою подорож, коли будеш готова."
+ },
+ {
+  "n": 533,
+  "word": "spirit",
+  "ua": "дух",
+  "meaning_en": "the non-physical part of a person; their attitude",
+  "example_en": "You have a strong spirit, from everything you've shared.",
+  "uk": "У тебе сильний дух, судячи з того, чим ти поділилася."
+ },
+ {
+  "n": 534,
+  "word": "split",
+  "ua": "ділити",
+  "meaning_en": "to divide into parts",
+  "example_en": "Your time is split between here, there, and your grandmother's needs — that's a lot.",
+  "uk": "Твій час розділений між тут, там і потребами бабусі — це багато."
+ },
+ {
+  "n": 535,
+  "word": "sport",
+  "ua": "спорт",
+  "meaning_en": "a game involving physical effort",
+  "example_en": "Do you follow any sport, or is that more my thing?",
+  "uk": "Ти слідкуєш за якимось спортом, чи це більше мій напрямок?"
+ },
+ {
+  "n": 536,
+  "word": "spread",
+  "ua": "поширюватися",
+  "meaning_en": "to become wider or known",
+  "example_en": "I hope your grandmother's good news spreads soon.",
+  "uk": "Сподіваюся, добрі новини про бабусю скоро поширяться."
+ },
+ {
+  "n": 537,
+  "word": "spring",
+  "ua": "весна",
+  "meaning_en": "the season between winter and summer",
+  "example_en": "Spring here means the kids are itching to be outside more.",
+  "uk": "Весна тут означає, що діти прагнуть бути надворі."
+ },
+ {
+  "n": 538,
+  "word": "square",
+  "ua": "квадрат",
+  "meaning_en": "a shape with four equal sides",
+  "example_en": "Let's just be even and honest with each other going forward.",
+  "uk": "Давай просто будемо рівними і чесними один з одним далі."
+ },
+ {
+  "n": 539,
+  "word": "stand",
+  "ua": "витримувати",
+  "meaning_en": "to be upright, or to tolerate",
+  "example_en": "I can't stand not knowing how someone I care about is doing.",
+  "uk": "Я не можу витримати, коли не знаю, як справи в людини, яка мені дорога."
+ },
+ {
+  "n": 540,
+  "word": "star",
+  "ua": "зірка",
+  "meaning_en": "a point of light in the night sky, or a well-known person",
+  "example_en": "You're kind of a star in my inbox these days.",
+  "uk": "Останнім часом ти в моїй пошті ніби зірка."
+ },
+ {
+  "n": 541,
+  "word": "start",
+  "ua": "початок",
+  "meaning_en": "the beginning",
+  "example_en": "This feels like the start of something worth being patient for.",
+  "uk": "Це відчувається як початок чогось, за що варто почекати."
+ },
+ {
+  "n": 542,
+  "word": "state",
+  "ua": "стан; заявляти",
+  "meaning_en": "a condition, or to declare",
+  "example_en": "I'll state it clearly: I'm glad you're safe and back in touch.",
+  "uk": "Скажу чітко: я радий, що ти в безпеці і знову на зв'язку."
+ },
+ {
+  "n": 543,
+  "word": "stay",
+  "ua": "залишатися",
+  "meaning_en": "to remain",
+  "example_en": "I hope you get to stay a little longer with your grandmother if it helps her.",
+  "uk": "Сподіваюся, ти зможеш трохи довше побути з бабусею, якщо їй це допоможе."
+ },
+ {
+  "n": 544,
+  "word": "steam",
+  "ua": "пара",
+  "meaning_en": "hot gas rising from water",
+  "example_en": "No steam needed, just a slow simmer on this one — no rush.",
+  "uk": "Пари тут не треба, просто повільний кип'яток — без поспіху."
+ },
+ {
+  "n": 545,
+  "word": "steel",
+  "ua": "сталь",
+  "meaning_en": "a strong metal",
+  "example_en": "You've shown a steel kind of strength this month.",
+  "uk": "Ти виявила сталеву силу цього місяця."
+ },
+ {
+  "n": 546,
+  "word": "step",
+  "ua": "крок",
+  "meaning_en": "one part of a series of actions",
+  "example_en": "One step at a time feels right for us.",
+  "uk": "Крок за кроком — відчувається правильно для нас."
+ },
+ {
+  "n": 547,
+  "word": "stick",
+  "ua": "триматися",
+  "meaning_en": "to attach, or to stay committed",
+  "example_en": "I plan to stick around, however this goes.",
+  "uk": "Я планую залишатися поруч, як би це не склалося."
+ },
+ {
+  "n": 548,
+  "word": "still",
+  "ua": "ще; досі",
+  "meaning_en": "even so; continuing",
+  "example_en": "I still think about that story of your grandmother crying when you arrived.",
+  "uk": "Я досі думаю про ту історію, як твоя бабуся плакала, коли ти приїхала."
+ },
+ {
+  "n": 549,
+  "word": "stone",
+  "ua": "камінь",
+  "meaning_en": "a small piece of rock",
+  "example_en": "Leave no stone unturned trying to help her, if you can.",
+  "uk": "Не залишай каменя на камені, намагаючись їй допомогти, якщо можеш."
+ },
+ {
+  "n": 550,
+  "word": "stop",
+  "ua": "зупиняти",
+  "meaning_en": "to end an action",
+  "example_en": "I don't plan to stop writing to you anytime soon.",
+  "uk": "Я не планую перестати писати тобі найближчим часом."
+ },
+ {
+  "n": 551,
+  "word": "store",
+  "ua": "магазин",
+  "meaning_en": "a place to buy things, or to keep for later",
+  "example_en": "Found any good stores in Porto yet?",
+  "uk": "Уже знайшла гарні магазини в Порту?"
+ },
+ {
+  "n": 552,
+  "word": "storm",
+  "ua": "буря",
+  "meaning_en": "violent weather",
+  "example_en": "It sounds like this month was a bit of a storm for your family.",
+  "uk": "Схоже, цей місяць був для твоєї родини справжньою бурею."
+ },
+ {
+  "n": 553,
+  "word": "story",
+  "ua": "історія",
+  "meaning_en": "an account of events",
+  "example_en": "I loved the story about your mom baking that cake.",
+  "uk": "Мені сподобалася історія про те, як твоя мама пекла той торт."
+ },
+ {
+  "n": 554,
+  "word": "stove",
+  "ua": "плита",
+  "meaning_en": "a device for cooking",
+  "example_en": "Is Portuguese food very different from what you cook at home?",
+  "uk": "Португальська їжа дуже відрізняється від того, що ти готуєш удома?"
+ },
+ {
+  "n": 555,
+  "word": "straight",
+  "ua": "прямо",
+  "meaning_en": "without turns; direct",
+  "example_en": "I'll be straight with you: I missed you.",
+  "uk": "Скажу прямо: я сумував за тобою."
+ },
+ {
+  "n": 556,
+  "word": "strange",
+  "ua": "дивний",
+  "meaning_en": "unusual",
+  "example_en": "It's a strange feeling, missing someone I've never met in person.",
+  "uk": "Це дивне відчуття — сумувати за людиною, яку я ніколи не бачив наживо."
+ },
+ {
+  "n": 557,
+  "word": "street",
+  "ua": "вулиця",
+  "meaning_en": "a road in a town",
+  "example_en": "What's the street where your grandmother lives like?",
+  "uk": "Яка вулиця, на якій живе твоя бабуся?"
+ },
+ {
+  "n": 558,
+  "word": "stretch",
+  "ua": "проміжок",
+  "meaning_en": "to extend, or a period of time",
+  "example_en": "That was a long stretch without hearing from you, but I understand why.",
+  "uk": "Це був довгий проміжок без новин від тебе, але я розумію чому."
+ },
+ {
+  "n": 559,
+  "word": "strong",
+  "ua": "сильний",
+  "meaning_en": "powerful; not easily broken",
+  "example_en": "You seem like a strong person, even during a hard month.",
+  "uk": "Ти здаєшся сильною людиною, навіть у важкий місяць."
+ },
+ {
+  "n": 560,
+  "word": "structure",
+  "ua": "структура",
+  "meaning_en": "the way something is organized",
+  "example_en": "I like the structure we've fallen into, letter by letter.",
+  "uk": "Мені подобається структура, яка склалася у нас, лист за листом."
+ },
+ {
+  "n": 561,
+  "word": "struggle",
+  "ua": "боротися",
+  "meaning_en": "to try hard against difficulty",
+  "example_en": "I imagine it was a struggle managing everything so quickly.",
+  "uk": "Уявляю, що було важко так швидко все тягнути."
+ },
+ {
+  "n": 562,
+  "word": "study",
+  "ua": "вивчати",
+  "meaning_en": "to make an effort to learn",
+  "example_en": "I've been studying you a little, in a good way — remembering the small things.",
+  "uk": "Я трохи вивчаю тебе — добре, пам'ятаю дрібниці."
+ },
+ {
+  "n": 563,
+  "word": "subject",
+  "ua": "тема",
+  "meaning_en": "the topic being discussed",
+  "example_en": "Change of subject — how are your kids these days?",
+  "uk": "Змінимо тему — як твої діти зараз?"
+ },
+ {
+  "n": 564,
+  "word": "substance",
+  "ua": "суть; речовина",
+  "meaning_en": "the actual material something is made of",
+  "example_en": "I like that there's real substance in your letters, not just small talk.",
+  "uk": "Мені подобається, що в твоїх листах є справжній зміст, а не лише балачки."
+ },
+ {
+  "n": 565,
+  "word": "substitute",
+  "ua": "замінник",
+  "meaning_en": "something used in place of another",
+  "example_en": "A letter is a poor substitute for your actual voice, but it'll do for now.",
+  "uk": "Лист — поганий замінник твого справжнього голосу, але поки що годиться."
+ },
+ {
+  "n": 566,
+  "word": "succeed",
+  "ua": "досягати успіху",
+  "meaning_en": "to reach a goal",
+  "example_en": "I hope everything succeeds with your grandmother's paperwork.",
+  "uk": "Сподіваюся, у паперах твоєї бабусі все вийде."
+ },
+ {
+  "n": 567,
+  "word": "such",
+  "ua": "такий",
+  "meaning_en": "of this kind",
+  "example_en": "It's such a relief to hear from you.",
+  "uk": "Такий полегшення почути від тебе."
+ },
+ {
+  "n": 568,
+  "word": "sudden",
+  "ua": "раптовий",
+  "meaning_en": "happening without warning",
+  "example_en": "I understand the trip was sudden, but I'm glad you went.",
+  "uk": "Розумію, що поїздка була несподіваною, але я радий, що ти поїхала."
+ },
+ {
+  "n": 569,
+  "word": "suffer",
+  "ua": "страждати",
+  "meaning_en": "to experience pain or hardship",
+  "example_en": "I hope your grandmother isn't suffering too much through all this.",
+  "uk": "Сподіваюся, твоя бабуся не дуже страждає через усе це."
+ },
+ {
+  "n": 570,
+  "word": "suggest",
+  "ua": "пропонувати",
+  "meaning_en": "to offer an idea",
+  "example_en": "Can I suggest a video call sometime next week?",
+  "uk": "Можна запропонувати відеодзвінок наступного тижня?"
+ },
+ {
+  "n": 571,
+  "word": "sun",
+  "ua": "сонце",
+  "meaning_en": "the star that gives us light and heat",
+  "example_en": "I hope you're getting some sun in Porto.",
+  "uk": "Сподіваюся, ти отримуєш трохи сонця в Порту."
+ },
+ {
+  "n": 572,
+  "word": "supervise",
+  "ua": "наглядати",
+  "meaning_en": "to watch over and direct",
+  "example_en": "Is your grandmother's care something you're supervising directly, or is there help there?",
+  "uk": "Чи ти сама доглядаєш за бабусею, чи там є допомога?"
+ },
+ {
+  "n": 573,
+  "word": "supply",
+  "ua": "постачати",
+  "meaning_en": "to give or provide",
+  "example_en": "I'll supply the questions if you supply the stories.",
+  "uk": "Я дам питання, якщо ти даси історії."
+ },
+ {
+  "n": 574,
+  "word": "support",
+  "ua": "підтримувати",
+  "meaning_en": "to help or hold up",
+  "example_en": "I want you to know I'm here to support you, even from far away.",
+  "uk": "Хочу, щоб ти знала: я тут, щоб тебе підтримати, навіть з далека."
+ },
+ {
+  "n": 575,
+  "word": "suppose",
+  "ua": "припускати",
+  "meaning_en": "to believe or assume",
+  "example_en": "I suppose we'll figure out the pace of this as we go.",
+  "uk": "Гадаю, ми розберемося з темпом по ходу."
+ },
+ {
+  "n": 576,
+  "word": "sure",
+  "ua": "певний",
+  "meaning_en": "certain",
+  "example_en": "I'm sure this past month wasn't easy for you.",
+  "uk": "Я впевнений, що цей останній місяць був для тебе нелегким."
+ },
+ {
+  "n": 577,
+  "word": "surface",
+  "ua": "поверхня",
+  "meaning_en": "the outer layer of something",
+  "example_en": "There's more beneath the surface of your letters than you probably realize.",
+  "uk": "Під поверхнею твоїх листів є більше, ніж ти, мабуть, думаєш."
+ },
+ {
+  "n": 578,
+  "word": "surprise",
+  "ua": "сюрприз",
+  "meaning_en": "something unexpected",
+  "example_en": "Your letter yesterday was a very welcome surprise.",
+  "uk": "Твій вчорашній лист був дуже бажаним сюрпризом."
+ },
+ {
+  "n": 579,
+  "word": "surround",
+  "ua": "оточувати",
+  "meaning_en": "to be all around something",
+  "example_en": "It sounds like your grandmother is surrounded by family right now, which is good.",
+  "uk": "Схоже, зараз твою бабусю оточує родина, і це добре."
+ },
+ {
+  "n": 580,
+  "word": "survive",
+  "ua": "вижити",
+  "meaning_en": "to remain alive through something difficult",
+  "example_en": "You clearly know how to survive a hard month with grace.",
+  "uk": "Ти явно вмієш пережити важкий місяць з гідністю."
+ },
+ {
+  "n": 581,
+  "word": "swallow",
+  "ua": "ковтати",
+  "meaning_en": "to take into the stomach, or to accept something difficult",
+  "example_en": "Sometimes you just have to swallow the stress and keep moving.",
+  "uk": "Іноді треба просто проковтнути стрес і рухатися далі."
+ },
+ {
+  "n": 582,
+  "word": "sweet",
+  "ua": "солодкий",
+  "meaning_en": "pleasant; kind",
+  "example_en": "That was a sweet story about the mushrooms and your siblings.",
+  "uk": "Це була мила історія про гриби й твоїх братів і сестер."
+ },
+ {
+  "n": 583,
+  "word": "swim",
+  "ua": "плавати",
+  "meaning_en": "to move through water",
+  "example_en": "Any chance to swim near Porto, or is it too cold this time of year?",
+  "uk": "Є шанс поплавати біля Порту, чи зараз занадто холодно?"
+ },
+ {
+  "n": 584,
+  "word": "sympathy",
+  "ua": "співчуття",
+  "meaning_en": "shared feeling, especially sadness",
+  "example_en": "You have my full sympathy for everything going on with your grandmother.",
+  "uk": "Маю повне співчуття щодо всього, що відбувається з твоєю бабусею."
+ },
+ {
+  "n": 585,
+  "word": "system",
+  "ua": "система",
+  "meaning_en": "an organized way of doing things",
+  "example_en": "We seem to have a nice little system now — write, wait, write back.",
+  "uk": "Тепер у нас ніби склалася гарна система: пишемо, чекаємо, відповідаємо."
+ },
+ {
+  "n": 586,
+  "word": "take",
+  "ua": "брати",
+  "meaning_en": "to receive, or to require",
+  "example_en": "Take your time with everything — I'm not going anywhere.",
+  "uk": "Не поспішай з усім — я нікуди не йду."
+ },
+ {
+  "n": 587,
+  "word": "talk",
+  "ua": "говорити",
+  "meaning_en": "to speak with someone",
+  "example_en": "I'd love to actually talk soon, not just write.",
+  "uk": "Я б хотів справді поговорити незабаром, а не лише писати."
+ },
+ {
+  "n": 588,
+  "word": "tall",
+  "ua": "високий",
+  "meaning_en": "having great height",
+  "example_en": "Random, but are you tall or short? I realize I don't even know.",
+  "uk": "Випадкове питання: ти висока чи низька? Розумію, що навіть не знаю."
+ },
+ {
+  "n": 589,
+  "word": "taste",
+  "ua": "смак",
+  "meaning_en": "to sense through the mouth, or a preference",
+  "example_en": "What's your taste in food — do you like spicy?",
+  "uk": "Який у тебе смак до їжі — любиш гостре?"
+ },
+ {
+  "n": 590,
+  "word": "tea",
+  "ua": "чай",
+  "meaning_en": "a hot drink from a plant",
+  "example_en": "I remember you're a tea drinker.",
+  "uk": "Пам'ятаю, що ти любиш чай."
+ },
+ {
+  "n": 591,
+  "word": "teach",
+  "ua": "навчати",
+  "meaning_en": "to help someone learn",
+  "example_en": "You're teaching me a bit of patience, honestly.",
+  "uk": "Ти трохи вчиш мене терпінню, чесно."
+ },
+ {
+  "n": 592,
+  "word": "team",
+  "ua": "команда",
+  "meaning_en": "a group working toward a shared goal",
+  "example_en": "My work team has been busy lately.",
+  "uk": "Моя робоча команда останнім часом була дуже зайнята."
+ },
+ {
+  "n": 593,
+  "word": "tear",
+  "ua": "рвати; сльоза",
+  "meaning_en": "to pull apart, or (as a noun) a drop from crying",
+  "example_en": "I bet there were a few tears when you saw your grandmother.",
+  "uk": "Мабуть, було кілька сліз, коли ти побачила бабусю."
+ },
+ {
+  "n": 594,
+  "word": "technical",
+  "ua": "технічний",
+  "meaning_en": "related to machines or specialized skill",
+  "example_en": "My work project is pretty technical, hard to explain in a letter.",
+  "uk": "Мій робочий проєкт досить технічний, важко пояснити в листі."
+ },
+ {
+  "n": 595,
+  "word": "technology",
+  "ua": "технологія",
+  "meaning_en": "tools and methods from science",
+  "example_en": "Technology is the only reason we can even do this long-distance.",
+  "uk": "Технології — єдина причина, чому ми взагалі можемо так спілкуватися на відстані."
+ },
+ {
+  "n": 596,
+  "word": "telephone",
+  "ua": "телефон",
+  "meaning_en": "a device for talking at a distance",
+  "example_en": "I'd love to hear your voice on the telephone soon.",
+  "uk": "Хотів би незабаром почути твій голос по телефону."
+ },
+ {
+  "n": 597,
+  "word": "tell",
+  "ua": "розповідати",
+  "meaning_en": "to say or make known",
+  "example_en": "Tell me more about your grandmother's neighborhood.",
+  "uk": "Розкажи мені більше про район, де живе твоя бабуся."
+ },
+ {
+  "n": 598,
+  "word": "temperature",
+  "ua": "температура",
+  "meaning_en": "the measure of heat or cold",
+  "example_en": "What's the temperature like in Porto this time of year?",
+  "uk": "Яка температура в Порту в цю пору року?"
+ },
+ {
+  "n": 599,
+  "word": "temporary",
+  "ua": "тимчасовий",
+  "meaning_en": "lasting only a short time",
+  "example_en": "I hope this distance is only temporary.",
+  "uk": "Сподіваюся, ця відстань тимчасова."
+ },
+ {
+  "n": 600,
+  "word": "tense",
+  "ua": "напружений",
+  "meaning_en": "feeling worried or stressed",
+  "example_en": "It sounds like it's been a tense month for your whole family.",
+  "uk": "Схоже, для всієї твоєї родини це був напружений місяць."
+ },
+ {
+  "n": 601,
+  "word": "term",
+  "ua": "термін; час",
+  "meaning_en": "a period of time, or a word/phrase",
+  "example_en": "In simple terms, I just missed you.",
+  "uk": "Простими словами: я просто сумував за тобою."
+ },
+ {
+  "n": 602,
+  "word": "terrible",
+  "ua": "жахливий",
+  "meaning_en": "very bad",
+  "example_en": "A terrible month for logistics, but a good outcome with your grandmother.",
+  "uk": "Жахливий місяць з логістикою, але добрий результат з бабусею."
+ },
+ {
+  "n": 603,
+  "word": "test",
+  "ua": "випробовувати",
+  "meaning_en": "to try or examine",
+  "example_en": "This whole month tested my patience a little, but in an okay way.",
+  "uk": "Увесь цей місяць трохи випробовував моє терпіння, але в доброму сенсі."
+ },
+ {
+  "n": 604,
+  "word": "than",
+  "ua": "ніж",
+  "meaning_en": "used to compare",
+  "example_en": "I care about your peace of mind more than a fast reply.",
+  "uk": "Мені важливіший твій спокій, ніж швидка відповідь."
+ },
+ {
+  "n": 605,
+  "word": "thank",
+  "ua": "дякувати",
+  "meaning_en": "to express gratitude",
+  "example_en": "Thank you for explaining everything so honestly.",
+  "uk": "Дякую, що все так чесно пояснила."
+ },
+ {
+  "n": 606,
+  "word": "that",
+  "ua": "що",
+  "meaning_en": "refers to something already mentioned",
+  "example_en": "That story about your birthday made me smile.",
+  "uk": "Та історія про твій день народження змусила мене усміхнутися."
+ },
+ {
+  "n": 607,
+  "word": "theater",
+  "ua": "театр",
+  "meaning_en": "a place where plays or movies are shown",
+  "example_en": "Any good theater or movies in Porto worth mentioning?",
+  "uk": "Чи є в Порту гарний театр або фільми, які варто згадати?"
+ },
+ {
+  "n": 608,
+  "word": "theory",
+  "ua": "теорія",
+  "meaning_en": "a possible explanation",
+  "example_en": "My theory is that this connection is worth being patient for.",
+  "uk": "Моя теорія така: цей зв'язок вартий того, щоб чекати."
+ },
+ {
+  "n": 609,
+  "word": "there",
+  "ua": "там",
+  "meaning_en": "in that place",
+  "example_en": "I'm glad you had family there to lean on.",
+  "uk": "Я радий, що там була родина, на яку ти могла спертися."
+ },
+ {
+  "n": 610,
+  "word": "these",
+  "ua": "ці",
+  "meaning_en": "referring to things nearby",
+  "example_en": "These past few weeks have felt long.",
+  "uk": "Ці останні кілька тижнів здалися довгими."
+ },
+ {
+  "n": 611,
+  "word": "they",
+  "ua": "вони",
+  "meaning_en": "referring to people already mentioned",
+  "example_en": "Are they all managing okay, your grandmother and the rest of the family?",
+  "uk": "Чи всі вони справляються, твоя бабуся і решта родини?"
+ },
+ {
+  "n": 612,
+  "word": "thick",
+  "ua": "густий",
+  "meaning_en": "having a large distance between two sides",
+  "example_en": "Things got thick with paperwork, it sounds like.",
+  "uk": "Схоже, з паперами стало густо."
+ },
+ {
+  "n": 613,
+  "word": "thin",
+  "ua": "тонкий",
+  "meaning_en": "the opposite of thick",
+  "example_en": "No need to spread yourself thin trying to handle everything alone.",
+  "uk": "Не треба розриватися, намагаючись впоратися з усім самій."
+ },
+ {
+  "n": 614,
+  "word": "thing",
+  "ua": "річ",
+  "meaning_en": "any object or matter",
+  "example_en": "The best thing about yesterday was your letter.",
+  "uk": "Найкраще у вчорашньому дні був твій лист."
+ },
+ {
+  "n": 615,
+  "word": "think",
+  "ua": "думати",
+  "meaning_en": "to have thoughts about",
+  "example_en": "I think about you more than I probably should admit.",
+  "uk": "Я думаю про тебе більше, ніж, мабуть, варто було б визнавати."
+ },
+ {
+  "n": 616,
+  "word": "third",
+  "ua": "третій",
+  "meaning_en": "coming after two others",
+  "example_en": "This is maybe the third real conversation we've had about how we feel.",
+  "uk": "Це, мабуть, уже третя справжня розмова про те, що ми відчуваємо."
+ },
+ {
+  "n": 617,
+  "word": "this",
+  "ua": "цей",
+  "meaning_en": "referring to something close or current",
+  "example_en": "This past month taught me how much I actually missed you.",
+  "uk": "Цей минулий місяць показав мені, як сильно я за тобою сумував."
+ },
+ {
+  "n": 618,
+  "word": "through",
+  "ua": "крізь",
+  "meaning_en": "from one end to the other",
+  "example_en": "I'm glad you got through the hardest part of the trip.",
+  "uk": "Я радий, що ти пройшла найважчу частину поїздки."
+ },
+ {
+  "n": 619,
+  "word": "throw",
+  "ua": "кидати",
+  "meaning_en": "to send through the air",
+  "example_en": "Don't throw away the progress we've made just because of one quiet month.",
+  "uk": "Не викидай прогрес, який ми зробили, через один тихий місяць."
+ },
+ {
+  "n": 620,
+  "word": "tie",
+  "ua": "зв'язувати",
+  "meaning_en": "to connect or join",
+  "example_en": "Family really does tie people together, even across countries.",
+  "uk": "Родина справді зв'язує людей, навіть через кордони."
+ },
+ {
+  "n": 621,
+  "word": "time",
+  "ua": "час",
+  "meaning_en": "the thing measured in days, hours, minutes",
+  "example_en": "Take all the time you need.",
+  "uk": "Бери стільки часу, скільки потрібно."
+ },
+ {
+  "n": 622,
+  "word": "tired",
+  "ua": "втомлений",
+  "meaning_en": "needing rest",
+  "example_en": "You must be tired after everything — the travel, the stress, the family.",
+  "uk": "Ти, мабуть, втомилася після всього: подорож, стрес, родина."
+ },
+ {
+  "n": 623,
+  "word": "to",
+  "ua": "до",
+  "meaning_en": "showing direction or purpose",
+  "example_en": "I look forward to your next letter.",
+  "uk": "Чекаю на твій наступний лист."
+ },
+ {
+  "n": 624,
+  "word": "today",
+  "ua": "сьогодні",
+  "meaning_en": "this day",
+  "example_en": "How's today treating you?",
+  "uk": "Як сьогодні твій день?"
+ },
+ {
+  "n": 625,
+  "word": "together",
+  "ua": "разом",
+  "meaning_en": "as one group",
+  "example_en": "I like imagining us figuring all this out together.",
+  "uk": "Мені подобається уявляти, як ми все це разом розбираємо."
+ },
+ {
+  "n": 626,
+  "word": "tomorrow",
+  "ua": "завтра",
+  "meaning_en": "the day after today",
+  "example_en": "I hope tomorrow brings you some peace.",
+  "uk": "Сподіваюся, завтра принесе тобі трохи спокою."
+ },
+ {
+  "n": 627,
+  "word": "tonight",
+  "ua": "сьогодні ввечері",
+  "meaning_en": "this night",
+  "example_en": "Enjoy your family gathering tonight.",
+  "uk": "Насолоджуйся сімейною зустріччю сьогодні ввечері."
+ },
+ {
+  "n": 628,
+  "word": "too",
+  "ua": "також; занадто",
+  "meaning_en": "also, or more than necessary",
+  "example_en": "I hope you're taking care of yourself too, not just everyone else.",
+  "uk": "Сподіваюся, ти теж піклуєшся про себе, а не лише про всіх інших."
+ },
+ {
+  "n": 629,
+  "word": "tool",
+  "ua": "інструмент",
+  "meaning_en": "something used to do work",
+  "example_en": "This word list has turned into a nice tool for us to use together.",
+  "uk": "Цей список слів став для нас гарним інструментом, яким ми можемо користуватися разом."
+ },
+ {
+  "n": 630,
+  "word": "top",
+  "ua": "верх",
+  "meaning_en": "the highest part",
+  "example_en": "You're at the top of my list of people I look forward to hearing from.",
+  "uk": "Ти на вершині мого списку людей, від яких я чекаю новин."
+ },
+ {
+  "n": 631,
+  "word": "total",
+  "ua": "сума",
+  "meaning_en": "the complete amount",
+  "example_en": "The total time we've written each other is starting to add up.",
+  "uk": "Загальний час нашого листування починає накопичуватися."
+ },
+ {
+  "n": 632,
+  "word": "touch",
+  "ua": "дотик; зв'язок",
+  "meaning_en": "to make contact, or to stay in contact",
+  "example_en": "I'm glad we're back in touch.",
+  "uk": "Я радий, що ми знову на зв'язку."
+ },
+ {
+  "n": 633,
+  "word": "toward",
+  "ua": "до, у напрямку",
+  "meaning_en": "in the direction of",
+  "example_en": "Every letter feels like a small step toward really knowing you.",
+  "uk": "Кожен лист відчувається як маленький крок до того, щоб справді тебе пізнати."
+ },
+ {
+  "n": 634,
+  "word": "town",
+  "ua": "містечко",
+  "meaning_en": "a populated area, smaller than a city",
+  "example_en": "Is Porto a big city, or does it feel more like a town?",
+  "uk": "Порту велике місто, чи більше схоже на містечко?"
+ },
+ {
+  "n": 635,
+  "word": "trade",
+  "ua": "торгувати",
+  "meaning_en": "to exchange",
+  "example_en": "We've traded a lot of stories these past months.",
+  "uk": "Ми багато ділилися історіями за ці місяці."
+ },
+ {
+  "n": 636,
+  "word": "tradition",
+  "ua": "традиція",
+  "meaning_en": "a long-held custom",
+  "example_en": "It's a nice family tradition, gathering after a birthday like that.",
+  "uk": "Це гарна родинна традиція — збиратися після такого дня народження."
+ },
+ {
+  "n": 637,
+  "word": "traffic",
+  "ua": "рух транспорту",
+  "meaning_en": "vehicles moving along roads",
+  "example_en": "Is the traffic in Porto anything like Goiânia's?",
+  "uk": "Чи схожий рух у Порту на той, що в Гоянії?"
+ },
+ {
+  "n": 638,
+  "word": "train",
+  "ua": "потяг; навчати",
+  "meaning_en": "to teach a skill, or a vehicle on rails",
+  "example_en": "Did you take a train to get around Portugal?",
+  "uk": "Ти їздила потягом, щоб пересуватися Португалією?"
+ },
+ {
+  "n": 639,
+  "word": "transport",
+  "ua": "перевозити",
+  "meaning_en": "to move people or things",
+  "example_en": "How did you transport yourself to Portugal — a long flight, I'm guessing?",
+  "uk": "Як ти добиралася до Португалії — мабуть, довгим перельотом?"
+ },
+ {
+  "n": 640,
+  "word": "travel",
+  "ua": "подорож",
+  "meaning_en": "to go from one place to another",
+  "example_en": "I hope the rest of your travel is easier than the start of it.",
+  "uk": "Сподіваюся, решта подорожі буде легшою, ніж її початок."
+ },
+ {
+  "n": 641,
+  "word": "treasure",
+  "ua": "скарб",
+  "meaning_en": "something valuable",
+  "example_en": "I treasure these letters more than I expected to.",
+  "uk": "Ці листи я ціную більше, ніж очікував."
+ },
+ {
+  "n": 642,
+  "word": "treat",
+  "ua": "ставитися",
+  "meaning_en": "to act toward someone in a certain way",
+  "example_en": "You always treat people with a lot of warmth, from what I can tell.",
+  "uk": "З того, що я бачу, ти завжди ставишся до людей з великою теплотою."
+ },
+ {
+  "n": 643,
+  "word": "tree",
+  "ua": "дерево",
+  "meaning_en": "a tall plant",
+  "example_en": "Is there a particular tree or plant in Porto that's caught your eye?",
+  "uk": "Є якесь конкретне дерево чи рослина в Порту, що привернуло твою увагу?"
+ },
+ {
+  "n": 644,
+  "word": "tribe",
+  "ua": "плем'я",
+  "meaning_en": "a group of families with a common leader or history",
+  "example_en": "My own family has a bit of that clan feeling too, actually.",
+  "uk": "У моїй родині теж є трохи такого клану."
+ },
+ {
+  "n": 645,
+  "word": "trick",
+  "ua": "трюк; хитрість",
+  "meaning_en": "to fool someone, or a clever method",
+  "example_en": "No tricks here, just honesty.",
+  "uk": "Ніяких хитрощів тут немає, лише чесність."
+ },
+ {
+  "n": 646,
+  "word": "trip",
+  "ua": "поїздка",
+  "meaning_en": "a journey",
+  "example_en": "I hope the rest of the trip goes smoothly for you.",
+  "uk": "Сподіваюся, решта поїздки пройде для тебе гладко."
+ },
+ {
+  "n": 647,
+  "word": "trouble",
+  "ua": "неприємність",
+  "meaning_en": "difficulty or concern",
+  "example_en": "Let me know if there's any trouble I can actually help with, even from far away.",
+  "uk": "Дай знати, якщо є якась неприємність, з якою я справді можу допомогти, навіть здалеку."
+ },
+ {
+  "n": 648,
+  "word": "truck",
+  "ua": "вантажівка",
+  "meaning_en": "a large vehicle for carrying goods",
+  "example_en": "Random, but is Porto walkable, or do you need a car to get around?",
+  "uk": "Випадкове питання: у Порту зручно ходити пішки, чи потрібна машина?"
+ },
+ {
+  "n": 649,
+  "word": "true",
+  "ua": "правдивий",
+  "meaning_en": "correct; real",
+  "example_en": "It's true, I did miss you.",
+  "uk": "Це правда, я сумував за тобою."
+ },
+ {
+  "n": 650,
+  "word": "trust",
+  "ua": "довіра",
+  "meaning_en": "belief that someone is honest",
+  "example_en": "Trust matters more to me than anything else in this.",
+  "uk": "Довіра для мене важливіша за все інше в цьому."
+ },
+ {
+  "n": 651,
+  "word": "try",
+  "ua": "намагатися",
+  "meaning_en": "to make an effort",
+  "example_en": "I'm trying to be patient, and mostly succeeding.",
+  "uk": "Я намагаюся бути терплячим, і здебільшого мені це вдається."
+ },
+ {
+  "n": 652,
+  "word": "tube",
+  "ua": "трубка",
+  "meaning_en": "a long, round container",
+  "example_en": "Not the most romantic word, ha — moving on.",
+  "uk": "Не найромантичніше слово, ха — рухаємося далі."
+ },
+ {
+  "n": 653,
+  "word": "turn",
+  "ua": "поворот",
+  "meaning_en": "to change direction",
+  "example_en": "This past month felt like a turn for the harder, but it's turning back now.",
+  "uk": "Цей минулий місяць був складним поворотом, але зараз все повертається."
+ },
+ {
+  "n": 654,
+  "word": "under",
+  "ua": "під",
+  "meaning_en": "below",
+  "example_en": "I know you've been under a lot of stress.",
+  "uk": "Я знаю, що на тебе зараз тисне багато стресу."
+ },
+ {
+  "n": 655,
+  "word": "understand",
+  "ua": "розуміти",
+  "meaning_en": "to know the meaning of something",
+  "example_en": "I understand why you needed the silence, even if I missed you.",
+  "uk": "Я розумію, чому тобі був потрібен спокій, навіть якщо я сумував."
+ },
+ {
+  "n": 656,
+  "word": "unite",
+  "ua": "об'єднувати",
+  "meaning_en": "to join together",
+  "example_en": "It's nice that this situation united you and your grandmother, even under hard circumstances.",
+  "uk": "Добре, що ця ситуація зблизила тебе з бабусею, навіть у важких обставинах."
+ },
+ {
+  "n": 657,
+  "word": "universe",
+  "ua": "всесвіт",
+  "meaning_en": "everything that exists",
+  "example_en": "Feels like we're in different corners of the universe sometimes, but it doesn't matter much.",
+  "uk": "Іноді здається, що ми в різних куточках всесвіту, але це не має великого значення."
+ },
+ {
+  "n": 658,
+  "word": "university",
+  "ua": "університет",
+  "meaning_en": "a place of higher education",
+  "example_en": "Did you study at a university in Goiânia?",
+  "uk": "Ти навчалася в університеті в Гоянії?"
+ },
+ {
+  "n": 659,
+  "word": "unless",
+  "ua": "якщо не",
+  "meaning_en": "except if",
+  "example_en": "I won't worry unless I don't hear from you for a long stretch again.",
+  "uk": "Не буду хвилюватися, якщо знову довго не чутиму від тебе."
+ },
+ {
+  "n": 660,
+  "word": "until",
+  "ua": "доки",
+  "meaning_en": "up to a certain time",
+  "example_en": "I'll keep writing until you tell me to stop.",
+  "uk": "Писатиму, доки ти не скажеш зупинитися."
+ },
+ {
+  "n": 661,
+  "word": "up",
+  "ua": "вгору",
+  "meaning_en": "toward a higher place",
+  "example_en": "Things are looking up now that we're back in touch.",
+  "uk": "Все виглядає краще, відколи ми знову на зв'язку."
+ },
+ {
+  "n": 662,
+  "word": "urge",
+  "ua": "бажання; наполягати",
+  "meaning_en": "a strong desire, or to strongly suggest",
+  "example_en": "I have an urge to just hear your voice already.",
+  "uk": "Мене тягне почути твій голос уже зараз."
+ },
+ {
+  "n": 663,
+  "word": "urgent",
+  "ua": "терміновий",
+  "meaning_en": "needing quick action",
+  "example_en": "I didn't want to make it feel urgent, just wanted you to know I care.",
+  "uk": "Я не хотів, щоб це звучало терміново, просто хотів, щоб ти знала, що я піклуюся."
+ },
+ {
+  "n": 664,
+  "word": "us",
+  "ua": "ми",
+  "meaning_en": "the two of us together",
+  "example_en": "I'd like to know what 'us' actually looks like going forward.",
+  "uk": "Я хотів би знати, як виглядає «ми» надалі."
+ },
+ {
+  "n": 665,
+  "word": "use",
+  "ua": "використовувати",
+  "meaning_en": "to employ for a purpose",
+  "example_en": "I want to use this time apart to actually build something real, not just wait.",
+  "uk": "Я хочу використати цей час нашої розлуки, щоб справді щось побудувати, а не просто чекати."
+ },
+ {
+  "n": 666,
+  "word": "usual",
+  "ua": "звичайний",
+  "meaning_en": "as normal",
+  "example_en": "Write whenever it's convenient — no need to force your usual routine.",
+  "uk": "Пиши, коли зручно, — не треба примушувати себе до звичного розпорядку."
+ },
+ {
+  "n": 667,
+  "word": "vacation",
+  "ua": "відпустка",
+  "meaning_en": "time off for rest or travel",
+  "example_en": "I guess this became an unplanned vacation of sorts, mixed with a lot of stress.",
+  "uk": "Здається, це стало неплановою відпусткою, змішаною з великим стресом."
+ },
+ {
+  "n": 668,
+  "word": "valley",
+  "ua": "долина",
+  "meaning_en": "low land between hills",
+  "example_en": "Are there valleys or mountains near Porto?",
+  "uk": "Є долини чи гори поблизу Порту?"
+ },
+ {
+  "n": 669,
+  "word": "value",
+  "ua": "цінувати",
+  "meaning_en": "how much something matters",
+  "example_en": "I really value how open you've been about your family.",
+  "uk": "Мені справді подобається, як відкрито ти розповідаєш про родину."
+ },
+ {
+  "n": 670,
+  "word": "vegetable",
+  "ua": "овоч",
+  "meaning_en": "a plant grown for food",
+  "example_en": "Any good local vegetable dishes in Porto?",
+  "uk": "Є гарні місцеві страви з овочами в Порту?"
+ },
+ {
+  "n": 671,
+  "word": "vehicle",
+  "ua": "транспорт",
+  "meaning_en": "something used for transport",
+  "example_en": "Do you need a vehicle to get around Porto, or is it walkable?",
+  "uk": "Тобі потрібна машина, щоб пересуватися Порту, чи там можна ходити пішки?"
+ },
+ {
+  "n": 672,
+  "word": "version",
+  "ua": "версія",
+  "meaning_en": "a particular form of something",
+  "example_en": "I like this more open version of us writing to each other.",
+  "uk": "Мені подобається ця відкритіша версія нас, коли ми пишемо одне одному."
+ },
+ {
+  "n": 673,
+  "word": "very",
+  "ua": "дуже",
+  "meaning_en": "extremely",
+  "example_en": "I'm very glad to have you back in my inbox.",
+  "uk": "Я дуже радий, що ти знову в моїй пошті."
+ },
+ {
+  "n": 674,
+  "word": "victory",
+  "ua": "перемога",
+  "meaning_en": "a success",
+  "example_en": "Getting through this month feels like a small victory for your whole family.",
+  "uk": "Пройти через цей місяць відчувається як маленька перемога для всієї твоєї родини."
+ },
+ {
+  "n": 675,
+  "word": "video",
+  "ua": "відео",
+  "meaning_en": "a recording of images and sound",
+  "example_en": "I'd love a video call whenever you're ready for one.",
+  "uk": "Я б хотів відеодзвінок, коли будеш готова."
+ },
+ {
+  "n": 676,
+  "word": "village",
+  "ua": "село",
+  "meaning_en": "a very small town",
+  "example_en": "Is your grandmother in the city of Porto, or more of a village nearby?",
+  "uk": "Твоя бабуся в місті Порту чи трохи далі, в селі?"
+ },
+ {
+  "n": 677,
+  "word": "visit",
+  "ua": "відвідувати",
+  "meaning_en": "to go see someone or someplace",
+  "example_en": "I'd love to visit Brazil myself one day.",
+  "uk": "Я сам би хотів колись відвідати Бразилію."
+ },
+ {
+  "n": 678,
+  "word": "voice",
+  "ua": "голос",
+  "meaning_en": "the sound a person makes speaking",
+  "example_en": "I really want to hear your voice, not just read your words.",
+  "uk": "Я справді хочу почути твій голос, а не лише читати слова."
+ },
+ {
+  "n": 679,
+  "word": "volcano",
+  "ua": "вулкан",
+  "meaning_en": "a mountain that can erupt",
+  "example_en": "Nothing that dramatic here, just a quiet, busy month.",
+  "uk": "Нічого такого драматичного тут немає, просто тихий, зайнятий місяць."
+ },
+ {
+  "n": 680,
+  "word": "volunteer",
+  "ua": "волонтер",
+  "meaning_en": "someone who helps without being paid",
+  "example_en": "I actually just wrapped up years of volunteer firefighting, funny enough.",
+  "uk": "Я щойно завершив кілька років волонтерського пожежного служіння, як не дивно."
+ },
+ {
+  "n": 681,
+  "word": "wages",
+  "ua": "заробітна плата",
+  "meaning_en": "money paid for work",
+  "example_en": "Moving quickly past that one, not the most romantic word.",
+  "uk": "Швидко пройдемо повз це слово, воно не найромантичніше."
+ },
+ {
+  "n": 682,
+  "word": "wait",
+  "ua": "чекати",
+  "meaning_en": "to stay until something happens",
+  "example_en": "The wait for your letter was hard, but worth it.",
+  "uk": "Чекати на твій лист було важко, але воно того вартувало."
+ },
+ {
+  "n": 683,
+  "word": "walk",
+  "ua": "ходити",
+  "meaning_en": "to move on foot",
+  "example_en": "I'd love to just walk around Porto with you one day.",
+  "uk": "Я б хотів колись просто погуляти Порту з тобою."
+ },
+ {
+  "n": 684,
+  "word": "wall",
+  "ua": "стіна",
+  "meaning_en": "a side of a room or building",
+  "example_en": "It felt like there was a quiet wall between us during your silence, but it's gone now.",
+  "uk": "Під час твоєї мовчанки ніби була тиха стіна між нами, але тепер її немає."
+ },
+ {
+  "n": 685,
+  "word": "want",
+  "ua": "хотіти",
+  "meaning_en": "to desire",
+  "example_en": "I want to keep this going, slowly and honestly.",
+  "uk": "Хочу, щоб це тривало, повільно і чесно."
+ },
+ {
+  "n": 686,
+  "word": "warm",
+  "ua": "теплий",
+  "meaning_en": "having some heat, or kind",
+  "example_en": "You have a warm way of writing, even about hard things.",
+  "uk": "У тебе теплий спосіб писати, навіть про важке."
+ },
+ {
+  "n": 687,
+  "word": "warn",
+  "ua": "попереджати",
+  "meaning_en": "to tell of possible danger",
+  "example_en": "No need to warn me about anything — I'm not going anywhere.",
+  "uk": "Не треба мене ні про що попереджати — я нікуди не йду."
+ },
+ {
+  "n": 688,
+  "word": "wash",
+  "ua": "мити",
+  "meaning_en": "to clean",
+  "example_en": "Hope this month's stress washes away a little with some rest.",
+  "uk": "Сподіваюся, стрес цього місяця трохи змиється з відпочинком."
+ },
+ {
+  "n": 689,
+  "word": "waste",
+  "ua": "марнувати",
+  "meaning_en": "to use without care",
+  "example_en": "I don't want to waste this chance to actually get to know you.",
+  "uk": "Я не хочу змарнувати цей шанс справді пізнати тебе."
+ },
+ {
+  "n": 690,
+  "word": "watch",
+  "ua": "спостерігати",
+  "meaning_en": "to look at closely",
+  "example_en": "I'll be watching for your next letter.",
+  "uk": "Я чекатиму на твій наступний лист."
+ },
+ {
+  "n": 691,
+  "word": "water",
+  "ua": "вода",
+  "meaning_en": "the clear liquid we drink",
+  "example_en": "Being near the ocean in Porto must be nice.",
+  "uk": "Бути поруч з океаном у Порту, мабуть, гарно."
+ },
+ {
+  "n": 692,
+  "word": "wave",
+  "ua": "хвиля; махати",
+  "meaning_en": "to move a hand as a greeting, or a swell in water",
+  "example_en": "Consider this letter a little wave hello.",
+  "uk": "Вважай цей лист маленьким привітанням."
+ },
+ {
+  "n": 693,
+  "word": "way",
+  "ua": "спосіб",
+  "meaning_en": "a method, or a path",
+  "example_en": "There's a way we can make this work, even with the distance.",
+  "uk": "Є спосіб, як ми можемо зробити це працюючим, навіть на відстані."
+ },
+ {
+  "n": 694,
+  "word": "we",
+  "ua": "ми",
+  "meaning_en": "you and I together",
+  "example_en": "I like thinking about what we could become.",
+  "uk": "Мені подобається думати про те, ким ми можемо стати."
+ },
+ {
+  "n": 695,
+  "word": "weak",
+  "ua": "слабкий",
+  "meaning_en": "not strong",
+  "example_en": "Your English isn't weak at all — it's clearly improving.",
+  "uk": "Твоя англійська зовсім не слабка — вона явно покращується."
+ },
+ {
+  "n": 696,
+  "word": "wear",
+  "ua": "носити",
+  "meaning_en": "to have on the body",
+  "example_en": "What's the weather like where you are — shorts weather or coat weather?",
+  "uk": "Яка погода там, де ти? Шорти чи пальто?"
+ },
+ {
+  "n": 697,
+  "word": "weather",
+  "ua": "погода",
+  "meaning_en": "the daily condition of the sky and air",
+  "example_en": "How's the weather treating you in Porto?",
+  "uk": "Як погода в Порту?"
+ },
+ {
+  "n": 698,
+  "word": "week",
+  "ua": "тиждень",
+  "meaning_en": "seven days",
+  "example_en": "It's been a good week here, kids back in school and all.",
+  "uk": "Тут був гарний тиждень, діти знову в школі."
+ },
+ {
+  "n": 699,
+  "word": "welcome",
+  "ua": "вітати",
+  "meaning_en": "to receive someone warmly",
+  "example_en": "I want you to always feel welcome to write, whenever you're ready.",
+  "uk": "Хочу, щоб ти завжди відчувала себе бажаною для листування, коли будеш готова."
+ },
+ {
+  "n": 700,
+  "word": "well",
+  "ua": "добре",
+  "meaning_en": "in a good way, or in good health",
+  "example_en": "I hope you're doing well, really.",
+  "uk": "Сподіваюся, у тебе все добре, справді."
+ },
+ {
+  "n": 701,
+  "word": "west",
+  "ua": "захід",
+  "meaning_en": "a direction",
+  "example_en": "Is Porto more toward the west coast of Portugal?",
+  "uk": "Порту ближче до західного узбережжя Португалії?"
+ },
+ {
+  "n": 702,
+  "word": "wet",
+  "ua": "мокрий",
+  "meaning_en": "covered in water",
+  "example_en": "Hopefully not too wet and rainy for you there.",
+  "uk": "Сподіваюся, там не занадто мокро і дощово."
+ },
+ {
+  "n": 703,
+  "word": "what",
+  "ua": "що",
+  "meaning_en": "used to ask about something",
+  "example_en": "What's been the best part of Porto so far?",
+  "uk": "Яка була найкраща частина Порту досі?"
+ },
+ {
+  "n": 704,
+  "word": "wheel",
+  "ua": "колесо",
+  "meaning_en": "a round device that turns",
+  "example_en": "Feels like things are back on the right wheel now, so to speak.",
+  "uk": "Тепер усе ніби знову на правильному колесі."
+ },
+ {
+  "n": 705,
+  "word": "when",
+  "ua": "коли",
+  "meaning_en": "at what time",
+  "example_en": "When do you think you'll head back to Brazil?",
+  "uk": "Коли, на твою думку, ти повернешся до Бразилії?"
+ },
+ {
+  "n": 706,
+  "word": "where",
+  "ua": "де",
+  "meaning_en": "in what place",
+  "example_en": "Where exactly in Porto are you staying?",
+  "uk": "Де саме в Порту ти зупинилася?"
+ },
+ {
+  "n": 707,
+  "word": "whether",
+  "ua": "чи",
+  "meaning_en": "if",
+  "example_en": "I care about you whether you write every day or once a month.",
+  "uk": "Мене хвилює, чи ти пишеш щодня, чи раз на місяць — мені ти важлива."
+ },
+ {
+  "n": 708,
+  "word": "which",
+  "ua": "який",
+  "meaning_en": "asking about a choice",
+  "example_en": "Which do you like more, Porto or Goiânia, so far?",
+  "uk": "Який тобі більше подобається на сьогодні: Порту чи Гояніа?"
+ },
+ {
+  "n": 709,
+  "word": "while",
+  "ua": "поки",
+  "meaning_en": "during the time that",
+  "example_en": "While you were gone, I kept hoping you were okay.",
+  "uk": "Поки тебе не було, я сподівався, що з тобою все добре."
+ },
+ {
+  "n": 710,
+  "word": "white",
+  "ua": "білий",
+  "meaning_en": "the color of snow",
+  "example_en": "Are the buildings in Porto that classic white and blue tile style?",
+  "uk": "Чи будівлі в Порту мають той класичний біло-синій стиль плитки?"
+ },
+ {
+  "n": 711,
+  "word": "who",
+  "ua": "хто",
+  "meaning_en": "asking about a person",
+  "example_en": "Who else is helping your grandmother with the property issue?",
+  "uk": "Хто ще допомагає твоїй бабусі з питанням майна?"
+ },
+ {
+  "n": 712,
+  "word": "whole",
+  "ua": "цілий",
+  "meaning_en": "complete; entire",
+  "example_en": "I read your whole letter twice.",
+  "uk": "Я двічі прочитав твій лист повністю."
+ },
+ {
+  "n": 713,
+  "word": "why",
+  "ua": "чому",
+  "meaning_en": "asking for a reason",
+  "example_en": "Why do I feel like I already know you, even through letters?",
+  "uk": "Чому мені здається, що я вже тебе знаю, навіть через листи?"
+ },
+ {
+  "n": 714,
+  "word": "wide",
+  "ua": "широкий",
+  "meaning_en": "having great distance across",
+  "example_en": "There's a wide ocean between us, but it hasn't stopped this from feeling real.",
+  "uk": "Між нами широкий океан, але це не завадило цьому відчуватися справжнім."
+ },
+ {
+  "n": 715,
+  "word": "wife",
+  "ua": "дружина",
+  "meaning_en": "a married woman",
+  "example_en": "Not rushing that word, just noting it exists on the list, ha.",
+  "uk": "Не поспішаю з цим словом, просто зазначаю, що воно є в списку, ха."
+ },
+ {
+  "n": 716,
+  "word": "wild",
+  "ua": "дикий",
+  "meaning_en": "uncontrolled; natural",
+  "example_en": "The Bugaboo Mountains are supposed to be pretty wild and beautiful.",
+  "uk": "Гори Бугабу, як кажуть, дуже дикі й красиві."
+ },
+ {
+  "n": 717,
+  "word": "will",
+  "ua": "буде",
+  "meaning_en": "future action",
+  "example_en": "I will keep writing, no matter how busy things get.",
+  "uk": "Я продовжу писати, як би зайнято не було."
+ },
+ {
+  "n": 718,
+  "word": "willing",
+  "ua": "готовий",
+  "meaning_en": "ready to do something",
+  "example_en": "I'm willing to be patient for as long as this takes to build right.",
+  "uk": "Я готовий бути терплячим стільки, скільки потрібно, щоб це збудувати правильно."
+ },
+ {
+  "n": 719,
+  "word": "win",
+  "ua": "перемагати",
+  "meaning_en": "to succeed or gain victory",
+  "example_en": "Getting your letter back felt like a win after a long month.",
+  "uk": "Отримати твій лист назад відчулося як перемога після довгого місяця."
+ },
+ {
+  "n": 720,
+  "word": "wind",
+  "ua": "вітер",
+  "meaning_en": "moving air",
+  "example_en": "Hope the wind's been kind to you traveling around.",
+  "uk": "Сподіваюся, вітер був до тебе прихильним під час подорожі."
+ },
+ {
+  "n": 721,
+  "word": "window",
+  "ua": "вікно",
+  "meaning_en": "an opening in a wall for light",
+  "example_en": "I picture you looking out a window in Porto, thinking about home.",
+  "uk": "Уявляю, як ти дивишся у вікно в Порту і думаєш про дім."
+ },
+ {
+  "n": 722,
+  "word": "winter",
+  "ua": "зима",
+  "meaning_en": "the coldest season",
+  "example_en": "I bet winter feels different in Portugal than in Brazil.",
+  "uk": "Гадаю, зима в Португалії відчувається інакше, ніж у Бразилії."
+ },
+ {
+  "n": 723,
+  "word": "wire",
+  "ua": "дріт",
+  "meaning_en": "thin metal used to carry things like electricity",
+  "example_en": "Not the most poetic word, moving right along.",
+  "uk": "Не найпоетичніше слово, рухаємося далі."
+ },
+ {
+  "n": 724,
+  "word": "wise",
+  "ua": "мудрий",
+  "meaning_en": "showing good judgment",
+  "example_en": "That was a wise thing your family did, all pulling together for your grandmother.",
+  "uk": "Це було мудро з боку твоєї родини — всі разом підтримали бабусю."
+ },
+ {
+  "n": 725,
+  "word": "wish",
+  "ua": "бажання",
+  "meaning_en": "to want something",
+  "example_en": "My wish is just that you take care of yourself through all this.",
+  "uk": "Моє бажання — щоб ти піклувалася про себе в усьому цьому."
+ },
+ {
+  "n": 726,
+  "word": "with",
+  "ua": "з",
+  "meaning_en": "together",
+  "example_en": "I'd love to spend real time with you one day.",
+  "uk": "Я хотів би колись провести з тобою справжній час."
+ },
+ {
+  "n": 727,
+  "word": "withdraw",
+  "ua": "відступати",
+  "meaning_en": "to pull back or remove",
+  "example_en": "I never wanted to withdraw from this — I just gave you room.",
+  "uk": "Я ніколи не хотів відступати від цього — просто дав тобі простір."
+ },
+ {
+  "n": 728,
+  "word": "without",
+  "ua": "без",
+  "meaning_en": "not having",
+  "example_en": "A month without your letters felt long.",
+  "uk": "Місяць без твоїх листів здався довгим."
+ },
+ {
+  "n": 729,
+  "word": "woman",
+  "ua": "жінка",
+  "meaning_en": "an adult female",
+  "example_en": "You seem like a genuinely thoughtful woman, from everything you've shared.",
+  "uk": "Судячи з усього, що ти розповіла, ти справді вдумлива жінка."
+ },
+ {
+  "n": 730,
+  "word": "wonder",
+  "ua": "дивуватися",
+  "meaning_en": "to ask yourself something, or a feeling of awe",
+  "example_en": "I used to wonder what you were doing during the quiet weeks.",
+  "uk": "Раніше я думав, що ти робиш у тихі тижні."
+ },
+ {
+  "n": 731,
+  "word": "wonderful",
+  "ua": "чудовий",
+  "meaning_en": "extremely good",
+  "example_en": "That grandmother reunion sounds like a wonderful, messy, real moment.",
+  "uk": "Та зустріч з бабусею звучить як чудовий, складний і справжній момент."
+ },
+ {
+  "n": 732,
+  "word": "wood",
+  "ua": "деревина",
+  "meaning_en": "the material trees are made of",
+  "example_en": "Random, but is there a lot of wood architecture in old Porto?",
+  "uk": "Випадкове питання: у старому Порту багато дерев'яної архітектури?"
+ },
+ {
+  "n": 733,
+  "word": "word",
+  "ua": "слово",
+  "meaning_en": "a unit of language",
+  "example_en": "Every word in your last letter meant something to me.",
+  "uk": "Кожне слово в твоєму останньому листі щось для мене значило."
+ },
+ {
+  "n": 734,
+  "word": "work",
+  "ua": "робота",
+  "meaning_en": "effort to do or make something",
+  "example_en": "Work's been steady here, nothing too dramatic.",
+  "uk": "Робота тут стабільна, нічого надто драматичного."
+ },
+ {
+  "n": 735,
+  "word": "world",
+  "ua": "світ",
+  "meaning_en": "the earth and everyone on it",
+  "example_en": "It's a big world, but it feels smaller when we're writing like this.",
+  "uk": "Це великий світ, але відчувається менший, коли ми так пишемо."
+ },
+ {
+  "n": 736,
+  "word": "worry",
+  "ua": "хвилюватися",
+  "meaning_en": "to feel concerned",
+  "example_en": "I won't worry as much now that I know you're okay.",
+  "uk": "Я хвилюватимуся менше, тепер знаючи, що з тобою все добре."
+ },
+ {
+  "n": 737,
+  "word": "worse",
+  "ua": "гірший",
+  "meaning_en": "more bad",
+  "example_en": "I imagined worse, honestly, when I didn't hear from you.",
+  "uk": "Чесно кажучи, я уявляв гірше, коли не чув від тебе."
+ },
+ {
+  "n": 738,
+  "word": "worth",
+  "ua": "вартий",
+  "meaning_en": "value",
+  "example_en": "This connection has been worth the wait and the patience.",
+  "uk": "Цей зв'язок вартий і очікування, і терпіння."
+ },
+ {
+  "n": 739,
+  "word": "write",
+  "ua": "писати",
+  "meaning_en": "to put words on paper or a screen",
+  "example_en": "I'll always write back, sooner or later.",
+  "uk": "Я завжди відповім, рано чи пізно."
+ },
+ {
+  "n": 740,
+  "word": "wrong",
+  "ua": "неправильний",
+  "meaning_en": "not correct or not right",
+  "example_en": "Nothing about taking time for family is wrong.",
+  "uk": "Немає нічого поганого в тому, щоб приділити час родині."
+ },
+ {
+  "n": 741,
+  "word": "year",
+  "ua": "рік",
+  "meaning_en": "twelve months",
+  "example_en": "I wonder where we'll both be a year from now.",
+  "uk": "Цікаво, де ми обоє будемо за рік."
+ },
+ {
+  "n": 742,
+  "word": "yellow",
+  "ua": "жовтий",
+  "meaning_en": "the color of the sun",
+  "example_en": "Random, but do you have a favorite color?",
+  "uk": "Випадкове питання: який у тебе улюблений колір?"
+ },
+ {
+  "n": 743,
+  "word": "yes",
+  "ua": "так",
+  "meaning_en": "used to agree",
+  "example_en": "Yes, I'd love that video call soon.",
+  "uk": "Так, я б дуже хотів той відеодзвінок незабаром."
+ },
+ {
+  "n": 744,
+  "word": "yesterday",
+  "ua": "вчора",
+  "meaning_en": "the day before today",
+  "example_en": "Yesterday's letter made my whole week better.",
+  "uk": "Вчорашній лист зробив мій весь тиждень кращим."
+ },
+ {
+  "n": 745,
+  "word": "yet",
+  "ua": "ще",
+  "meaning_en": "up to now, or still to come",
+  "example_en": "We haven't had that call yet, but I hope we will soon.",
+  "uk": "Дзвінка ще не було, але сподіваюся, що скоро буде."
+ },
+ {
+  "n": 746,
+  "word": "you",
+  "ua": "ти",
+  "meaning_en": "the person being spoken to",
+  "example_en": "It's always been about you being safe and okay, first.",
+  "uk": "Завжди головне — щоб ти була в безпеці й добре."
+ },
+ {
+  "n": 747,
+  "word": "young",
+  "ua": "молодий",
+  "meaning_en": "early in life",
+  "example_en": "The kids are growing up so fast, still young but not for long.",
+  "uk": "Діти так швидко ростуть, ще малі, але не надовго."
+ },
+ {
+  "n": 748,
+  "word": "zero",
+  "ua": "нуль",
+  "meaning_en": "the number meaning none",
+  "example_en": "There's zero doubt in my mind that I'm glad you wrote back.",
+  "uk": "Жодних сумнівів, що я радий, що ти відповіла."
+ },
+ {
+  "n": 749,
+  "word": "zoo",
+  "ua": "зоопарк",
+  "meaning_en": "a place with animals",
+  "example_en": "Not the most romantic note to end on, but that's the whole word book, done!",
+  "uk": "Не найромантичніша нотатка для завершення, але на цьому весь словник готовий!"
+ }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Sunflower English",
+  "short_name": "Sunflower",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f7d2e"
+}
