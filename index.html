@@ -1,0 +1,613 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>English Flashcards</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: a single large card with the word, its meaning and two sentences, controls beneath, progress at the top. Built for a phone held between two people. */
+:root {
+  --bg: #fffdf6;
+  --card: #ffffff;
+  --ink: #1f2a1c;
+  --muted: #4f5a45;
+  --line: #e3dcc0;
+  --accent: #3f7d2e;
+  --accent-ink: #ffffff;
+  --soft: #fff1b8;
+  --warn: #a4520a;
+  --warn-soft: #fde7bf;
+  --ok: #3f7d2e;
+  --ok-soft: #e2f0d4;
+  --bad: #a4520a;
+  --font-display: "Poppins", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Atkinson Hyperlegible", "Helvetica Neue", Arial, system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1a1a12;
+    --card: #242418;
+    --ink: #f7f3dc;
+    --muted: #b8b48f;
+    --line: #4a4830;
+    --accent: #f5c842;
+    --accent-ink: #1a1a12;
+    --soft: #3a3617;
+    --warn: #f5b35c;
+    --warn-soft: #3d2c12;
+    --ok: #9fd47a;
+    --ok-soft: #2c3a1c;
+    --bad: #f5b35c;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #1a1a12;
+  --card: #242418;
+  --ink: #f7f3dc;
+  --muted: #b8b48f;
+  --line: #4a4830;
+  --accent: #f5c842;
+  --accent-ink: #1a1a12;
+  --soft: #3a3617;
+  --warn: #f5b35c;
+  --warn-soft: #3d2c12;
+  --ok: #9fd47a;
+  --ok-soft: #2c3a1c;
+  --bad: #f5b35c;
+  color-scheme: dark;
+}
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  padding-block: 18px 28px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  min-height: 100vh;
+}
+.wrap { max-width: 560px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+header { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+h1 { font-family: var(--font-display); font-size: 1.4rem; font-weight: 800; margin: 0; letter-spacing: -.01em; }
+.stat { color: var(--muted); font-size: 1.05rem; font-variant-numeric: tabular-nums; }
+.bar { height: 8px; border-radius: 99px; background: var(--soft); overflow: hidden; }
+.bar > i { display: block; height: 100%; width: 0; background: var(--accent); }
+
+.tabs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; background: var(--soft); padding: 5px; border-radius: 14px; }
+.tabs button { border: 0; background: transparent; padding: 8px 2px; font-size: .84rem; font-weight: 700; color: var(--muted); border-radius: 10px; }
+.tabs button[aria-selected="true"] { background: var(--card); color: var(--ink); }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 24px 20px 22px;
+  display: flex; flex-direction: column; align-items: center; gap: 16px;
+  text-align: center;
+  min-height: 340px;
+  justify-content: center;
+}
+.pos { font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.word { font-family: var(--font-display); font-weight: 700; font-size: clamp(2.5rem, 13vw, 3.9rem); line-height: 1.1; letter-spacing: .01em; margin: 0; overflow-wrap: normal; word-break: normal; hyphens: none; }
+.ua { font-size: clamp(1.4rem, 6.5vw, 1.8rem); font-weight: 700; color: var(--accent); margin: 0; }
+.sent { margin: 0; max-width: 36ch; text-wrap: balance; line-height: 1.7; letter-spacing: .01em; word-spacing: .05em; }
+.en { font-size: 1.4rem; line-height: 1.65; }
+.en mark { background: var(--soft); color: inherit; border-radius: 4px; padding: 0 3px; font-weight: 700; }
+.uk { font-size: 1.25rem; line-height: 1.65; color: var(--muted); }
+.hidden-ua { filter: blur(7px); user-select: none; }
+.status { min-height: 1.5em; font-weight: 700; margin: 0; }
+.status.ok { color: var(--ok); }
+.status.bad { color: var(--bad); }
+.tag { display: inline-block; font-size: .8rem; font-weight: 700; padding: 3px 10px; border-radius: 99px; background: var(--warn-soft); color: var(--warn); }
+
+button { font: inherit; font-weight: 700; font-size: 1.02rem; padding: 15px 10px; border-radius: 14px; border: 1px solid var(--line); background: var(--card); color: var(--ink); cursor: pointer; }
+button:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+button:disabled { opacity: .5; cursor: not-allowed; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+.audio button { background: var(--soft); border-color: var(--soft); display: flex; align-items: center; justify-content: center; gap: 8px; }
+.audio svg { width: 20px; height: 20px; fill: currentColor; flex: none; }
+.audio button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.hard { background: #fde7bf; border: 2px solid #a4520a; color: #7a3a06; }
+.know { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.bl { display: block; font-weight: 500; color: inherit; font-size: .86em; opacity: 1; margin-top: 2px; line-height: 1.2; }
+.audio button span.l { text-align: center; min-width: 0; }
+.grid2 > button, .grid3 > button, .tabs button { min-width: 0; overflow-wrap: normal; hyphens: none; }
+.tabs button { font-size: clamp(.78rem, 3.6vw, .95rem); padding-left: 1px; padding-right: 1px; white-space: nowrap; }
+.grid2, .grid3 { min-width: 0; }
+.bl2 { font-weight: 500; opacity: .8; font-size: .8em; }
+select { font: inherit; font-weight: 700; font-size: 1.05rem; padding: 12px; border-radius: 12px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
+[hidden] { display: none !important; }
+.opts { display: grid; gap: 8px; width: 100%; }
+.opt { text-align: center; }
+.opt.ok { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); opacity: 1; }
+.opt.bad { background: var(--warn-soft); border-color: var(--warn); color: var(--warn); opacity: 1; }
+.blank { border-bottom: 2px solid var(--accent); padding: 0 8px; font-weight: 700; }
+.goalrow { margin: -4px 0 0; font-size: .9rem; font-weight: 700; color: var(--accent); }
+.fc { display: flex; align-items: flex-end; gap: 6px; height: 70px; }
+.fc div { flex: 1; background: var(--soft); border-radius: 6px 6px 0 0; position: relative; min-height: 3px; }
+.fc div span { position: absolute; top: -17px; left: 0; right: 0; text-align: center; font-size: .72rem; color: var(--muted); }
+.fcl { display: flex; gap: 6px; font-size: .72rem; color: var(--muted); }
+.fcl span { flex: 1; text-align: center; }
+details { border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: var(--card); }
+details summary { font-weight: 700; cursor: pointer; }
+.tip { margin: 10px 0 0; font-size: 1.02rem; line-height: 1.6; }
+.tip b { display: block; }
+.tipua { color: var(--muted); }
+.small { font-size: .88rem; font-weight: 600; padding: 9px 4px; }
+input[type="text"] { font: inherit; font-size: 1.3rem; text-align: center; width: 100%; padding: 14px; border-radius: 14px; border: 2px solid var(--line); background: var(--card); color: var(--ink); }
+.foot { color: var(--muted); font-size: .92rem; line-height: 1.6; margin: 0; }
+.prog { width: 100%; text-align: left; display: flex; flex-direction: column; gap: 10px; }
+.prog h2 { font-family: var(--font-display); font-size: 1.05rem; margin: 8px 0 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { padding: 5px 11px; border-radius: 99px; font-size: .95rem; font-weight: 600; }
+.chip.good { background: var(--ok-soft); color: var(--ok); }
+.chip.bad { background: var(--warn-soft); color: var(--warn); }
+.empty { color: var(--muted); font-size: 1.15rem; line-height: 1.6; max-width: 34ch; }
+body.no-uk .bl, body.no-uk .bl2 { display: none !important; }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>English Flashcards</h1>
+    <span class="stat" id="stat" aria-live="polite"></span>
+  </header>
+  <div class="bar" aria-hidden="true"><i id="barfill"></i></div>
+  <p class="goalrow" id="goalrow"></p>
+
+  <div class="tabs" role="tablist" aria-label="Mode">
+    <button type="button" role="tab" id="tab-cards" aria-selected="true">Cards<span class="bl">Картки</span></button>
+    <button type="button" role="tab" id="tab-quiz" aria-selected="false">Quiz<span class="bl">Тест</span></button>
+    <button type="button" role="tab" id="tab-hard" aria-selected="false">Hard<span class="bl">Складні</span></button>
+    <button type="button" role="tab" id="tab-progress" aria-selected="false">Progress<span class="bl">Прогрес</span></button>
+  </div>
+
+  <section class="card" id="card" aria-live="polite"></section>
+
+  <div class="grid2 audio" id="audioRow">
+    <button id="hearWord" type="button" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10v4h4l5 4V6L7 10H3zm13.5 2a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg><span class="l">Hear word<span class="bl">Слухати слово</span></span></button>
+    <button id="hearSent" type="button" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10v4h4l5 4V6L7 10H3zm13.5 2a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg><span class="l">Hear sentence<span class="bl">Слухати речення</span></span></button>
+  </div>
+
+  <div id="actions"></div>
+
+  <div class="grid3" id="navRow">
+    <button id="back" type="button" class="small">Back<span class="bl">Назад</span></button>
+    <button id="toggleUa" type="button" class="small">Hide Ukrainian<span class="bl">Сховати українську</span></button>
+    <button id="skip" type="button" class="small">Skip<span class="bl">Пропустити</span></button>
+  </div>
+
+  <p class="foot" id="foot"></p>
+  <button id="ukLabels" type="button" class="small">Labels: Auto</button>
+  <button id="reset" type="button" class="small">Reset progress</button>
+</div>
+
+<script>
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var words = [], CH = 26;
+  var known = {}, hard = {};
+  var mode = "cards", queue = [], qi = 0, hideUa = false;
+  var quizState = null; // {answered, correct}
+  var score = { right: 0, wrong: 0 };
+  var audioCache = {}, player = null;
+  var ukMode = "auto";
+  try { ukMode = localStorage.getItem("ew_uk") || "auto"; } catch (e) {}
+  function applyLabels() {
+    var hide = ukMode === "off" || (ukMode === "auto" && countKnown() >= 50);
+    document.body.classList.toggle("no-uk", hide);
+    $("ukLabels").textContent = "Labels: " + (ukMode === "on" ? "On" : ukMode === "off" ? "Off" : "Auto");
+  }
+  $("ukLabels").addEventListener("click", function () {
+    ukMode = ukMode === "auto" ? "on" : ukMode === "on" ? "off" : "auto";
+    try { localStorage.setItem("ew_uk", ukMode); } catch (e) {}
+    applyLabels();
+  });
+
+  function load(key) { try { return JSON.parse(localStorage.getItem(key) || "{}") || {}; } catch (e) { return {}; } }
+  var srs = {}, perDay = 20, streak = { last: "", n: 0 }, order = null, moduleSel = "0", MOD = 1000, groups = [], adultOk = false, gateFor = null, adultSet = {};
+  function save() { try { localStorage.setItem("ew_srs", JSON.stringify(srs)); localStorage.setItem("ew_hard", JSON.stringify(hard)); localStorage.setItem("ew_day", JSON.stringify(dayRec)); localStorage.setItem("ew_perday", String(perDay)); localStorage.setItem("ew_streak", JSON.stringify(streak)); localStorage.setItem("ew_module", String(moduleSel)); localStorage.setItem("ew_adult", adultOk ? "1" : "0"); } catch (e) {} }
+  var DAY = 864e5;
+  function today() { var d = new Date(); return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate(); }
+  var dayRec = load("ew_day"); if (dayRec.d !== today()) dayRec = { d: today(), c: 0, x: 0, r: 0 };
+  hard = load("ew_hard"); srs = load("ew_srs"); streak = load("ew_streak"); if (!streak.n) streak = { last: "", n: 0 };
+  try { moduleSel = localStorage.getItem("ew_module") || "0"; adultOk = localStorage.getItem("ew_adult") === "1"; } catch (e) {}
+  try { var pd = parseInt(localStorage.getItem("ew_perday"), 10); if (pd >= 5 && pd <= 200) perDay = pd; } catch (e) {}
+  (function migrate() {
+    var old = load("ew_known"), ks = Object.keys(old);
+    if (!Object.keys(srs).length && ks.length) { ks.forEach(function (k) { srs[k] = { n: 2, i: 3, e: 2.5, due: Date.now() + 3 * DAY }; }); }
+    Object.keys(srs).forEach(function (k) { if (srs[k].n > 0) known[k] = 1; });
+  })();
+var TIPS = [{"en": "Articles: English has a and the. Ukrainian has no articles. Use a for one new thing: I see a dog. Use the for a thing you both know: The dog is big.", "ua": "Артиклі: в англійській є a і the, в українській їх немає. a — один новий предмет: I see a dog. the — предмет, який уже відомий: The dog is big."}, {"en": "Word order is fixed in English: who, does what, what. Say I like tea, not Tea I like.", "ua": "Порядок слів в англійській майже незмінний: хто, що робить, що. Кажіть I like tea, а не Tea I like."}, {"en": "Every sentence needs a subject. Say It is cold and It is raining. You cannot start with Is cold.", "ua": "В англійському реченні завжди потрібен підмет. Кажіть It is cold, It is raining. Не можна починати з Is cold."}, {"en": "Use only one negative. Say I know nothing or I do not know anything. In Ukrainian two negatives are normal, but not in English.", "ua": "Заперечення лише одне. Кажіть I know nothing або I do not know anything. В українській два заперечення — норма, в англійській — ні."}, {"en": "The th sound: put your tongue between your teeth. Say think and this. Do not say s, z or t.", "ua": "Звук th: покладіть язик між зубами. Скажіть think, this. Не кажіть s, z або t."}, {"en": "W and V are different. For w, round your lips: water. For v, touch your top teeth to your lower lip: very.", "ua": "W і V — різні звуки. Для w округліть губи: water. Для v торкніться верхніми зубами нижньої губи: very."}, {"en": "Short and long vowels change the word: ship and sheep, live and leave. Listen carefully to the audio.", "ua": "Короткі й довгі голосні змінюють слово: ship і sheep, live і leave. Уважно слухайте аудіо."}, {"en": "False friends: magazine means журнал, not магазин (that is shop). Fabric means тканина, not фабрика (that is factory).", "ua": "Хибні друзі: magazine — це журнал, а не магазин (магазин — shop). Fabric — це тканина, а не фабрика (фабрика — factory)."}, {"en": "He, she and it need -s in the present: he works, she lives, it rains. I, you, we and they do not.", "ua": "Для he, she, it в теперішньому часі додайте -s: he works, she lives, it rains. Для I, you, we, they — ні."}, {"en": "Plural nouns usually end with -s: one book, two books. Some are special: one child, two children; one man, two men.", "ua": "Множина здебільшого закінчується на -s: one book, two books. Є винятки: one child, two children; one man, two men."}, {"en": "Many English letters are silent: knife, write, listen, walk. Learn the sound, not the spelling.", "ua": "У багатьох англійських словах є німі літери: knife, write, listen, walk. Вчіть звучання, а не написання."}, {"en": "Say the sentence out loud after the audio. Speaking helps your memory more than only reading.", "ua": "Повторюйте речення вголос після аудіо. Вимова допомагає запам'ятати краще, ніж лише читання."}, {"en": "Learn irregular verbs in three forms together: buy, bought, bought. Say all three out loud.", "ua": "Вчіть неправильні дієслова трьома формами разом: buy, bought, bought. Промовляйте всі три вголос."}, {"en": "Say can't clearly: use the vowel in cat, and end with a soft t. A wrong vowel can sound like a rude word. In careful speech, say cannot or I am not able to.", "ua": "Вимовляйте can't чітко: голосний як у слові cat і м'яке t в кінці. Неправильний голосний може звучати як грубе слово. У ввічливому мовленні кажіть cannot або I am not able to."}, {"en": "Some English words are rude or insulting. Do not use them at work or with strangers. If you are not sure, ask first or choose a polite word.", "ua": "Деякі англійські слова грубі або образливі. Не вживайте їх на роботі чи з незнайомими людьми. Якщо не впевнені, спершу запитайте або оберіть ввічливіше слово."}, {"en": "In Canada, people say couch or chesterfield for sofa, and add eh? at the end of a sentence. A Canadian can be called a Canuck, as a friendly joke.", "ua": "У Канаді кажуть couch або chesterfield замість sofa, а eh? додають в кінці речення. Канадця можуть жартома, по-дружньому, назвати Canuck."}];
+  function tipHtml(t) { return '<p class="tip"><b>' + esc(t.en) + '</b><span class="tipua">' + esc(t.ua) + "</span></p>"; }
+  function todayTip() { return TIPS[Math.floor(Date.now() / DAY) % TIPS.length]; }
+  function ensureDay() { if (dayRec.d !== today()) dayRec = { d: today(), c: 0, x: 0, r: 0 }; }
+  function bumpStreak() {
+    var t = today(); if (streak.last === t) return;
+    var yd = new Date(Date.now() - DAY), y = yd.getFullYear() + "-" + (yd.getMonth() + 1) + "-" + yd.getDate();
+    streak.n = streak.last === y ? streak.n + 1 : 1; streak.last = t;
+  }
+  function scope() {
+    var base = order || words.map(function (w, i) { return i; });
+    var g = String(moduleSel);
+    if (g.charAt(0) === "g") { var gi = parseInt(g.slice(1), 10); return groups[gi] ? groups[gi].ids.slice() : base; }
+    var m = parseInt(g, 10) || 0;
+    return m ? base.slice((m - 1) * MOD, m * MOD) : base;
+  }
+  function newQuota() { return Math.max(0, perDay + dayRec.x - dayRec.c); }
+  function rate(id, good) {
+    var s0 = srs[id], first = !s0; s0 = s0 || { n: 0, i: 0, e: 2.5, due: 0 };
+    ensureDay(); bumpStreak(); dayRec.r = (dayRec.r || 0) + 1;
+    var now = Date.now();
+    if (good) { s0.n++; s0.i = s0.n === 1 ? 1 : (s0.n === 2 ? 3 : Math.round(s0.i * s0.e)); s0.due = now + s0.i * DAY; delete hard[id]; known[id] = 1; }
+    else { s0.n = 0; s0.i = 0; s0.l = (s0.l || 0) + 1; s0.e = Math.max(1.3, s0.e - 0.2); s0.due = now + 10 * 60 * 1000; hard[id] = 1; delete known[id]; }
+    srs[id] = s0; if (first) dayRec.c++;
+    save();
+  }
+  function nextDueText() {
+    var now = Date.now(), best = null;
+    Object.keys(srs).forEach(function (k) { if (srs[k].due > now && (best === null || srs[k].due < best)) best = srs[k].due; });
+    if (best === null) return "";
+    var m = Math.round((best - now) / 60000);
+    if (m < 60) return "Next review in " + Math.max(1, m) + " min · Наступне повторення через " + Math.max(1, m) + " хв";
+    var h = Math.round(m / 60);
+    if (h < 36) return "Next review in " + h + " h · Наступне повторення через " + h + " год";
+    var d = Math.round(h / 24);
+    return "Next review in " + d + " days · Наступне повторення через " + d + " дн";
+  }
+
+  function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  function reEsc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+  function wordRe(word) {
+    if (word.indexOf(", ") > -1) return new RegExp("\\b(" + word.split(", ").map(reEsc).join("|") + ")\\b", "i");
+    return new RegExp("\\b(" + reEsc(word) + "[a-z']*)", "i");
+  }
+  function highlight(sentence, word) {
+    var safe = esc(sentence);
+    var re = wordRe(word);
+    return safe.replace(re, "<mark>$1</mark>");
+  }
+  function countKnown() { return Object.keys(known).length; }
+
+  function buildQueue() {
+    queue = [];
+    var now = Date.now(), i;
+    if (mode === "hard") {
+      for (i = 0; i < words.length; i++) if (hard[i] && !known[i]) queue.push(i);
+    } else if (mode === "quiz") {
+      var seen = [];
+      for (i = 0; i < words.length; i++) if (srs[i]) seen.push(i);
+      seen.sort(function (a, b) { return srs[a].due - srs[b].due; });
+      queue = seen;
+      var sc2 = scope();
+      for (i = 0; i < sc2.length && queue.length < 10; i++) if (!srs[sc2[i]]) queue.push(sc2[i]);
+    } else {
+      var due = [];
+      for (i = 0; i < words.length; i++) if (srs[i] && srs[i].due <= now) due.push(i);
+      due.sort(function (a, b) { return srs[a].due - srs[b].due; });
+      ensureDay();
+      var q = newQuota(), fresh = [], sc = scope();
+      for (i = 0; i < sc.length && fresh.length < q; i++) if (!srs[sc[i]]) fresh.push(sc[i]);
+      queue = due.concat(fresh);
+    }
+    qi = 0;
+    quizState = null;
+  }
+  function cur() { return queue.length ? queue[qi % queue.length] : null; }
+
+  function setPressed(id, on) { $(id).setAttribute("aria-pressed", on ? "true" : "false"); }
+  function loadChunk(n) {
+    var key = String(n);
+    if (!audioCache[key]) {
+      var name = "audio/a" + ("000" + n).slice(-3) + ".json";
+      audioCache[key] = fetch(name).then(function (r) { if (!r.ok) throw new Error("audio"); return r.json(); });
+      audioCache[key].catch(function () { delete audioCache[key]; });
+    }
+    return audioCache[key];
+  }
+  function chunkOf(id) { return Math.floor(id / CH) + 1; }
+  function play(kind, btnId) {
+    var id = cur(); if (id === null) return;
+    var w = words[id];
+    loadChunk(chunkOf(id)).then(function (data) {
+      var clip = data[String(id)];
+      if (!clip) throw new Error("clip");
+      if (player) { try { player.pause(); } catch (e) {} }
+      setPressed("hearWord", false); setPressed("hearSent", false);
+      player = new Audio(clip[kind]);
+      player.onplay = function () { setPressed(btnId, true); };
+      player.onended = function () { setPressed(btnId, false); };
+      player.onerror = function () { setPressed(btnId, false); };
+      var p = player.play(); if (p && p.catch) p.catch(function () { setPressed(btnId, false); });
+    }).catch(function () { $("foot").textContent = "Audio could not load. Check the internet connection and try again."; });
+    var nxt = chunkOf(id) + 1; if (nxt * CH - CH < words.length) loadChunk(nxt).catch(function () {});
+  }
+
+  function renderStats() {
+    var k = countKnown(), n = words.length;
+    $("stat").textContent = k + " known of " + n;
+    ensureDay();
+    var r = dayRec.r || 0;
+    $("goalrow").textContent = (streak.n ? "\uD83D\uDD25 " + streak.n + (streak.n === 1 ? " day" : " days") + " · серія: " + streak.n + "  ·  " : "") + (r >= perDay ? "\u2713 Goal done · Ціль виконано" : "Today " + r + "/" + perDay + " · Сьогодні " + r + "/" + perDay);
+    $("barfill").style.width = (n ? Math.round(100 * k / n) : 0) + "%";
+    var hc = 0; Object.keys(hard).forEach(function (i) { if (!known[i]) hc++; });
+    $("tab-hard").innerHTML = "Hard" + (hc ? " (" + hc + ")" : "") + '<span class="bl">Складні</span>';
+  }
+
+  function render() {
+    applyLabels();
+    renderStats();
+    ["cards", "quiz", "hard", "progress"].forEach(function (m) { $("tab-" + m).setAttribute("aria-selected", m === mode ? "true" : "false"); });
+    var card = $("card"), actions = $("actions");
+    var showStudy = mode !== "progress";
+    $("audioRow").hidden = !showStudy; $("navRow").hidden = !showStudy; actions.hidden = !showStudy;
+    if (mode === "progress") { renderProgress(); return; }
+    var id = cur();
+    $("toggleUa").hidden = mode === "quiz";
+    $("toggleUa").innerHTML = hideUa ? 'Show Ukrainian<span class="bl">Показати українську</span>' : 'Hide Ukrainian<span class="bl">Сховати українську</span>';
+    if (id === null) {
+      card.innerHTML = '<p class="empty">' + (mode === "hard"
+        ? "No hard words right now. Words you mark as still hard will appear here."
+        : '<strong>Done for now. Well done!</strong><br><span class="bl2">Готово на зараз. Молодець!</span>' + (nextDueText() ? '<br><br>' + nextDueText() : "")) + "</p>" + (mode === "cards" ? '<div style="max-width:30ch;text-align:left">' + tipHtml(todayTip()) + "</div>" : "") +
+        (mode === "cards" && scope().some(function (j) { return !srs[j]; }) ? '<button type="button" class="know" id="moreNew">Learn 10 more new words<span class="bl">Вивчити ще 10 нових слів</span></button>' : "");
+      if (mode === "cards" && $("moreNew")) $("moreNew").addEventListener("click", function () { dayRec.x += 10; save(); buildQueue(); render(); });
+      actions.innerHTML = "";
+      $("hearWord").disabled = true; $("hearSent").disabled = true;
+      $("back").disabled = true; $("skip").disabled = true;
+      $("foot").textContent = "";
+      return;
+    }
+    $("hearWord").disabled = false; $("hearSent").disabled = false;
+    $("back").disabled = false; $("skip").disabled = false;
+    var w = words[id];
+    var ua = hideUa ? " hidden-ua" : "";
+    if (mode === "quiz") {
+      if (!quizState) quizState = newQuiz(id);
+      var st = quizState, html = '<span class="pos">Quiz · Тест</span>';
+      var bi = '';
+      if (st.type === "listen") {
+        html += '<p class="en sent">Listen, then type the word.<br><span class="bl2">Послухай і впиши слово.</span></p>';
+      } else if (st.type === "mc") {
+        html += '<p class="en sent">Choose the English word.<br><span class="bl2">Вибери англійське слово.</span></p><p class="ua">' + esc(w.ua) + "</p>";
+      } else {
+        var re = wordRe(w.w);
+        html += '<p class="en sent">' + esc(w.en).replace(re, '<span class="blank">' + (st.answered ? esc(st.tok) : "_____") + "</span>") + '</p><p class="uk sent">' + esc(w.uk) + '</p><p class="en sent"><span class="bl2">Type the missing word. · Впиши пропущене слово.</span></p>';
+      }
+      if (st.type === "mc") {
+        html += '<div class="opts">' + st.opts.map(function (j) {
+          var cls = "opt" + (st.answered ? (j === id ? " ok" : (j === st.chosen ? " bad" : "")) : "");
+          return '<button type="button" class="' + cls + '" data-i="' + j + '"' + (st.answered ? " disabled" : "") + ">" + esc(words[j].w) + "</button>";
+        }).join("") + "</div>";
+      } else if (!st.answered) {
+        html += '<input type="text" id="answer" autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" aria-label="Type the word">';
+      }
+      if (st.answered) {
+        if (st.type !== "fill") html += '<p class="word">' + esc(w.w) + '</p><p class="ua">' + esc(w.ua) + "</p>";
+        html += '<p class="en sent">' + highlight(w.en, w.w) + '</p><p class="uk sent">' + esc(w.uk) + "</p>";
+      }
+      html += '<p class="status ' + (st.answered ? (st.correct ? "ok" : "bad") : "") + '" id="status">' +
+              (st.answered ? (st.correct ? "Correct · Правильно" : "Not quite · Не зовсім") : "") + "</p>";
+      card.innerHTML = html;
+      if (st.answered) {
+        actions.innerHTML = '<div class="grid2"><button type="button" class="know" id="qnext" style="grid-column: 1 / -1">Next word<span class="bl">Наступне слово</span></button></div>';
+        $("qnext").addEventListener("click", quizNext);
+      } else if (st.type === "mc") {
+        actions.innerHTML = "";
+        Array.prototype.forEach.call(card.querySelectorAll(".opt"), function (btn) {
+          btn.addEventListener("click", function () { quizChoose(parseInt(btn.getAttribute("data-i"), 10)); });
+        });
+      } else {
+        actions.innerHTML = '<div class="grid2"><button type="button" class="know" id="qcheck" style="grid-column: 1 / -1">Check<span class="bl">Перевірити</span></button></div>';
+        $("answer").addEventListener("keydown", function (e) { if (e.key === "Enter") quizCheck(); });
+        $("qcheck").addEventListener("click", quizCheck);
+      }
+      $("foot").textContent = "Right · Правильно: " + score.right + "   Wrong · Неправильно: " + score.wrong;
+      return;
+    }
+    card.innerHTML =
+      (hard[id] ? '<span class="tag">Still hard</span>' : '<span class="pos">' + (mode === "hard" ? "Hard word" : "Word " + (id + 1)) + "</span>") +
+      (adultSet[id] ? '<span class="tag">18+ · Understand it, don\'t use it · Розумійте, але не вживайте</span>' : "") +
+      '<p class="word">' + esc(w.w) + "</p>" +
+      '<p class="ua' + ua + '">' + esc(w.ua) + "</p>" +
+      '<p class="en sent">' + highlight(w.en, w.w) + "</p>" +
+      '<p class="uk sent' + ua + '">' + esc(w.uk) + "</p>";
+    actions.innerHTML = '<div class="grid2"><button type="button" class="hard" id="bHard">Still hard<span class="bl">Ще складно</span></button><button type="button" class="know" id="bKnow">I know it<span class="bl">Я знаю</span></button></div>';
+    $("bHard").addEventListener("click", markHard);
+    $("bKnow").addEventListener("click", markKnown);
+    $("foot").textContent = queue.length + " cards left · карток залишилось: " + queue.length + ". Say the sentence out loud, then try a new one with the word.";
+  }
+
+  function chips(list, cls) {
+    if (!list.length) return '<p class="foot">None yet.</p>';
+    return '<div class="chips">' + list.map(function (i) { return '<span class="chip ' + cls + '">' + esc(words[i].w) + "</span>"; }).join("") + "</div>";
+  }
+  function modOptions() {
+    var n = order ? Math.ceil(order.length / MOD) : 0, o = '<option value="0"' + (moduleSel === "0" ? " selected" : "") + ">All words · Усі слова</option>";
+    for (var m = 1; m <= n; m++) {
+      var a = (m - 1) * MOD + 1, b = Math.min(m * MOD, order.length);
+      o += '<option value="' + m + '"' + (String(m) === moduleSel ? " selected" : "") + ">Module " + m + " · Модуль " + m + "</option>";
+    }
+    groups.forEach(function (gr, i) { o += '<option value="g' + i + '"' + (moduleSel === "g" + i ? " selected" : "") + ">" + (gr.adult && !adultOk ? "\uD83D\uDD12 " : "") + esc(gr.name) + " · " + esc(gr.ua) + "</option>"; });
+    return o;
+  }
+  function forecast() {
+    var counts = [0, 0, 0, 0, 0, 0, 0], start = new Date(); start.setHours(0, 0, 0, 0);
+    var t0 = start.getTime();
+    Object.keys(srs).forEach(function (k) {
+      var d = Math.floor((srs[k].due - t0) / DAY); if (d < 0) d = 0;
+      if (d < 7) counts[d]++;
+    });
+    var mx = Math.max.apply(null, counts.concat([1]));
+    var bars = counts.map(function (c) { return '<div style="height:' + Math.max(4, Math.round(60 * c / mx)) + 'px"><span>' + c + "</span></div>"; }).join("");
+    var lab = counts.map(function (c, i) { var d = new Date(t0 + i * DAY); return "<span>" + (i === 0 ? "Today" : ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][d.getDay()]) + "</span>"; }).join("");
+    return '<div class="fc" style="margin-top:20px">' + bars + '</div><div class="fcl">' + lab + "</div>";
+  }
+  function hardestHtml() {
+    var arr = Object.keys(srs).filter(function (k) { return srs[k].l > 0; }).sort(function (a, b) { return srs[b].l - srs[a].l; }).slice(0, 8);
+    if (!arr.length) return "";
+    return '<h2>Hardest words<span class="bl2"> · Найскладніші слова</span></h2>' + chips(arr, "bad");
+  }
+  function renderGate() {
+    $("card").innerHTML = '<div class="prog" style="text-align:center;align-items:center"><span class="tag">18+</span>' +
+      '<h2>Adults only<span class="bl2"> · Тільки для дорослих</span></h2>' +
+      '<p class="en sent">This list has rude and offensive English words. It helps you understand them and know what not to say.</p>' +
+      '<p class="uk sent">Цей список містить грубі та образливі англійські слова. Він допомагає їх розуміти й знати, чого не казати.</p>' +
+      '<p class="en sent"><b>Are you 18 or older?</b><br><span class="bl2">Вам 18 років або більше?</span></p>' +
+      '<div class="grid2" style="width:100%"><button type="button" class="know" id="gateYes">Yes, I am 18 or older<span class="bl">Так, мені 18 або більше</span></button>' +
+      '<button type="button" id="gateNo">No<span class="bl">Ні</span></button></div></div>';
+    $("gateYes").addEventListener("click", function () { adultOk = true; moduleSel = gateFor || "0"; gateFor = null; save(); setMode("cards"); });
+    $("gateNo").addEventListener("click", function () { gateFor = null; renderProgress(); });
+    $("foot").textContent = "";
+  }
+  function renderProgress() {
+    if (gateFor) { renderGate(); return; }
+    var k = [], hh = [], rest = 0;
+    for (var i = 0; i < words.length; i++) {
+      if (known[i]) k.push(i); else if (hard[i]) hh.push(i); else rest++;
+    }
+    $("card").innerHTML =
+      '<div class="prog">' +
+      ((order && order.length > MOD) || groups.length ? '<h2>Module<span class="bl2"> · Модуль</span></h2><select id="moduleSel" aria-label="Module">' + modOptions() + "</select>" : "") +
+      '<h2>Next 7 days<span class="bl2"> · Наступні 7 днів</span></h2>' + forecast() +
+      '<h2>New words per day<span class="bl2"> · Нових слів на день</span></h2>' +
+      '<select id="perDay" aria-label="New words per day">' + [10, 20, 30, 50].map(function (v) { return '<option value="' + v + '"' + (v === perDay ? " selected" : "") + ">" + v + "</option>"; }).join("") + "</select>" +
+      hardestHtml() +
+      '<h2>Words I know (' + k.length + ')</h2>' + chips(k, "good") +
+      '<h2>Words to repeat (' + hh.length + ')</h2>' + chips(hh, "bad") +
+      '<h2>Not seen yet (' + rest + ')</h2>' +
+      (hh.length ? '<button type="button" class="know" id="goHard">Practice words to repeat<span class="bl">Повторити складні слова</span></button>' : "") +
+      '<h2>Backup<span class="bl2"> · Резервна копія</span></h2>' +
+      '<p class="foot">Make a code, copy it and keep it safe. On a new phone, paste it here and restore.</p>' +
+      '<textarea id="bk" rows="4" style="width:100%;font:inherit;font-size:.9rem;padding:10px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink)"></textarea>' +
+      '<div class="grid2"><button type="button" id="bkMake">Make code</button><button type="button" id="bkLoad">Restore from code</button></div>' +
+      '<details><summary>Tips for Ukrainian speakers · Поради</summary>' + TIPS.map(tipHtml).join("") + "</details>" +
+      "</div>";
+    if ($("moduleSel")) $("moduleSel").addEventListener("change", function () { var v = this.value || "0", gg = v.charAt(0) === "g" ? groups[parseInt(v.slice(1), 10)] : null;
+      if (gg && gg.adult && !adultOk) { gateFor = v; renderProgress(); return; }
+      moduleSel = v; save(); buildQueue(); });
+    $("perDay").addEventListener("change", function () { perDay = parseInt(this.value, 10) || 20; save(); });
+    $("bkMake").addEventListener("click", function () { var code = JSON.stringify({ v: 1, srs: srs, hard: hard, day: dayRec, streak: streak, perDay: perDay }); $("bk").value = btoa(unescape(encodeURIComponent(code))); $("bk").select(); });
+    $("bkLoad").addEventListener("click", function () { var ok2 = false; try { var o = JSON.parse(decodeURIComponent(escape(atob($("bk").value.trim())))); if (o && o.v === 1) { srs = o.srs || {}; hard = o.hard || {}; dayRec = o.day || dayRec; streak = o.streak || streak; perDay = o.perDay || perDay; known = {}; Object.keys(srs).forEach(function (k) { if (srs[k].n > 0) known[k] = 1; }); save(); buildQueue(); ok2 = true; } } catch (e) {} render(); $("foot").textContent = ok2 ? "Progress restored · Прогрес відновлено" : "That code does not work. Check it and try again."; });
+    if (hh.length) $("goHard").addEventListener("click", function () { setMode("hard"); });
+    $("foot").textContent = "Your progress is saved on this phone and browser only.";
+  }
+
+  function markKnown() {
+    var id = cur(); if (id === null) return;
+    rate(id, true);
+    queue.splice(qi % queue.length, 1);
+    if (qi >= queue.length) qi = 0;
+    if (!queue.length && mode === "cards") buildQueue();
+    render();
+  }
+  function markHard() {
+    var id = cur(); if (id === null) return;
+    rate(id, false);
+    var at = qi % queue.length;
+    queue.splice(at, 1);
+    var ins = Math.min(at + 6, queue.length);
+    queue.splice(ins, 0, id);
+    if (qi >= queue.length) qi = 0;
+    render();
+  }
+  function step(d) {
+    if (!queue.length) return;
+    qi = (qi + d + queue.length) % queue.length;
+    quizState = null; render();
+  }
+  function shuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function blankTok(w) { var m = w.en.match(wordRe(w.w)); return m ? m[1] : null; }
+  function newQuiz(id) {
+    var w = words[id], r = Math.random(), type = "listen", tok = blankTok(w);
+    if (r < 0.34) type = "mc"; else if (r < 0.67 && tok) type = "fill";
+    var st = { type: type, answered: false, correct: false };
+    if (type === "mc") {
+      var opts = [id], tries = 0;
+      var isAd = !!adultSet[id];
+      while (opts.length < 4 && tries < 400) { tries++; var j = Math.floor(Math.random() * words.length); if (opts.indexOf(j) < 0 && words[j].w !== w.w && words[j].ua !== w.ua && !!adultSet[j] === isAd) opts.push(j); }
+      st.opts = shuffle(opts);
+    }
+    if (type === "fill") st.tok = tok;
+    return st;
+  }
+  function quizFinish(id, ok, chosen) {
+    quizState.answered = true; quizState.correct = ok; quizState.chosen = chosen;
+    if (ok) score.right++; else { score.wrong++; rate(id, false); }
+    render();
+  }
+  function quizCheck() {
+    var id = cur(); if (id === null || !quizState) return;
+    var norm = function (t) { return t.toLowerCase().replace(/[,;.!?]+/g, " ").replace(/\s+/g, " ").trim(); };
+    var v = norm($("answer").value || "");
+    var near = function (a, b) { if (!a || !b) return false; var lim = b.length >= 9 ? 2 : (b.length >= 5 ? 1 : 0); if (lim === 0) return a === b; var d = [], i, j; for (i = 0; i <= a.length; i++) d[i] = [i]; for (j = 0; j <= b.length; j++) d[0][j] = j; for (i = 1; i <= a.length; i++) for (j = 1; j <= b.length; j++) d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); return d[a.length][b.length] <= lim; };
+    var ok = near(v, norm(words[id].w)) || (quizState.tok && near(v, norm(quizState.tok)));
+    quizFinish(id, !!ok);
+  }
+  function quizChoose(j) {
+    var id = cur(); if (id === null || !quizState || quizState.answered) return;
+    quizFinish(id, j === id, j);
+  }
+  function quizNext() {
+    quizState = null; qi = (qi + 1) % queue.length; render();
+    if (quizState && quizState.type === "listen") setTimeout(function () { play("w", "hearWord"); }, 120);
+  }
+
+  function setMode(m) { mode = m; buildQueue(); render(); }
+
+  $("tab-cards").addEventListener("click", function () { setMode("cards"); });
+  $("tab-quiz").addEventListener("click", function () { setMode("quiz"); });
+  $("tab-hard").addEventListener("click", function () { setMode("hard"); });
+  $("tab-progress").addEventListener("click", function () { setMode("progress"); });
+  $("hearWord").addEventListener("click", function () { play("w", "hearWord"); });
+  $("hearSent").addEventListener("click", function () { play("s", "hearSent"); });
+  $("back").addEventListener("click", function () { step(-1); });
+  $("skip").addEventListener("click", function () { step(1); });
+  $("toggleUa").addEventListener("click", function () { hideUa = !hideUa; render(); });
+  $("reset").addEventListener("click", function () {
+    if (this.getAttribute("data-sure") === "1") {
+      known = {}; hard = {}; srs = {}; streak = { last: "", n: 0 }; dayRec = { d: today(), c: 0, x: 0, r: 0 }; save(); score = { right: 0, wrong: 0 };
+      this.innerHTML = 'Reset my progress<span class="bl">Скинути прогрес</span>'; this.removeAttribute("data-sure");
+      buildQueue(); render();
+    } else {
+      this.setAttribute("data-sure", "1"); this.innerHTML = 'Tap again to erase all progress<span class="bl">Натисни ще раз, щоб стерти прогрес</span>';
+      var b = this; setTimeout(function () { b.innerHTML = 'Reset my progress<span class="bl">Скинути прогрес</span>'; b.removeAttribute("data-sure"); }, 4000);
+    }
+  });
+
+  var fitting = false;
+  function fitWords() {
+    if (fitting) return; fitting = true;
+    try {
+      var cardEl = $("card"), cs = getComputedStyle(cardEl);
+      var avail = cardEl.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+      var els = document.querySelectorAll("#card .word, #card p.ua");
+      Array.prototype.forEach.call(els, function (el) {
+        el.style.fontSize = ""; el.style.maxWidth = "100%"; el.style.whiteSpace = /\s/.test(el.textContent.trim()) ? "normal" : "nowrap";
+        var size = parseFloat(getComputedStyle(el).fontSize);
+        while (el.scrollWidth > avail + 1 && size > 16) { size -= 1; el.style.fontSize = size + "px"; }
+      });
+    } catch (e) {}
+    fitting = false;
+  }
+  try { new MutationObserver(fitWords).observe($("card"), { childList: true }); } catch (e) {}
+  window.addEventListener("resize", fitWords);
+  try { if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitWords); } catch (e) {}
+
+  fetch("data/words.json").then(function (r) { return r.json(); }).then(function (d) {
+    words = d.words; CH = d.chunk || 26;
+    return fetch("data/order.json").then(function (r) { return r.ok ? r.json() : null; }).catch(function () { return null; }).then(function (o) {
+      if (o && o.order) { order = o.order.filter(function (i) { return i < words.length; }); MOD = o.module || 1000; }
+      if (o && o.groups) groups = o.groups.map(function (gr) { return { name: gr.name, ua: gr.ua, adult: !!gr.adult, ids: gr.ids.filter(function (i) { return i < words.length; }) }; }).filter(function (gr) { return gr.ids.length; });
+      groups.forEach(function (gr) { if (gr.adult) gr.ids.forEach(function (i) { adultSet[i] = 1; }); });
+      var ms = String(moduleSel);
+      if (ms.charAt(0) === "g") { var gg = groups[parseInt(ms.slice(1), 10)]; if (!gg || (gg.adult && !adultOk)) moduleSel = "0"; }
+      else if (ms !== "0" && (!order || (parseInt(ms, 10) - 1) * MOD >= order.length)) moduleSel = "0";
+    });
+  }).then(function () {
+    buildQueue(); render();
+    if (queue.length) loadChunk(chunkOf(queue[0])).catch(function () {});
+  }).catch(function () {
+    $("card").innerHTML = '<p class="empty">The word list could not load. Check the internet connection and reload.</p>';
+  });
+})();
+</script>
+
+</body></html>
