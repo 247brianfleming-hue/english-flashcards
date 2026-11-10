@@ -1,7 +1,7 @@
 // Sunflower English - offline cache.
 // Caches the app shell, word list and ALL audio clips on first install,
 // then serves them from the phone or PC when there is no internet.
-const CACHE = "sunflower-english-v2";
+const CACHE = "sunflower-english-v3";
 const SHELL = [
   "./", "./index.html", "./manifest.json", "./data/words.json", "./data/order.json",
   // Every audio chunk, so the whole course works offline.
