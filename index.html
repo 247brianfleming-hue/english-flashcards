@@ -144,6 +144,8 @@ input[type="text"] { font: inherit; font-size: 1.3rem; text-align: center; width
 .chip.good { background: var(--ok-soft); color: var(--ok); }
 .chip.bad { background: var(--warn-soft); color: var(--warn); }
 .empty { color: var(--muted); font-size: 1.15rem; line-height: 1.6; max-width: 34ch; }
+.pic { width: 100%; max-width: 320px; aspect-ratio: 4 / 3; border-radius: 14px; background: var(--soft); color: var(--muted); display: flex; align-items: center; justify-content: center; font-size: .95rem; font-weight: 600; }
+#card { cursor: pointer; }
 /* Phone: no double-tap zoom, and the whole app fits one screen */
 body, button, .tabs button { touch-action: manipulation; }
 @media (max-width: 600px) {
@@ -160,6 +162,7 @@ body, button, .tabs button { touch-action: manipulation; }
   .en { font-size: 1.1rem; line-height: 1.45; }
   .uk { font-size: 1rem; line-height: 1.45; }
   .sent { line-height: 1.45; }
+  .pic { max-height: 150px; }
   button { padding: 9px 8px; font-size: .95rem; }
   .audio button { padding: 8px 6px; }
   .small { padding: 7px 4px; font-size: .84rem; }
@@ -356,11 +359,13 @@ var TIPS = [{"en": "Articles: English has a and the. Ukrainian has no articles. 
     $("tab-hard").innerHTML = "Hard" + (hc ? " (" + hc + ")" : "") + '<span class="bl">Складні</span>';
   }
 
+  var flipped = false, lastCardId = null;
   function render() {
     applyLabels();
     renderStats();
     ["cards", "quiz", "hard", "progress"].forEach(function (m) { $("tab-" + m).setAttribute("aria-selected", m === mode ? "true" : "false"); });
     var card = $("card"), actions = $("actions");
+    card.onclick = null;
     var showStudy = mode !== "progress";
     $("audioRow").hidden = !showStudy; $("navRow").hidden = !showStudy; actions.hidden = !showStudy;
     if (mode === "progress") { renderProgress(); return; }
@@ -426,16 +431,30 @@ var TIPS = [{"en": "Articles: English has a and the. Ukrainian has no articles. 
       $("foot").textContent = "Right · Правильно: " + score.right + "   Wrong · Неправильно: " + score.wrong;
       return;
     }
-    card.innerHTML =
-      (hard[id] ? '<span class="tag">Still hard</span>' : '<span class="pos">' + (mode === "hard" ? "Hard word" : "Word " + (id + 1)) + "</span>") +
-      (adultSet[id] ? '<span class="tag">18+ · Understand it, don\'t use it · Розумійте, але не вживайте</span>' : "") +
-      '<p class="word">' + esc(w.w) + "</p>" +
-      '<p class="ua' + ua + '">' + esc(w.ua) + "</p>" +
-      '<p class="en sent">' + highlight(w.en, w.w) + "</p>" +
-      '<p class="uk sent' + ua + '">' + esc(w.uk) + "</p>";
-    actions.innerHTML = '<div class="grid2"><button type="button" class="hard" id="bHard">Still hard<span class="bl">Ще складно</span></button><button type="button" class="know" id="bKnow">I know it<span class="bl">Я знаю</span></button></div>';
-    $("bHard").addEventListener("click", markHard);
-    $("bKnow").addEventListener("click", markKnown);
+    var tagHtml = (hard[id] ? '<span class="tag">Still hard</span>' : '<span class="pos">' + (mode === "hard" ? "Hard word" : "Word " + (id + 1)) + "</span>") +
+      (adultSet[id] ? '<span class="tag">18+ · Understand it, don\'t use it · Розумійте, але не вживайте</span>' : "");
+    if (lastCardId !== id) { flipped = false; lastCardId = id; }
+    if (!flipped) {
+      // FRONT: picture, English sentence with the word missing. No translation yet.
+      card.innerHTML = tagHtml +
+        '<div class="pic" aria-hidden="true">Picture · Картинка</div>' +
+        '<p class="en sent">' + esc(w.en).replace(wordRe(w.w), '<span class="blank">_____</span>') + "</p>" +
+        '<p class="bl2">Say the full sentence in English, then tap the card. · Скажи повне речення англійською, потім натисни картку.</p>';
+      card.onclick = function () { flipped = true; render(); };
+      actions.innerHTML = '<div class="grid2"><button type="button" class="know" id="bShow" style="grid-column: 1 / -1">Show answer<span class="bl">Показати відповідь</span></button></div>';
+      $("bShow").addEventListener("click", function () { flipped = true; render(); });
+    } else {
+      // BACK: the word, translation and full correct sentence.
+      card.innerHTML = tagHtml +
+        '<p class="word">' + esc(w.w) + "</p>" +
+        '<p class="ua' + ua + '">' + esc(w.ua) + "</p>" +
+        '<p class="en sent">' + highlight(w.en, w.w) + "</p>" +
+        '<p class="uk sent' + ua + '">' + esc(w.uk) + "</p>";
+      card.onclick = function () { flipped = false; render(); };
+      actions.innerHTML = '<div class="grid2"><button type="button" class="hard" id="bHard">Still hard<span class="bl">Ще складно</span></button><button type="button" class="know" id="bKnow">I know it<span class="bl">Я знаю</span></button></div>';
+      $("bHard").addEventListener("click", markHard);
+      $("bKnow").addEventListener("click", markKnown);
+    }
     $("foot").textContent = queue.length + " cards left · карток залишилось: " + queue.length + ". Say the sentence out loud, then try a new one with the word.";
   }
 
