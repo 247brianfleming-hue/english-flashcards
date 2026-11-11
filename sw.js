@@ -1,7 +1,7 @@
 // Sunflower English - offline cache.
 // Caches the app shell, word list and ALL audio clips on first install,
 // then serves them from the phone or PC when there is no internet.
-const CACHE = "sunflower-english-v6";
+const CACHE = "sunflower-english-v7";
 const SHELL = [
   "./", "./index.html", "./manifest.json", "./data/words.json", "./data/order.json",
   // Every audio chunk, so the whole course works offline.
@@ -51,18 +51,17 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
+  // Network first: when online, the newest app, pictures and word order load on reload.
+  // Cache is used only when there is no internet.
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request)
-        .then((response) => {
-          if (response.ok) {
-            const copy = response.clone();
-            caches.open(CACHE).then((cache) => cache.put(event.request, copy));
-          }
-          return response;
-        })
-        .catch(() => caches.match("./index.html"));
-    })
+    fetch(event.request)
+      .then((response) => {
+        if (response.ok) {
+          const copy = response.clone();
+          caches.open(CACHE).then((cache) => cache.put(event.request, copy));
+        }
+        return response;
+      })
+      .catch(() => caches.match(event.request).then((cached) => cached || caches.match("./index.html")))
   );
 });
